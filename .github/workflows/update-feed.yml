@@ -1,0 +1,35 @@
+name: Update pulse feed
+
+on:
+  schedule:
+    # Monday and Thursday, 13:00 UTC (~8am US Central)
+    - cron: "0 13 * * 1,4"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update feed
+        env:
+          # Optional: add ANTHROPIC_API_KEY as a repo secret for LLM-polished
+          # titles. The heuristic pipeline runs without it.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 scripts/update_feed.py
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet pulse.json; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "pulse-bot"
+          git config user.email "actions@github.com"
+          git add pulse.json
+          git commit -m "Update pulse feed ($(date -u +%Y-%m-%d))"
+          git push

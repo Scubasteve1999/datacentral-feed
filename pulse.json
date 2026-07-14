@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-14T02:48:48Z",
+  "updated": "2026-07-14T02:49:32Z",
   "events": [
     {
       "id": "891366950b6b3d53",
@@ -16,6 +16,60 @@
       "facilityId": null,
       "sourceName": "Tech in Asia",
       "sourceURL": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15b3FrMG1CSW9vZHl3WXE3aVNzbm5JakZaSjZvbzNBLTFhSWxPNE5IRUIzOFpNOFJldHpQVlBRSm4tMVFTaHVfMXJIbEZvZ2FBXzQyaDNxblI2bmg3WFl1NGFxQkZDNV93X2hJX1JYSW43SE40blJoQ3BmOUNxUQ?oc=5"
+    },
+    {
+      "id": "9631884f7ff3a864",
+      "date": "2026-07-13",
+      "kind": "announcement",
+      "title": "EdgeMode enters non-binding offer for 300 MW data center sale",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 300.0,
+      "facilityId": null,
+      "sourceName": "Investing.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGt0U3BsbWZMenFsWkJyV2dTS05MX1hXcTl2Tmxqcmt5ejNIamNpMkJCLUhkZnFQc0RORHlnWGFKb2dOZnJ1LTdWcFVuU201bmx0Y0dkRHU2MkI3Q1lPMEo4T2FaZmNTemdKci05MzkyVG1fZzZQQWFqQXUyVVlScDNhcGJFRmxVNVZjRTROS1V5OXNyNEZKT2oybFFDanJMTnZKLTkteE5sb2dRcWkzSFo5WnhFYW95?oc=5"
+    },
+    {
+      "id": "2dd9173fe710f95a",
+      "date": "2026-07-13",
+      "kind": "announcement",
+      "title": "HCLTech to invest Rs 3,500 crore in AI data centre business, targets 50 MW capacity",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 50.0,
+      "facilityId": null,
+      "sourceName": "The New Indian Express",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ1lYeG5rMWxCSFVaVHQ2TmhCckJFQjNMV3JwUDRDcnBTMWdwVkk4VlpxdXJNTklRT1pkeWNTc1JSX2R2a1ZwRDNMZWlYZjExeXFsaVIxYUhxYXY4QXVVNlMxQVZmeU5YVVYzZHM0c2FrNVpYemNwQTFkdnd4VzZ6OGswb0ZEck9naHFLQXNZTm5TNXp3WUtSVEVSZlFpa2ZCVDE5ZWZqWmNVZVYxZ3pOY2ZXbzdIaGE5ZzNBZDBPbHFyN2EtNklqWVIwSXNnZUJS0gHeAUFVX3lxTE5BeW9rR2w5ZWlkb1NEb3pCMW5ZV3pXOEQ1R09RalF6dUtrYWhVWkwyUk1WeExyajNBdFZoLVRhYzRjMUZpTzNLVzlDc0luNWM0WHdvM3praWRUYzhkb01QQzJ4UGNxSVB6XzBKU2FCcURqdkg3dkFGVURhaUE4aGNfZXJjeUFrSHBQRTJVa2h5M0s2ZUcwNE9fdnRNeWd0VkpEX1pQUUNWdDdqaEVJSUs0LXFCVG9YcDRTY0U3VEFETXdzb3pGWkcwT0h3bUlQNEx2cF8wd0NyNndWNjU3Zw?oc=5"
+    },
+    {
+      "id": "9943bd21aed6b194",
+      "date": "2026-07-13",
+      "kind": "announcement",
+      "title": "Mindstream Energy proposes 400MW gas-powered data center in Jordanian gas field",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 400.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/mindstream-energy-proposes-400mw-gas-powered-data-center-in-jordanian-gas-field/"
+    },
+    {
+      "id": "3071d916754351ec",
+      "date": "2026-07-13",
+      "kind": "announcement",
+      "title": "Global Stack pitches Edge data center at rodeo-focused indoor arena in California",
+      "detail": "",
+      "builders": [
+        "Stack"
+      ],
+      "stateCode": "CA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/global-stack-pitches-edge-data-center-at-rodeo-focused-indoor-arena-in-california/"
     },
     {
       "id": "21ebb07f4ee6ec51",
@@ -87,6 +141,34 @@
       "facilityId": null,
       "sourceName": "dailyjournal.net",
       "sourceURL": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc21GZU5DbW0xRDdGLURFN19HVUZuYUlsTXFHZ0d3SkNzUW50OFY1MWlEZGwtNW9CeEJ5YVBfTmdjcHFpaDJUeEstN19Ca3N3UnVJUlNRSnBZWF9jRmdnOWpGU2U2aDhxS0xaXzlYc1JmbFZ4RTJ3YUJFOFo3SVFLeDlRMWhYenBTdTRLTVVlVVBtRE1kZldUc3JWZWNZb1dodVZoQTBLTllSUUlyZlRNdXlLMzFtZw?oc=5"
+    },
+    {
+      "id": "ed6407a4f4bcd5d2",
+      "date": "2026-07-10",
+      "kind": "grid",
+      "title": "Baker Hughes gas turbines to support up to 1.8 GW of behind-the-meter data center power",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 1800.0,
+      "facilityId": null,
+      "sourceName": "power-eng.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUjhZbGJ5MUhWSEVIY3hINzBTUnVkRzZuQldOSy1TUVY2VFRiVVExaENvbzlPV19TSDAzMzg2dmEyOERXRlZULTRmcUIyUmNwTXlTbUJmZGZ3OERsQktQUXdQUkgwbEg3SXlfTjFPcGpyeXpTU2ttZHczWDhSZng4XzJiWF9PNjlMVkJRS08yUHNlWUJTWTdiYkQwWmJfZ3FEVzhfRTA1dVR5RzZlSl9rNk1ISm1qY2F5RXI2aTF1eXhROWowNVE?oc=5"
+    },
+    {
+      "id": "04f5fe487a1dbbdc",
+      "date": "2026-07-07",
+      "kind": "announcement",
+      "title": "Oracle does damage control after New Mexico data center backlash",
+      "detail": "",
+      "builders": [
+        "Oracle"
+      ],
+      "stateCode": "NM",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Fierce Network",
+      "sourceURL": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdy1UWjB2aG1BODRBZHBtTEVSQ2ZnTS1YZmdjTGxpYXVaQ2oxY1N3MFNoMnRfbUtDOGFBOUxNVjN5UUItSEtsYVNMZS1NUTNrMUpibFAtd1dRM3JNLUkwZU9zekxfcTZFNlh4R3Z6Ny1VTm80Zlg3NjlxcjBTWkcxbTFzal9QSTFNRUNzUDhJeG0ycXo2MGdtTw?oc=5"
     }
   ]
 }

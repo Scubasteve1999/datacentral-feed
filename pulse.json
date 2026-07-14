@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-14T03:02:15Z",
+  "updated": "2026-07-14T03:03:30Z",
   "events": [
     {
       "id": "891366950b6b3d53",
@@ -16,6 +16,19 @@
       "facilityId": null,
       "sourceName": "Tech in Asia",
       "sourceURL": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15b3FrMG1CSW9vZHl3WXE3aVNzbm5JakZaSjZvbzNBLTFhSWxPNE5IRUIzOFpNOFJldHpQVlBRSm4tMVFTaHVfMXJIbEZvZ2FBXzQyaDNxblI2bmg3WFl1NGFxQkZDNV93X2hJX1JYSW43SE40blJoQ3BmOUNxUQ?oc=5"
+    },
+    {
+      "id": "9ae2916093b1f2b2",
+      "date": "2026-07-13",
+      "kind": "policy",
+      "title": "Data center plans submitted in Mifflin County, PA ahead of moratorium vote",
+      "detail": "A data center proposal was submitted in Mifflin County, Pennsylvania just two days before a local moratorium vote.",
+      "builders": [],
+      "stateCode": "PA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-submitted-in-mifflin-county-pennsylvania-just-two-days-before-local-moratorium-vote/"
     },
     {
       "id": "071a1a8a2620c94e",
@@ -223,6 +236,76 @@
       "facilityId": null,
       "sourceName": "dailyjournal.net",
       "sourceURL": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc21GZU5DbW0xRDdGLURFN19HVUZuYUlsTXFHZ0d3SkNzUW50OFY1MWlEZGwtNW9CeEJ5YVBfTmdjcHFpaDJUeEstN19Ca3N3UnVJUlNRSnBZWF9jRmdnOWpGU2U2aDhxS0xaXzlYc1JmbFZ4RTJ3YUJFOFo3SVFLeDlRMWhYenBTdTRLTVVlVVBtRE1kZldUc3JWZWNZb1dodVZoQTBLTllSUUlyZlRNdXlLMzFtZw?oc=5"
+    },
+    {
+      "id": "d193c1c056655b2e",
+      "date": "2026-07-12",
+      "kind": "announcement",
+      "title": "OpenAI and SoftBank's $100B Stargate AI project stalls",
+      "detail": "The $100 billion Stargate AI project between OpenAI and SoftBank has encountered delays.",
+      "builders": [
+        "OpenAI",
+        "SoftBank"
+      ],
+      "stateCode": null,
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "TechRepublic",
+      "sourceURL": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODN6UWFnMXFIZVE0ZzVEQ3lfYVNKNFRwM01VRmtoTEN2ek9XTExZbUhkY2YwQXpySXg0QkZfOEhRYzFHbEFhWkpsVi1GYXpGV2JJZWNUUDU3VElBY0JsN05JYzgtQWYwQXF5Rm9wRm9xdVRlUnBjSU1BaXVRdzhOQm8wZw?oc=5"
+    },
+    {
+      "id": "13b93fdaf7b629e1",
+      "date": "2026-07-11",
+      "kind": "grid",
+      "title": "Virginia data center fire during heat wave strains power grid",
+      "detail": "A Virginia data center emitted dark smoke during a heat wave that pushed the power grid to near capacity limits.",
+      "builders": [],
+      "stateCode": "VA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Business Insider",
+      "sourceURL": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUZwNEdTOWVzWlkybG12VG1RNDFzd0QzZ0hHSmVBWHE0Rjk1TUExR05DMjNiSDNUYzY5QlptTGlWSHI2STQtakdsYTdCR0lUNjk3Sm5Ma00xTUZOWGgtdTh4VHF2RV8xQ1NSUU1RZVJIUFQ4UlN5X0paUWpxX1BmRUl2WDRWZVdta1E0MHBGamZnNWlQZUN1UWhUWnJsZw?oc=5"
+    },
+    {
+      "id": "a0025ccd5fbe4240",
+      "date": "2026-07-10",
+      "kind": "policy",
+      "title": "North Carolina ends data center power tax break, keeps capital incentives",
+      "detail": "North Carolina eliminated its data center power tax exemption while maintaining other capital investment incentives.",
+      "builders": [],
+      "stateCode": "NC",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterknowledge.com/regulations/nc-ends-data-center-power-tax-break-keeps-capital-incentives"
+    },
+    {
+      "id": "4fdc2446d7364282",
+      "date": "2026-07-10",
+      "kind": "announcement",
+      "title": "Crusoe expands data center AI competition beyond GPUs",
+      "detail": "Crusoe is positioning itself to compete in AI data centers with alternatives to GPU-based solutions.",
+      "builders": [
+        "Crusoe"
+      ],
+      "stateCode": null,
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterknowledge.com/next-gen-data-centers/crusoe-pushes-data-center-competition-beyond-gpus"
+    },
+    {
+      "id": "ad095f5ff4229ed5",
+      "date": "2026-07-10",
+      "kind": "policy",
+      "title": "Decimal Digital pursues transparency strategy to win over Ohio community",
+      "detail": "Decimal Digital is using a transparency-focused approach to gain local support for its AI data center project in Ohio.",
+      "builders": [],
+      "stateCode": "OH",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterknowledge.com/data-center-site-selection/can-transparency-become-an-ai-data-center-advantage-"
     },
     {
       "id": "ed6407a4f4bcd5d2",

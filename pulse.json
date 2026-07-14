@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-07-14T02:49:32Z",
+  "updated": "2026-07-14T03:02:15Z",
   "events": [
     {
       "id": "891366950b6b3d53",
@@ -16,6 +16,88 @@
       "facilityId": null,
       "sourceName": "Tech in Asia",
       "sourceURL": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15b3FrMG1CSW9vZHl3WXE3aVNzbm5JakZaSjZvbzNBLTFhSWxPNE5IRUIzOFpNOFJldHpQVlBRSm4tMVFTaHVfMXJIbEZvZ2FBXzQyaDNxblI2bmg3WFl1NGFxQkZDNV93X2hJX1JYSW43SE40blJoQ3BmOUNxUQ?oc=5"
+    },
+    {
+      "id": "071a1a8a2620c94e",
+      "date": "2026-07-13",
+      "kind": "announcement",
+      "title": "How big will the Richland Parish data center be? Meta will expand AI center",
+      "detail": "",
+      "builders": [
+        "Meta"
+      ],
+      "stateCode": null,
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Shreveport Times",
+      "sourceURL": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPMHdvbGl6OV9YNFkwbl82TGxYRm5BdFdXaFY2TGRUaENfNTZfOVVvUnJ3VHJndkoyNmtfTE1ab2k1X2pwQzdjc0NnVkxWR2dKbDVEMFBQZGF2RDU0c1RMNU1CTzFYcjhLbW1VLWU3Z2c0NndmelNGcU1fR1poc2JMMG1fdFZpQ1I3WXhSdGxmTVd6ZmJkdVNaRjVZc2xSYTJnTGpMUGg2YWlLTnlLV0lfSTl0eGJzUjFwUU5qaVVuaHJoODR3Y3JJN3ZrY2x6bGdic3Y0NjRrRTJYSl83ZDN3WHBWNWt1N1dNUUZycHBueC1hMjdPSVZ1c2dueFJ6ZjcxdUZDbVhheGVOSVdJMXhQYVpHR1VldjQ?oc=5"
+    },
+    {
+      "id": "5f8c4df98093f1eb",
+      "date": "2026-07-13",
+      "kind": "announcement",
+      "title": "Live Near a Noisy xAI Data Center? How About Half Off Starlink Satellite Internet?",
+      "detail": "",
+      "builders": [
+        "xAI"
+      ],
+      "stateCode": null,
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "PCMag",
+      "sourceURL": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGdPUUY1ZU5mY2wybnNoMnk4THkwRW5jUEdWTklxRWlXbGx4dnVWWXB2RmNGcmpiRm1ibGphVndzblBycGMxM2dVTkZwVnIza0RMTzV4cnQ2Y0pEeUpBdXpKalVrc1NYb0ROS2lObEhHZmQ2MlFkWkQxN3NxZ2FnZ2VvWjgwbklxTzJsYjc3c0RRQzBxam5MZG1CVFk4Mmc?oc=5"
+    },
+    {
+      "id": "a7b39195fab8348b",
+      "date": "2026-07-13",
+      "kind": "announcement",
+      "title": "Georgia family says they're forced to sell home to help power AI data centers: \"It's theft\"",
+      "detail": "",
+      "builders": [],
+      "stateCode": "GA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "CBS News",
+      "sourceURL": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vQTF0V1VadV9EdmRFOV8zM0JfZ1djRXZxRXRXVy1TamdveE1fcjVhWjdtRzA3T0Y0Z0VKUVdRRHEtYVB1cDZULUkyUDJ2a1FkV3BOZWFhcUdkTTlQMzVqZjNpVEpGaUxaVVhHaGJqWnZ5RG0ycXQ4aDlTODNlRzg?oc=5"
+    },
+    {
+      "id": "02208b18c5c32de8",
+      "date": "2026-07-13",
+      "kind": "announcement",
+      "title": "County officials deny application for 2,000-acre data center campus in Virginia",
+      "detail": "",
+      "builders": [],
+      "stateCode": "VA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/county-officials-deny-application-for-2000-acre-data-center-campus-in-virginia/"
+    },
+    {
+      "id": "97dab7c82e9873ae",
+      "date": "2026-07-13",
+      "kind": "announcement",
+      "title": "TA Realty buys data center-zoned land in Sterling, Virginia",
+      "detail": "",
+      "builders": [],
+      "stateCode": "VA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/ta-realty-buys-data-center-zoned-land-in-sterling-virginia/"
+    },
+    {
+      "id": "772dd34f4d8af35d",
+      "date": "2026-07-13",
+      "kind": "announcement",
+      "title": "Nebraska carbon black plant set to host data center",
+      "detail": "",
+      "builders": [],
+      "stateCode": "NE",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/nebraska-carbon-black-plant-set-to-host-data-center/"
     },
     {
       "id": "9631884f7ff3a864",

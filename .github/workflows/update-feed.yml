@@ -17,9 +17,9 @@ jobs:
 
       - name: Update feed
         env:
-          # Optional: add ANTHROPIC_API_KEY as a repo secret for LLM-polished
-          # titles. The heuristic pipeline runs without it.
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Optional: an Anthropic API key enables LLM-polished titles.
+          # Accepts either secret name; heuristics run without one.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY || secrets.DATACENTRAL }}
         run: python3 scripts/update_feed.py
 
       - name: Commit if changed

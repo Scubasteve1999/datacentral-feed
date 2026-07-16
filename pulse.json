@@ -1,7 +1,96 @@
 {
   "version": 1,
-  "updated": "2026-07-14T03:03:30Z",
+  "updated": "2026-07-16T14:51:23Z",
   "events": [
+    {
+      "id": "5ebd0d5a16ee7565",
+      "date": "2026-07-16",
+      "kind": "announcement",
+      "title": "Crusoe exploring 100 MW data center in Franklin County, Virginia",
+      "detail": "Crusoe is linked to a potential data center project in Franklin County, Virginia.",
+      "builders": [
+        "Crusoe"
+      ],
+      "stateCode": "VA",
+      "mw": 100.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/crusoe-linked-to-potential-data-center-project-in-franklin-county-virginia/"
+    },
+    {
+      "id": "88534b945d76729e",
+      "date": "2026-07-16",
+      "kind": "announcement",
+      "title": "Prologis files plans for 99 MW data center in South San Jose, California",
+      "detail": "Prologis filed plans for a 516,000-square-foot, 99-megawatt data center in South San Jose.",
+      "builders": [
+        "Prologis"
+      ],
+      "stateCode": "CA",
+      "mw": 99.0,
+      "facilityId": null,
+      "sourceName": "MarketScale",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaWVMRHhNWjRPSWdFOUV0ZnVFMGFDRDd0M1U5dmdWal9ra2I2bFcyd3FON0N6eEM1UE1xQWQ0Z1dLbHY3NzNyaFA4T0t2MDVqRzRsaGNTWFd4WlFwalhWaXRXck9MZEFybE5DQ0VrMWxCNFlDRVJQMExOUE5idUZQcWt0cjBsWl9QZ1lfeGctaVlmUDg5UjlYNC1rZE42ZXFwMDB3TF9nVER6R1Z0eHBVQjJCYkwzZzZCMWstQkhfT0x3Y2ZWODI2ZEZ5ME5GQVVJcHEwWDlnRnhhMkthU2ZJMw?oc=5"
+    },
+    {
+      "id": "6870716c67d6037c",
+      "date": "2026-07-15",
+      "kind": "announcement",
+      "title": "Crusoe and Lancium announce 1 GW AI data center campus in Texas",
+      "detail": "Crusoe and Lancium announced a 1.0 gigawatt AI data center campus in Childress, Texas.",
+      "builders": [
+        "Crusoe",
+        "Lancium"
+      ],
+      "stateCode": "TX",
+      "mw": 1000.0,
+      "facilityId": null,
+      "sourceName": "Crusoe",
+      "sourceURL": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZnVObWt2czZJdDlvOGdfSWxRS0hRTFZUOWU0M0Z0cVBnRGEyMjhVazFqSGtIU0pCWVdhQmkzdWtsTlpURnRlRDk0azcyQldXMGpXbXZKeGtyaUEwZ1k4WEZENnRsd1RPTllta3dycFRvc1lnOUVCeElsTVQ5N19QalJ6d2JsQlM2MVNtdzZfWXVwNHg2d2E1OFM5alV6bEZQa0drMFozSXZSaGdQVC01d3ZTVC1JOHc3TVZKNw?oc=5"
+    },
+    {
+      "id": "8e6e15d6bc620339",
+      "date": "2026-07-15",
+      "kind": "announcement",
+      "title": "Crusoe to develop 1.4 GW data center campus in Childress, Texas",
+      "detail": "Crusoe is developing a 1.4 gigawatt data center campus in Childress, Texas.",
+      "builders": [
+        "Crusoe"
+      ],
+      "stateCode": "TX",
+      "mw": 1400.0,
+      "facilityId": null,
+      "sourceName": "Data Center Dynamics",
+      "sourceURL": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVFNZEZSS1pNWHlwb2NqdWdZenRpZzRTZnE4MkJTRTZmU09ab2hFU2FkQ09BLTBoUUY5Yk9USTdibjNhcUF3c29YRUFDd3l6ZjZOb1pTelRXS3MyWnpHcFdMc1pRdUhrNnE4VXB6RmgwY1RUQU16NFJocWs1ckZTWW5Qd09CLVdvMFhvLXNUcC0tcUh4eWI1R1RycUdVUGNOUmlCcXQybw?oc=5"
+    },
+    {
+      "id": "004560fe842d642e",
+      "date": "2026-07-14",
+      "kind": "announcement",
+      "title": "Google is customer for 2.7 GW data center campus near Cheyenne, Wyoming",
+      "detail": "Google is the customer behind a 2.7 gigawatt data center campus near Cheyenne, Wyoming.",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": "WY",
+      "mw": 2700.0,
+      "facilityId": null,
+      "sourceName": "Data Center Dynamics",
+      "sourceURL": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZmRKd3hhSldYcTBWUndmNkJvajNuNTRiUXIxNnUyWVl2WUc5MjF2VWdqUUV1Q3o3R3VWUTBkLWlGaVN3ZTNRSTlRQzl2a1Z3SERxMEM5TWN5Z1QzSkRWVWpVMndXQUFlZkZqbUFBT3kzZjZjLVVGaGlrcUtZaGNRRkZCQ3FDS2VtMjNXNzA5OGNMQVhFOEM0MVBLRjd3anR5Z1gyUEd1aW9zNC1QXzJFdUdEb3lxQQ?oc=5"
+    },
+    {
+      "id": "562edb1279a0b2da",
+      "date": "2026-07-14",
+      "kind": "policy",
+      "title": "New York pauses data center projects over 50 MW",
+      "detail": "New York State has implemented a moratorium pausing data center projects over 50 megawatts.",
+      "builders": [],
+      "stateCode": "NY",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Data Center Knowledge",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT3VvLWwtR3MxUVhXYS1FeGlqYlgzb0h3N2dQM2VFUndUWmhXcHNONWY4MjZJTFZ6d09IUHV0VFF1MkpLUDdGLW9JWlJ5Wm1wOTBVSGxLTWJkTzNfSl9kbm9JUmFMa0NRTkh3b2hWdnhLajBfTjlvc3pMRlRzMEkwRzF2el9icjRkMkFKZXp5NnhuZWU0WkVlOVJPaHFHWjN6N0xmb0wwY2hCWU1CVDFjd2ZKUTJYa0RCWHhmUWxEZjR5YzA?oc=5"
+    },
     {
       "id": "891366950b6b3d53",
       "date": "2026-07-14",

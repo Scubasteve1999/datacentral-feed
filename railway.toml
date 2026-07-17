@@ -1,0 +1,8 @@
+[build]
+builder = "RAILPACK"
+
+[deploy]
+startCommand = "python serve.py"
+healthcheckPath = "/pulse.json"
+healthcheckTimeout = 30
+restartPolicyType = "ON_FAILURE"

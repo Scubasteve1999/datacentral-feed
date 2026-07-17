@@ -7,7 +7,13 @@ The app fetches `pulse.json` from:
 https://raw.githubusercontent.com/Scubasteve1999/datacentral-feed/main/pulse.json
 ```
 
+Optionally the same file is served from Railway (static Python server in
+`serve.py`) after deploy — useful if you want a stable CDN-style URL and CORS
+headers. Prefer the Railway public domain once it is provisioned; GitHub raw
+remains the zero-ops fallback.
+
 Editing `pulse.json` on `main` updates every install — no App Store release needed.
+Railway redeploys automatically on push when the GitHub service is connected.
 
 ## How it stays fresh (automated)
 

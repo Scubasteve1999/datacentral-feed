@@ -1,0 +1,2 @@
+# Runtime uses Python stdlib only (see serve.py).
+# File present so Railpack/Nixpacks detect a Python service.

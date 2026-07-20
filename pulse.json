@@ -1,7 +1,84 @@
 {
   "version": 1,
-  "updated": "2026-07-16T14:51:23Z",
+  "updated": "2026-07-20T15:00:28Z",
   "events": [
+    {
+      "id": "dffa2c186c977eb2",
+      "date": "2026-07-20",
+      "kind": "policy",
+      "title": "New Mexico regulators reject natural gas pipeline for Oracle's Project Jupiter",
+      "detail": "New Mexico regulators rejected a natural gas pipeline required for Oracle's 2.5 GW Project Jupiter data center.",
+      "builders": [
+        "Oracle"
+      ],
+      "stateCode": "NM",
+      "mw": 2500.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/new-mexico-regulators-reject-natural-gas-pipeline-for-oracles-25gw-project-jupiter-data-center/"
+    },
+    {
+      "id": "35860d8b7ad89e20",
+      "date": "2026-07-20",
+      "kind": "announcement",
+      "title": "Big Digital Energy and 10NetZero acquire Texas site for 300 MW AI data center",
+      "detail": "Big Digital Energy and 10NetZero closed acquisition of a Texas site for a 300 MW AI data center campus.",
+      "builders": [
+        "Big Digital Energy",
+        "10NetZero"
+      ],
+      "stateCode": "TX",
+      "mw": 300.0,
+      "facilityId": null,
+      "sourceName": "citybiz",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZWxLYUtTOWR0TlBNQXdRSWcyQVgxUzlHNndlWFh6RURqcF9oUkRuVWQzLTNzYlZ0amhQMUF6ZzlwN0o3R05NaGh4cGJqaEVsU1ZuSkJQX3I0Tml2VEJsNlFkYmVQMmFYRVRPWm9fZkFydjdfQUVSVG1VMldvTkY4akxSZ3BGcm13Q0I2bU50T1VTR1pjOGxrYU5fWFFwUV9YOUFTMFRmUlJ5SVBTOUhmc3RVb2ZBUExBczlCQkpwY05MSWU1cFVNLQ?oc=5"
+    },
+    {
+      "id": "5cadf86f3d06a44f",
+      "date": "2026-07-20",
+      "kind": "milestone",
+      "title": "Hut 8 fully commercializes 1 GW Beacon Point AI data center campus",
+      "detail": "Hut 8 fully commercialized its 1 GW Beacon Point AI data center campus with a second 352 MW IT lease.",
+      "builders": [
+        "Hut 8"
+      ],
+      "stateCode": null,
+      "mw": 1000.0,
+      "facilityId": null,
+      "sourceName": "PR Newswire",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNYzZ0WlZvdF9Gai0xZkI4NWtEQUZCSThnd3FnLTdrcnhLcUpzSXJ3UXpwWkc4OTVqX3Y0UmhwY2tISl9yaGpqdmJtMGVpY3l1QXo3MFJFWTB3Wk9zaTNxUXNMdXJmZjNsU1M4REQ5eVhSOW5QODZyMWRQZm9GMTZaNEhsZVI1MjA0TWZvLUlWaVVvXzJtOUtXTzdZdkZiWFRrS0Q0czUzQklVNVdGQUtOb05fNWgzdU92czJBSURMTklhUFJob18wcjZjZndzRmFkYjFIWWJqampXVWRFWDRQUE9FX2ZiVzJiODNab1JETG4tcDdWTWJnNVB2bUM2VU4xU2JHSmx6MWVSQVdWQXVLNmlTMGd3b1ZqWUhkdEd0aDFCc2JNZzFESUU1ZWFkeF84Y25mNzkzX3o?oc=5"
+    },
+    {
+      "id": "cdbc5d2d6377461c",
+      "date": "2026-07-20",
+      "kind": "announcement",
+      "title": "Jane Street weighs 200 MW data center for quantitative trading",
+      "detail": "Jane Street is considering development of a 200 MW data center as quantitative trading becomes increasingly compute-intensive.",
+      "builders": [
+        "Jane Street"
+      ],
+      "stateCode": null,
+      "mw": 200.0,
+      "facilityId": null,
+      "sourceName": "Disruption Banking",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1J5SHd0X1lWbGxmOU95OUFEQWtPYnNqcUhpVFkxSXI2eUE5YVhsc3ZOTFRweG03c0IyTVRjcUdtNVpHVFhCYlp6WTdYU1FjNlhjZjNHdm5aOU9KVVVLbnowamExc3lQUzJiMTdNLWcwTUpuZVRiQXM0VXZkdkF5RVRzcEtnSWs3UkZoMjllbGZxSkgwQktYRGUzTWlMYjFLejI3VVFKSTJnaHhrLW1OYTZRdlBCZVZ6UzFuRXFBVFpZUQ?oc=5"
+    },
+    {
+      "id": "914f657955dcaf54",
+      "date": "2026-07-17",
+      "kind": "announcement",
+      "title": "Crusoe and Lancium partner on 1 GW AI data center campus in Childress, Texas",
+      "detail": "Crusoe and Lancium announced a partnership to develop a 1 GW AI data center campus in Childress, Texas.",
+      "builders": [
+        "Crusoe",
+        "Lancium"
+      ],
+      "stateCode": "TX",
+      "mw": 1000.0,
+      "facilityId": null,
+      "sourceName": "MyHighPlains.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdHAzelFNQ0NXZkF4aVVTSWRCSDBC..."
+    },
     {
       "id": "5ebd0d5a16ee7565",
       "date": "2026-07-16",
@@ -62,6 +139,19 @@
       "facilityId": null,
       "sourceName": "Data Center Dynamics",
       "sourceURL": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVFNZEZSS1pNWHlwb2NqdWdZenRpZzRTZnE4MkJTRTZmU09ab2hFU2FkQ09BLTBoUUY5Yk9USTdibjNhcUF3c29YRUFDd3l6ZjZOb1pTelRXS3MyWnpHcFdMc1pRdUhrNnE4VXB6RmgwY1RUQU16NFJocWs1ckZTWW5Qd09CLVdvMFhvLXNUcC0tcUh4eWI1R1RycUdVUGNOUmlCcXQybw?oc=5"
+    },
+    {
+      "id": "fef104cc5790d8e2",
+      "date": "2026-07-14",
+      "kind": "policy",
+      "title": "New York pauses data center projects over 50 MW",
+      "detail": "New York State implemented a moratorium pausing data center projects exceeding 50 MW.",
+      "builders": [],
+      "stateCode": "NY",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterknowledge.com/data-center-construction/new-york-data-center-moratorium-state-pauses-projects-over-50-mw"
     },
     {
       "id": "004560fe842d642e",

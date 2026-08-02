@@ -33,6 +33,11 @@ SOURCES = [
     GNEWS.format(q="Stargate%20OpenAI%20data%20center"),
     GNEWS.format(q="xAI%20Colossus%20data%20center"),
     GNEWS.format(q="%22AI%20data%20center%22%20grid%20power"),
+    # Ratepayer / legislation recall for the 1.3.0 Your State cards. Without
+    # these the feed catches buildout announcements but not the bills and rate
+    # cases that decide who pays for them.
+    GNEWS.format(q="%22data%20center%22%20(ratepayer%20OR%20%22electric%20bill%22%20OR%20%22rate%20increase%22)"),
+    GNEWS.format(q="%22data%20center%22%20(moratorium%20OR%20legislation%20OR%20%22state%20bill%22)"),
     "https://www.datacenterknowledge.com/rss.xml",
     "https://www.datacenterdynamics.com/rss/",
 ]
@@ -80,9 +85,13 @@ NON_US_RE = re.compile(
 )
 
 KIND_RULES = [
+    # "bill " used to be here and matched "electric bill", pulling ratepayer
+    # stories into policy. Legislative bills are now matched explicitly below.
     ("policy", ["permit", "zoning", "moratorium", "regulat", "ordinance",
                 "lawsuit", "tax break", "legislat", "county approve",
-                "county reject", "city council", "bill "]),
+                "county reject", "city council", "house bill", "senate bill",
+                "state bill", "ratepayer protection", "rate case",
+                "public utilities commission", "public service commission"]),
     ("grid", ["grid", "ercot", "pjm", "miso", "caiso", "substation",
               "transmission", "utility", "power plant", "nuclear",
               "gas turbine", "electricity price", "electric bill",
@@ -95,6 +104,48 @@ KIND_RULES = [
 MW_RE = re.compile(
     r"(\d{1,3}(?:,\d{3})*(?:\.\d+)?)\s*[- ]?(gigawatt|megawatt|gw|mw)\b", re.I
 )
+
+# Legislative bill identifiers: "HB 1500", "S.B. 32", "House Bill 12", "LD 1234",
+# "H.R. 5678". Normalised to a compact "HB 1500" form.
+BILL_RE = re.compile(
+    r"\b("
+    r"(?:H\.?\s?B\.?|S\.?\s?B\.?|A\.?\s?B\.?|H\.?\s?R\.?|S\.?\s?R\.?|L\.?\s?D\.?)"
+    r"\s?\d{1,5}"
+    r"|(?:House|Senate|Assembly)\s+Bill\s+\d{1,5}"
+    r")\b", re.I
+)
+
+# Status vocabulary is deliberately neutral — a bill *advanced* or *stalled*, it
+# never "threatens" or "protects" anything. The app reports what happened; it
+# does not take a side. See docs/RATEPAYER-MVP.md in the DataCentral repo.
+#
+# Real feed content is mostly *regulatory and local* decisions — "regulators
+# reject", "state pauses projects over 50 MW", "county ends a tax break" —
+# not statehouse bills moving through committee. An earlier legislature-only
+# vocabulary matched 0 of the 8 policy events actually in the feed, so these
+# cover both, with verbs that describe the action and nothing more.
+STATUS_RULES = [
+    ("signed", ["signed into law", "signs into law", "governor signed"]),
+    # Stems, so "approve" also catches approves/approved/approval. The "<body>
+    # ok" forms are headline style ("Indiana regulators OK ..."); bare "ok" is
+    # far too loose to use on its own.
+    ("approved", ["passed the", "passes the", "voted to approve", "approve",
+                  "cleared the legislature", "ok'd", "regulators ok",
+                  "commission ok", "council ok", "board ok", "greenlight",
+                  "green-light"]),
+    ("rejected", ["voted down", "reject", "denie", "deny", "defeat", "veto",
+                  "ends ", "ended", "repeal"]),
+    # "moratorium" is deliberately absent: it names a topic, not an action, and
+    # matching it marked "plans submitted ahead of moratorium" as stalled — a
+    # status the story never reported. Omitting beats misreporting.
+    ("stalled", ["stalled", "shelved", "tabled", "postponed", "withdrawn",
+                 "held in committee", "pauses", "paused",
+                 "halts", "halted", "freeze", "delays"]),
+    ("advanced", ["advanced", "advances", "clears committee", "cleared committee",
+                  "moves to the", "sent to the senate", "sent to the house",
+                  "committee approved"]),
+    ("introduced", ["introduced", "filed", "proposed", "unveiled", "submitted"]),
+]
 
 
 def fetch(url, timeout=20):
@@ -147,6 +198,41 @@ def extract_mw(text):
     return round(value, 1)
 
 
+def normalize_bill_id(raw):
+    """'H.B. 1500' / 'House Bill 1500' -> 'HB 1500'."""
+    compact = re.sub(r"[.\s]", "", raw).upper()
+    m = re.match(r"^(HOUSEBILL|SENATEBILL|ASSEMBLYBILL|HB|SB|AB|HR|SR|LD)(\d+)$", compact)
+    if not m:
+        return raw.strip()
+    prefix = {"HOUSEBILL": "HB", "SENATEBILL": "SB", "ASSEMBLYBILL": "AB"}.get(
+        m.group(1), m.group(1)
+    )
+    return f"{prefix} {m.group(2)}"
+
+
+def extract_policy(text):
+    """Bill identifier + neutral status for policy-kind events.
+
+    Returns None when neither is present — an empty object would just be noise
+    the client has to guard against. Both fields are independently optional:
+    a rate-case story has a status and no bill, a bill filing has both.
+    """
+    bill = BILL_RE.search(text)
+    status = None
+    for name, needles in STATUS_RULES:
+        if any(n in text for n in needles):
+            status = name
+            break
+    if not bill and not status:
+        return None
+    payload = {}
+    if bill:
+        payload["billId"] = normalize_bill_id(bill.group(1))
+    if status:
+        payload["status"] = status
+    return payload
+
+
 def extract_state(text):
     for name, code in STATES.items():
         if re.search(r"\b" + re.escape(name) + r"\b", text):
@@ -174,10 +260,11 @@ def split_gnews_title(title):
 def heuristic_event(title, link, desc, date):
     clean_title, source = split_gnews_title(title)
     text = (clean_title + " " + desc).lower()
-    return {
+    kind = classify(text)
+    event = {
         "id": hashlib.sha1(link.encode()).hexdigest()[:16],
         "date": (date or datetime.now(timezone.utc)).strftime("%Y-%m-%d"),
-        "kind": classify(text),
+        "kind": kind,
         "title": clean_title[:140],
         "detail": "",
         "builders": extract_builders(clean_title),
@@ -187,6 +274,14 @@ def heuristic_event(title, link, desc, date):
         "sourceName": source,
         "sourceURL": link,
     }
+    # Only policy events carry this, and only when there is something to carry.
+    # Absent rather than null, so older clients decoding a fixed key set are
+    # unaffected — the field is purely additive.
+    if kind == "policy":
+        policy = extract_policy(text)
+        if policy:
+            event["policy"] = policy
+    return event
 
 
 def llm_polish(events):
@@ -201,8 +296,18 @@ def llm_polish(events):
         "correct `kind` (announcement|milestone|grid|policy), `builders` "
         "(company names), `stateCode` (2-letter US state or null), and `mw` "
         "(number or null) using only information in the item. Keep `id`, "
-        "`date`, `sourceName`, `sourceURL`, `facilityId` unchanged. Return "
-        "ONLY a JSON array with the same length and order.\n\n"
+        "`date`, `sourceName`, `sourceURL`, `facilityId` unchanged.\n\n"
+        "For `kind: \"policy\"` items only, you may set `policy` to an object "
+        "with `billId` (e.g. \"HB 1500\", omit when no bill is named) and/or "
+        "`status`, one of: introduced, advanced, stalled, approved, rejected, "
+        "signed. These cover regulatory and local decisions too — a commission "
+        "rejecting a permit is `rejected`, a state pausing projects is "
+        "`stalled`. Omit the `policy` key entirely when neither is stated. "
+        "Never infer a status that is not reported.\n\n"
+        "Stay neutral and factual throughout. A bill advanced, stalled or "
+        "passed — it never threatens, protects, or saves anything. Do not "
+        "characterise data centers or legislation as good or bad.\n\n"
+        "Return ONLY a JSON array with the same length and order.\n\n"
         + json.dumps(events)
     )
     body = json.dumps({
@@ -234,6 +339,58 @@ def llm_polish(events):
     except Exception as e:  # noqa: BLE001 — LLM polish is best-effort
         print(f"LLM polish skipped: {e}", file=sys.stderr)
     return events
+
+
+def selftest():
+    """`python3 scripts/update_feed.py --selftest` — no network, no writes.
+
+    Pins the policy extraction so a regex tweak can't silently stop populating
+    the field, and pins the classification split that ratepayer stories depend on.
+    """
+    cases = [
+        ("ohio hb 15 advanced out of committee on data center rates",
+         {"billId": "HB 15", "status": "advanced"}),
+        ("lawmakers filed senate bill 1200 on data center power use",
+         {"billId": "SB 1200", "status": "introduced"}),
+        ("governor signed into law new data center tax rules",
+         {"status": "signed"}),
+        # Regulatory and local decisions — the shape most feed policy items
+        # actually take. A legislature-only vocabulary matched none of these.
+        ("new mexico regulators reject natural gas pipeline for oracle",
+         {"status": "rejected"}),
+        ("new york pauses data center projects over 50 mw",
+         {"status": "stalled"}),
+        ("indiana regulators ok energy project tied to google data center",
+         {"status": "approved"}),
+        ("north carolina ends data center power tax break",
+         {"status": "rejected"}),
+        ("virginia data center campus opens next year", None),
+    ]
+    failures = []
+    for text, expected in cases:
+        got = extract_policy(text)
+        if got != expected:
+            failures.append(f"extract_policy({text!r}) -> {got!r}, want {expected!r}")
+
+    kinds = [
+        # "electric bill" must not read as a legislative bill.
+        ("data center blamed for higher electric bill in georgia", "grid"),
+        ("county council votes on data center zoning", "policy"),
+        ("ohio house bill 15 targets data center rates", "policy"),
+        ("meta data center goes online in iowa", "milestone"),
+    ]
+    for text, expected in kinds:
+        got = classify(text)
+        if got != expected:
+            failures.append(f"classify({text!r}) -> {got!r}, want {expected!r}")
+
+    for f in failures:
+        print(f"FAIL: {f}", file=sys.stderr)
+    if failures:
+        print(f"{len(failures)} check(s) failed.", file=sys.stderr)
+        return 1
+    print(f"selftest passed ({len(cases) + len(kinds)} checks).")
+    return 0
 
 
 def main():
@@ -305,4 +462,6 @@ def main():
 
 
 if __name__ == "__main__":
+    if "--selftest" in sys.argv:
+        sys.exit(selftest())
     main()

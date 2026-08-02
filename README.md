@@ -53,6 +53,32 @@ cleaner headlines with better classification; without it, heuristics are used.
 (`USFacilityRegistry.swift`) — the bot leaves it `null`; set it by hand when an
 event is about a known facility to make the event tappable in the app.
 
+### `policy` (optional, `kind: "policy"` only)
+
+Feeds the **Your State** cards in DataCentral 1.3.0.
+
+```json
+"policy": { "billId": "HB 1500", "status": "advanced" }
+```
+
+- `status` — one of `introduced`, `advanced`, `stalled`, `approved`, `rejected`,
+  `signed`. Covers regulatory and local decisions as well as statehouse bills: a
+  commission rejecting a permit is `rejected`, a state pausing projects is `stalled`.
+- Both fields are independently optional, and **the whole key is omitted** when
+  neither is stated. Absent, not `null` — the field is purely additive, so older
+  app builds decoding a fixed key set are unaffected.
+- **Omit rather than infer.** A story reporting opposition or debate but no decision
+  gets no `status`. Matching a topic word (an early version matched "moratorium")
+  produces statuses the source never reported.
+- Vocabulary is deliberately neutral. A bill *advanced* or *stalled*; it never
+  threatens, protects, or saves anything.
+
+Verify extraction without the network:
+
+```bash
+python3 scripts/update_feed.py --selftest
+```
+
 ## Manual entries
 
 Edit `pulse.json` directly (GitHub web editor works fine) — add your object to

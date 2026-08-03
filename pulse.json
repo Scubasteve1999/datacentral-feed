@@ -1,7 +1,96 @@
 {
   "version": 1,
-  "updated": "2026-07-30T14:58:30Z",
+  "updated": "2026-08-03T15:34:11Z",
   "events": [
+    {
+      "id": "f93670ce1dc3c80c",
+      "date": "2026-08-03",
+      "kind": "announcement",
+      "title": "PowerPlay AI plans 400 MW AI data center in West Texas",
+      "detail": "PowerPlay AI announced plans for a 400 MW data center in West Texas.",
+      "builders": [
+        "PowerPlay AI"
+      ],
+      "stateCode": "TX",
+      "mw": 400.0,
+      "facilityId": null,
+      "sourceName": "W.Media",
+      "sourceURL": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMd1AtYkthckw0c0RTMkhIQURNTWRxQjcwUDNXeUQ4UkxqdzFZNEhkN1ZheEdKRHEwQzA2dmZFY3FvR3NOaV95MlA3MkJrVGdDMmRyYmZrblNGV2lXVm9QYXpiX2ZFWmNsTHFHcVRSaEgtR2w2X0k4?oc=5"
+    },
+    {
+      "id": "d9a6e28b2e0c9a62",
+      "date": "2026-08-03",
+      "kind": "announcement",
+      "title": "Crow and CleanArc plan 245 MW data center at Dallas Market Center",
+      "detail": "Crow and CleanArc announced plans for a 245 MW data center at Dallas Market Center in Texas.",
+      "builders": [
+        "Crow",
+        "CleanArc"
+      ],
+      "stateCode": "TX",
+      "mw": 245.0,
+      "facilityId": null,
+      "sourceName": "DataCenterDynamics",
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/crow-and-cleanarc-target-245mw-data-center-at-dallas-market-center-in-texas/"
+    },
+    {
+      "id": "4cc322cc3e2d00fc",
+      "date": "2026-08-03",
+      "kind": "announcement",
+      "title": "DeepSeek plans 1 GW AI data center expansion in Inner Mongolia",
+      "detail": "DeepSeek announced plans for a 1 GW data center expansion in Inner Mongolia.",
+      "builders": [
+        "DeepSeek"
+      ],
+      "stateCode": null,
+      "mw": 1000.0,
+      "facilityId": null,
+      "sourceName": "Blockspace Media",
+      "sourceURL": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXJXcldYNFBNblJlcXU3MW51dkJEaGF2WlpJcDY2QUpEVTh6Z015ekRLdlNESFV6V1BpNG9vVnUzd1VOVW9sVGhFeG9wZWJzcXZXYWJENWJWOVJHRHFmUnF5dGtzcVBLWTJNTVhtbDI4eExWRzdRNmd1NEhCbm5xbVpCSFlBV2RUSEw5QlNKRENmdU9L?oc=5"
+    },
+    {
+      "id": "2217bc62cfc6f8ff",
+      "date": "2026-08-03",
+      "kind": "milestone",
+      "title": "Bureau Veritas grants Approval in Principle to Seatrium floating data center",
+      "detail": "Bureau Veritas granted Approval in Principle to Seatrium's 30 MW floating data center concept.",
+      "builders": [
+        "Seatrium"
+      ],
+      "stateCode": null,
+      "mw": 30.0,
+      "facilityId": null,
+      "sourceName": "imarinenews.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JMUU0QTZQQnE1WnRPZ1VYTHM2bFIwZ0xPU3RoRE1YSGppS1dNNGotWVdfT3JNTUNhNVphSk43cEczOHREU2NIV3ZvZl94TDA?oc=5"
+    },
+    {
+      "id": "ef77aa55c45f396f",
+      "date": "2026-07-31",
+      "kind": "policy",
+      "title": "Sphere 3D plans 50 MW data center in Kentucky; zoning review underway",
+      "detail": "Sphere 3D plans a 50 MW data center in Kentucky while the city reviews zoning rules for the project.",
+      "builders": [
+        "Sphere 3D"
+      ],
+      "stateCode": "KY",
+      "mw": 50.0,
+      "facilityId": null,
+      "sourceName": "TheEnergyMag",
+      "sourceURL": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VZWNjZTZRUWJXT0VnV1l6M0J6YzJNR1ZKeTNSMjFadUhWbFZELVhlekREcG5HVno0RG9fNmVMT1hPQlJ4N1pLczZJX2pGdEU0Z0ZHdGljZmZhQVhaSEVjMENtUUtCMGFBNGxPQV9TRFdXckppZFdV?oc=5"
+    },
+    {
+      "id": "be9e6d4bf6fa6185",
+      "date": "2026-07-30",
+      "kind": "grid",
+      "title": "Ohio data center to operate on 350 MW onsite microgrid",
+      "detail": "A new Ohio data center will generate all its power through a 350 MW onsite microgrid.",
+      "builders": [],
+      "stateCode": "OH",
+      "mw": 350.0,
+      "facilityId": null,
+      "sourceName": "Interesting Engineering",
+      "sourceURL": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcEdtcnliMEFiU0NFYWh4WnR4bDd1M0hMcks4WkdCTTB1dDhpRmFuVVYxQ0d5M0ctRTBnR1hUcTJZcDNiR29fUFU2a1JYaXAzVGVDRkRRcUpkcV83VkJGd0VUOVlqQ2xHX1FEQVdVUmZQSVYwMU5qOG5mdVhkY1VNM0V0ZktBa1k?oc=5"
+    },
     {
       "id": "47ab79f8e9e51486",
       "date": "2026-07-30",

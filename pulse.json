@@ -1,7 +1,97 @@
 {
   "version": 1,
-  "updated": "2026-08-03T15:34:11Z",
+  "updated": "2026-08-06T15:03:28Z",
   "events": [
+    {
+      "id": "b536c43b1d7f8734",
+      "date": "2026-08-06",
+      "kind": "announcement",
+      "title": "AWS explores data center development at Pennsylvania natural gas plant",
+      "detail": "AWS is considering a data center project at a 4.5 GW natural gas facility in Pennsylvania.",
+      "builders": [
+        "AWS"
+      ],
+      "stateCode": "PA",
+      "mw": 4500.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/aws-eyes-potential-data-center-development-at-45gw-natural-gas-plant-in-pennsylvania/"
+    },
+    {
+      "id": "004063831f962cb0",
+      "date": "2026-08-06",
+      "kind": "grid",
+      "title": "NRG nears 1.2 GW hyperscaler deal in Texas",
+      "detail": "NRG is approaching completion of a 1.2 GW hyperscaler agreement in Texas.",
+      "builders": [
+        "NRG"
+      ],
+      "stateCode": "TX",
+      "mw": 1200.0,
+      "facilityId": null,
+      "sourceName": "Utility Dive",
+      "sourceURL": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS0hhUUcwWHRFZ2xEc0hUNlZCYVVoRFBVTzZ0eGRkbXlWcGZobUtGM3hyNFBrZGY3VjlOY0VUZnlabm0xeFNicVNISUlHUVlYaUt0MFhuamlyQjdLc0JHcXo2WWhiUDhubU9Yd1lDZF92dWw1Skcwc0J6MDFPZ1ZTRkNJZ3RmVWcyTVNPbUJsWFNEaV80dDVyYWw0UzRQdWJBOGpIdg?oc=5"
+    },
+    {
+      "id": "89c2a1759598ccd3",
+      "date": "2026-08-06",
+      "kind": "announcement",
+      "title": "Galaxy Digital expands 5.7 GW Texas AI data center pipeline",
+      "detail": "Galaxy Digital is advancing its Texas AI data center pipeline with a Helios expansion project totaling 5.7 GW.",
+      "builders": [
+        "Galaxy Digital"
+      ],
+      "stateCode": "TX",
+      "mw": 5700.0,
+      "facilityId": null,
+      "sourceName": "constructionreviewonline.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDl3R09adWlzMU5xZWswM1ZCY01HN0RwbGg3NDhRSUVjcEVKc2NsNjllSXI4Zjh4VG42WmMtcEZTeEpRdzJlMTdtNUsxYXVSTWUtRkRPbFRoa0hzQzdWdWN6eFV0eG95Ulo0NmcyOTB3VEo4MnNMZ1BhQzlHUjRsdFVpNFhnd1oxTEZRcjZzMk80LWk5T3F1X1JYamJiYThDM01wUzRyc1paMUg0dGlucU83WmdTTUZpM0xPVkp0TGswN19MR0dmWQ?oc=5"
+    },
+    {
+      "id": "ef6710235047fcd2",
+      "date": "2026-08-06",
+      "kind": "policy",
+      "title": "Washington city officials introduce data center moratorium",
+      "detail": "Officials in a Washington city introduced a data center moratorium affecting a proposed 20 MW project.",
+      "builders": [],
+      "stateCode": "WA",
+      "mw": 20.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/officials-in-washington-city-introduce-data-center-moratorium-to-try-and-block-20mw-project/",
+      "policy": {
+        "status": "introduced"
+      }
+    },
+    {
+      "id": "add019aaa1f29af1",
+      "date": "2026-08-04",
+      "kind": "announcement",
+      "title": "Yondr and Cerberus partner on 72 MW Northern Virginia data center",
+      "detail": "Yondr and Cerberus are partnering on a 72 MW data center project in Northern Virginia.",
+      "builders": [
+        "Yondr",
+        "Cerberus"
+      ],
+      "stateCode": "VA",
+      "mw": 72.0,
+      "facilityId": null,
+      "sourceName": "W.Media",
+      "sourceURL": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSU5BWUM5OEl5bWhTZ0p0d0JtNGdNWW1IMmtQc0Nzek1jSVdfUkFkQ2lSMzMxUXptSmwtX0JXUlkyenNzVmVhTjFYejNURTBLc0NEQ3FSeDAzdXAxQWMyQTVSU3RTb2NCWFI1MW5tVWxvZ3A3dXJKNnVScDZnTFRQak5sWkFWTTg2VzZzNU9HRU9HNHR5?oc=5"
+    },
+    {
+      "id": "d896ac4b4a6c6ab6",
+      "date": "2026-08-03",
+      "kind": "grid",
+      "title": "Texas Governor Abbott orders data center audit amid record ERCOT queue",
+      "detail": "Texas Governor Abbott ordered an audit of data centers as the ERCOT interconnection queue reaches 474 GW.",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Blockspace Media",
+      "sourceURL": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mdlZBX3V2N1RYZy1zbDhVRndSMXNfdjNYWU8wSTdJYVRkTUtQNnRVeXN2WUVqd1FreV9tMVdRU3NIenZGd3VTSko0eVRRR2VoZjZQTHUwVmMwM1g3UVF3TGZKM1N3RGNMN0tSMVNqZi0yaDdhSEZhRUNMWHNUTVk?oc=5"
+    },
     {
       "id": "f93670ce1dc3c80c",
       "date": "2026-08-03",

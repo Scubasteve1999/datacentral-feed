@@ -1,7 +1,95 @@
 {
   "version": 1,
-  "updated": "2026-08-06T15:03:28Z",
+  "updated": "2026-08-10T14:09:41Z",
   "events": [
+    {
+      "id": "98774cd462c305e0",
+      "date": "2026-08-10",
+      "kind": "policy",
+      "title": "Ohio zoning board rejects 45 MW data center at Nordson buildings",
+      "detail": "A zoning board rejected a proposal for a 45 MW data center utilizing three Nordson buildings in Ohio.",
+      "builders": [],
+      "stateCode": "OH",
+      "mw": 45.0,
+      "facilityId": null,
+      "sourceName": "thecooldown.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ3ZiaVpnclNwNjZNZWhweHRxQ1dlMFFaS1NEWHdxdGxPNVk2Y25mY3FRcS1NX0hpUEpwNzYwUGMyS2Vka3BsVlFISk9hdFRUU3pwd1V6SFVEaVdKM2pGMVB3OWNUT1NIdndZalZWSHd0LWgtWUNiSU94d3EtYkZ2SkdyLVY4aWQyS2R4b3o0dWVWSzQ?oc=5",
+      "policy": {
+        "status": "rejected"
+      }
+    },
+    {
+      "id": "61b7c505b654230c",
+      "date": "2026-08-10",
+      "kind": "grid",
+      "title": "PPL advanced-stage data center pipeline reaches 31.8 GW in Pennsylvania",
+      "detail": "Pennsylvania utility PPL reported its advanced-stage data center pipeline has grown to 31.8 GW.",
+      "builders": [],
+      "stateCode": "PA",
+      "mw": 31800.0,
+      "facilityId": null,
+      "sourceName": "Data Center Dynamics",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOVNTWlY0SnFKZHQ5eDVEajgyUFI3WGhseGEyVmZjYU55VkQ5d3IyYVN2ak05SFhORG5TeG9nZkJUemlyQWRhYkNxczFyZmg4eHh5Z0JvNVFSUnR2MTdMR2EzTkRFNDRqRGVOejNQZFZyRlM3SEhNNUVaNkJhVzV2WE5HaGFGMzFac09lU0l5bjNFRDZjRzBTdnNjdDBNQmdVZGc3bGZyX0JqV29jdXJkTzFaUzZqT3hZeHdUUzZQRWE?oc=5"
+    },
+    {
+      "id": "dfc6c55d6668be34",
+      "date": "2026-08-09",
+      "kind": "grid",
+      "title": "Amazon plans 7.65 GW Texas data center with 35-turbine gas generation",
+      "detail": "Amazon is developing a 7.65 GW AI data center facility in Texas with custom on-site gas turbine power generation.",
+      "builders": [
+        "Amazon"
+      ],
+      "stateCode": "TX",
+      "mw": 7650.0,
+      "facilityId": null,
+      "sourceName": "Tom's Hardware",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOSld2RGJqLUpaN2FleGV1SnBTSll2elZoczJCdjVDekpsRjY0WmZuQk9TN2pqQjJRYTh1OTdJdVRKSnVsM2t2VGtWc2ZjS0VjUGgzVldZc0R3VWhlUzBXTHUzbi1VMk9mT2NWMV9PZVUwaXhRU3dZZWUxT1BpWnotUmZJSXJ2NE9nel9zNy1LeE1vc2IwUldaNm84Rmx5Sm1DVno3RS0wcVhOcTYxMU5PQk5UTnJDMzFMdVRNcEZpV2V5b3VuTW1sUGgxOFZlbjlmb25RZC1mN3EwSVM3WnJ6RTZ0MXR1Z2d0MDV6czFhUzg0eklqcW5Gd1Y5RHk2N1dhdi1fREpRSUNhZENJYzlDSDZLZTZzdFExR1ZISDUwMTl4NXpuQ3RRY01pYXpFXzhEcEhzbEY3THBhU3R4RTdOQjU1U3hRNUMzNERUM2ZqQTZBUHo2WklWTlE0VE9jWE9WUWJqY3BLWXhJanB3eVpYVG9n?oc=5"
+    },
+    {
+      "id": "1d141557689cf78b",
+      "date": "2026-08-07",
+      "kind": "policy",
+      "title": "Texas audit could delay 49.8 GW of data center load, BNEF warns",
+      "detail": "Bloomberg NEF warned that a Texas audit could delay 49.8 GW of data center load with potential costs up to $15 billion.",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 49800.0,
+      "facilityId": null,
+      "sourceName": "POWER Magazine",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZXN0RUdvRDRQeXRXOHlSWWl4cnJLWW12Um05OUpCMEN2QzgxTmYtaHRFdC1QVGRwbWpwY1NrYjR5SjZxdGFEVXRrSFRpeGtLZk5XSGN0eGFKZ3FacTNfc2wwUjV1YVJfanVKYnBQWjRQOHIzWW5ITFZ6RDRpUnhNWkZkRDZfajBQQUxka1hIbUFEcE43X0tHZ1BKN3pKM1NBNnJmSmstMmp3cVpWVlpVaVh6eTFseEU1QWdR?oc=5",
+      "policy": {
+        "status": "stalled"
+      }
+    },
+    {
+      "id": "205165f388fa990b",
+      "date": "2026-08-07",
+      "kind": "grid",
+      "title": "Oncor evaluates impact of Texas data center freeze on 300 GW pipeline",
+      "detail": "Texas utility Oncor is assessing how a data center freeze affects its nearly 300 GW load pipeline.",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 300000.0,
+      "facilityId": null,
+      "sourceName": "utilitydive.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0Y3ZVVnR0JicmRxYUxkX2dGMFprUnlhakQ2R0Y4bFo5TktIdG1VcWJnLW1LMk8yOEo2NnQwOUljVHU3dFlabUZjZ0J0eGU5QXBxN3RFN1JpYlBBc01Vc1hyUWFrUEZLamJtZ0xRY0VQbTYwNkhEaVlab2s4aE9yMjBUTVZ5amNxTWMwT0NXVWJvcjRxWmVhZDF4X3A5bnNNOVVCbXROS0MwNk1DWUNnVC1xRk5idw?oc=5"
+    },
+    {
+      "id": "8d446e6f51b4af5f",
+      "date": "2026-08-07",
+      "kind": "announcement",
+      "title": "Energy Vault signs contract for 1.25 GW Texas data center power infrastructure",
+      "detail": "Energy Vault signed a contract to provide 1.25 GW of power infrastructure for AI data centers in Texas.",
+      "builders": [
+        "Energy Vault"
+      ],
+      "stateCode": "TX",
+      "mw": 1250.0,
+      "facilityId": null,
+      "sourceName": "Seeking Alpha",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM1hQcUdVZUs0VFJ1S2JMN3UxUXlYZ0kxVjQ5bFBQS1hKTkNHb1doMFY3d2otemUwckp6cVpvd1BiWkRFYlNBb09GU3U4TTZRZ3NpODlZUXRHWmt2OWdJaS1hRVFDdGV5QlNGaUdyUENTdWk2bFBzZDVlRENIQWVkOUx4TVhDbkx6WDJGVlZuY2ZaQVpzenRPWVd4cVRIR2U3X3NxcDc4QjRteFFaMzEwS1l5NG56b01oVks5VXZwd0t6dw?oc=5"
+    },
     {
       "id": "b536c43b1d7f8734",
       "date": "2026-08-06",

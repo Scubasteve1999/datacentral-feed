@@ -1,7 +1,92 @@
 {
   "version": 1,
-  "updated": "2026-08-13T14:11:57Z",
+  "updated": "2026-08-17T13:30:01Z",
   "events": [
+    {
+      "id": "fce5b77e21f6aaed",
+      "date": "2026-08-17",
+      "kind": "announcement",
+      "title": "NVIDIA, SB Energy Partner for 8 GW AI Data Center Campus in Ohio",
+      "detail": "",
+      "builders": [
+        "Nvidia"
+      ],
+      "stateCode": "OH",
+      "mw": 8000.0,
+      "facilityId": null,
+      "sourceName": "TheEnergyMag",
+      "sourceURL": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHN2cGtZRHlvYjhtX3lFQUcwOUFhX1VXTk9YLW55alZ6QnJxSkFiNVh4U0RHUkZoZWNqT2JuSUZvejJhQlRKVkw4M3RoUjJqU0NlWDJIbTgwMjZfeEUwNDY4czNDY1VHSFN5UGwyUjVQdXVtbmpvT2V6QjhNS0FMVGhCd3hJSGxQSlctV2xoamVJdFp5a2FqaTV2akoyajVTLXhHcHV0RFpOaUR3?oc=5"
+    },
+    {
+      "id": "34f7e3227d34cb3c",
+      "date": "2026-08-17",
+      "kind": "announcement",
+      "title": "Nvidia in talks to invest up to $3bn in SB Energy",
+      "detail": "",
+      "builders": [
+        "Nvidia"
+      ],
+      "stateCode": "OH",
+      "mw": 10000.0,
+      "facilityId": null,
+      "sourceName": "report",
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-up-to-3bn-in-sb-energy-report/"
+    },
+    {
+      "id": "a6ecb52a20170e80",
+      "date": "2026-08-17",
+      "kind": "grid",
+      "title": "Blue Energy, GE Vernova Hitachi advance 2.5GW gas-plus-nuclear plant in Texas, to power up to 1.5GW data center",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 2500.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/blue-energy-ge-vernova-hitachi-advance-25gw-gas-plus-nuclear-plant-in-texas-to-power-up-to-15gw-data-center/"
+    },
+    {
+      "id": "6ab0e051cd25a499",
+      "date": "2026-08-17",
+      "kind": "announcement",
+      "title": "OpenAI Locks In Lease for Huge Data Center in Ohio With Backing From Nvidia",
+      "detail": "",
+      "builders": [
+        "OpenAI",
+        "Nvidia"
+      ],
+      "stateCode": "OH",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "WSJ",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTBKNEtxM1Y2QUJrZFFUZTZuempoMEtpM21jVjVjS0JNMVpHeUhSN1RxeER2YzY2Szh4NXpRRElWVHpmMVF3TmpFNHo4dFVGR1p0Y2VQQmtwS0JmN3JSR0NhUnk4LTJ3WDBmRWwxNVRhUGw0ekl3dklxNWxFdi03Z0t3dk1lTnB6YTM4OEJXeHNLc0pTZ3FXeVgwOXBOT3lZWVBONFFtREtPNGNpYjJNeGN6cw?oc=5"
+    },
+    {
+      "id": "b29d951887bb46c4",
+      "date": "2026-08-17",
+      "kind": "announcement",
+      "title": "Axe Compute and Duos Technologies Enter into Agreements For 55 MW of New AI Data Center Capacity Across Multiple U.S. Locations",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 55.0,
+      "facilityId": null,
+      "sourceName": "The Manila Times",
+      "sourceURL": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNU0Y1NExqcElvX3J3OHVZSWlxVzhwSGpxMEdidlNnM05fbGVhNktkcUdjM29IQlp4QTlwNTh2Z0p4b05KT2lYVDBmZVJCRWl1OVNrRlg4bHZXNVRrN005ZHhHZ2tnNWp6NjZqek5mSUZ1T29LRmN0dVRTS2ZYaXFyZk9xRHFOMk44VEF6U2wySm1kWWNKY29Ra09CSlA4UUhtTGpoMV9la3Z5ZUgzQjhaWlhMM3RxeTlTYlYxSk9XOUV5NW9PMkxfZ1ExVnljTl9ScFdkVllLRDBHeG1mVFp4SHVlT21FV2E5dkl1S1Bfa2lIV3dURS1EeURmdnZaYUJfdWxWeU92VUtYaXIxY3dwaDAzLVlqNUFJTHFTNXVqQl8wMG0zd3fSAasCQVVfeXFMTzM5cUJVeHFTbUpJOXhpQXVhYUsybG8tVEFTaEpMWWhWcnZMY2VLVFB3am50cnYwX25kM3dXWW1EUGh4YkF3SUJiU1VZZEdkRWIzSTByQUdLWXBJcEhjeEN3eEZ5a2pyazR3cTh5dS1MU2RmY0R4d0JvWVZhUlNEUjFvQ1MyR2R4LUlBQkdya0laYWc4YlFGUFA3Q1hCTm11N0N6UVNicm1qNHo0dktBTXhzT2p2TlptYU1qdHROajdMbTBZZGhOd0wwSGEyWmlQNjNrenpmU19DRE10cmx5TW9zeFFxU29Ndm4xb0ZfOUZOblppTmpsaVRjNFMzOEpWTVEyTG1DZUoxSTZ5M25xMUhPSzVXckhOTnFkdlJxaWRJTGkybUd0UW43ejA?oc=5"
+    },
+    {
+      "id": "f030b4e1dd62c06f",
+      "date": "2026-08-17",
+      "kind": "grid",
+      "title": "America's largest grid wants to cut power to new data centers first during shortages — 50MW-plus data centers must bring their own electrici",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 50.0,
+      "facilityId": null,
+      "sourceName": "Tom's Hardware",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTFB5dGU2MWk4c1UwWTZkLUFBRHp4SjFuVkhqcS1xMkRzY1FqaTRNcHdOV3l3V213UG5MMDNOd1c1YzJNamRfUGFfRHAyMDd4RjJMRHNHbGNDOGQydURoX01hT3BDRnB2QzNrZzlrMFFmR2s1RmdwQnk2X0oyVXRtOVpFZE5OVTZ0WXdDV3ZIcFJQM3VCUzBuX0h5S0hWLUJ5SDBfT2w2cDAzUmVCcmZ4aV9OMDNuSlpuc1REc1dUbDhHb0Ywc045WHdYemtxckpzZFRfTjBVWG0xY21lZHUwNF9uM2JCVVUwdzJCUkdYRUh4UQ?oc=5"
+    },
     {
       "id": "c43a06a9e5f455e8",
       "date": "2026-08-13",

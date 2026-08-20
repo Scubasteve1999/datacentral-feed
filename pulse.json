@@ -1,7 +1,92 @@
 {
   "version": 1,
-  "updated": "2026-08-17T13:30:01Z",
+  "updated": "2026-08-20T13:36:25Z",
   "events": [
+    {
+      "id": "8154bf273585a2ef",
+      "date": "2026-08-20",
+      "kind": "announcement",
+      "title": "QumulusAI secures 3.75 MW Atlanta data center capacity",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 3.8,
+      "facilityId": null,
+      "sourceName": "Investing.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjhISnJZZG01bmN2NXdoUVhxRGw1SGo5dHRXSlBrNkpOT09KZHRNRTFEd0hQY0hfWVlaeDFvYW93YUhDeFR5Zld5WEM1ekZSTFoxbkxLcFpPNEZPRGR1NmdsZjNTZldRZVktMlVfYjZwOE1kVFMtQ3VZTFlfVk5aTi0ya1hMajRMNi1HQTFfbUxsdzRxdWFvQzJ6dzV5QURYSzBlYmVteE94RkZSMDhn?oc=5"
+    },
+    {
+      "id": "b079892ab78338ce",
+      "date": "2026-08-20",
+      "kind": "announcement",
+      "title": "YTL Power and JLand to partner to build up to 1.5GW data center in Johor",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 1500.0,
+      "facilityId": null,
+      "sourceName": "w.media",
+      "sourceURL": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2NpOXc3MTRtN0VfQjRjbmtCbWsxeG9fVzBlLVRSSU92TXpLTzlEeUduTU44ZDY4QkdscVQ3b3dCM3VZb1dFTEQxRlBkM3JXdE5DbTZ5OVdBZ0xWeEtUTERhV044NE9RTEVIQVdwMEdYdFpTcUpmQWttVmt6YjFMRWdzdmEtMHlST2hMTkNCNGRRc28?oc=5"
+    },
+    {
+      "id": "9b2ce068e1ab00b2",
+      "date": "2026-08-19",
+      "kind": "announcement",
+      "title": "Duos Announces More Than $611 Million Of AI Data Center Contracts Tied To 65 MW Of Capacity",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 65.0,
+      "facilityId": null,
+      "sourceName": "Pulse 2.0",
+      "sourceURL": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnE5NUFpX0Q0QUZyWk1UMGlmeXlEZVhtRk5CTVBHSm1aTXVaelFveGFPR29KdjBoZ0d0V2xoMWR5RUhDbmdKVVg0MnVna01WN1NhZ1dULXJaNzJjZTczUWo5RHNxUG9JV2ktWU40TzFSZ0VabmNzdWYzalcyaU9xY2lOTVp5TG5GOERHR2llUnVYXzd0bmhhNTUzUVlIeXpSa0labEVTVlVHOF8zejFB0gG0AUFVX3lxTE41dmpiOEozdjZtZDNPSTdBbVNJZTlWMzFFd1FYSzdrWkFWV3VqN0pIeXFmaDM0T1ZWd1QxSjJKMW9FWkxmSkY4Wm9oQ24xWlJZZ2NmdmZ0ZktJbnFQS2V3WHpkclNHTmtvZmhUQlpzR0gzcGJEN3dvTjFNNF9tVHJiMTdMalh5UFFHSmpmd0pBZ3hCWkM5VlNfNnJMTGc3VjRrTENqaUs0cFF5STB1OXBzUWpMNQ?oc=5"
+    },
+    {
+      "id": "3856af4ff5d27da2",
+      "date": "2026-08-18",
+      "kind": "announcement",
+      "title": "OpenAI links 8-gigawatt Ohio data center deal to $84 million Codex offer for students",
+      "detail": "",
+      "builders": [
+        "OpenAI"
+      ],
+      "stateCode": "OH",
+      "mw": 8000.0,
+      "facilityId": null,
+      "sourceName": "EdTech Innovation Hub",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEpmMU41OVdWV1NGajJmMDFHS204elBaTFhPb0ZwM1BFWWJDdkgwZzdpTVhTSHF0MWFRSnVSQ2cxeDhQaUFWZjNZcUFCamQxMVdSTnNxa1RzRnRmSHYzRHFoNTNTZUdmTExrei1UUUttNzZ0R1IxVmlsX1kxNFZqcmZ1M3lySFJ2bFBwUmlNaUxKLUJrSFRkMFVabjFNSEZVQWtGZXBGSHNCU3hmckJvbWVscUhvS0NWUGZoZWlFWXRweEU?oc=5"
+    },
+    {
+      "id": "7062a662ccfc9ff5",
+      "date": "2026-08-18",
+      "kind": "announcement",
+      "title": "OpenAI Signs 10 GW Ohio Data Center Lease, Utica Gas Wins Big",
+      "detail": "",
+      "builders": [
+        "OpenAI"
+      ],
+      "stateCode": "OH",
+      "mw": 10000.0,
+      "facilityId": null,
+      "sourceName": "Marcellus Drilling News",
+      "sourceURL": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczM0QzhwSm90Sl95LUczRkNfX3pJYnZPZjN0cE9YcWItTlV6dzg5NWpya2o5RVZzWURBUzhmU1FKTGdLNHZSR3pTMGdIMEVoWC1sZy1xSkFrbFQteDhJZVFNc3FMSDZqTmQ0Q1VEWjBGQ0lBQ3FGMXVMYVhJOEdJbXJCT1ZIY1Q3VFlUWmNtTmhLV05oQ0JDa0Qybk53UTFZ?oc=5"
+    },
+    {
+      "id": "9e74c207d7f2a2f6",
+      "date": "2026-08-17",
+      "kind": "announcement",
+      "title": "OpenAI leases 10-gigawatt AI data center campus from SoftBank’s SB Energy",
+      "detail": "",
+      "builders": [
+        "OpenAI",
+        "SoftBank"
+      ],
+      "stateCode": null,
+      "mw": 10000.0,
+      "facilityId": null,
+      "sourceName": "SiliconANGLE",
+      "sourceURL": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ29VdHp3dVplUUxXejdmcUJ5RnFOdGVYOVcySUQyTUpfY3hKNVRHcGpVbW15Mll0MG1rbF9UakZGWWRVdE84SWxuMTZFQmUyX0pWclM0aFpWcWQ4VFJNSUNRdG1GRkZNSnpfd1dFZXdUTXJtUkJOTUlzRUl0MW9ZbkxjQnRXcFBNOGpOT2lsZ1NkVWN2ZjRMelhSa2JDQlFlVW9VRHVRUDNKSVRFWnc?oc=5"
+    },
     {
       "id": "fce5b77e21f6aaed",
       "date": "2026-08-17",

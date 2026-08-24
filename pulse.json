@@ -1,7 +1,87 @@
 {
   "version": 1,
-  "updated": "2026-08-20T13:36:25Z",
+  "updated": "2026-08-24T13:39:47Z",
   "events": [
+    {
+      "id": "76a2a0c590defd30",
+      "date": "2026-08-24",
+      "kind": "announcement",
+      "title": "Soluna Acquires 397 Acres in Texas for 300 MW AI Data Center Campus",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 300.0,
+      "facilityId": null,
+      "sourceName": "citybiz",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0ttZlphU0NvYUl3dTYzX1NHVWJZdFc1bkZXSWljVXc5b044aExqeUxUWVFCSW1UOUQ5WXZLT0libjZjajdxSnhHaDBCYllvYTVPMFNraTJiUFNZMGh1eUE2UThadFdrbl9UOHo5OWFfRkJ6RnJBVzJGaEh0dVg0MzhtcXFCSy0zdkJ6LVlESHk2Vml4UnRqTDNLOTZyMENoRzNWcE00MmR3UQ?oc=5"
+    },
+    {
+      "id": "add065d02729e86b",
+      "date": "2026-08-24",
+      "kind": "announcement",
+      "title": "Kentucky PSC approves TeraWulf’s 482 MW data center agreement By Investing.com",
+      "detail": "",
+      "builders": [],
+      "stateCode": "KY",
+      "mw": 482.0,
+      "facilityId": null,
+      "sourceName": "Investing.com UK",
+      "sourceURL": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVEJrSndTTlhPN1pSenNWWFdmdHF2NHlMSWswelhIalYyOFNqT0plRGZyd1RuU19QZWhXLWxNeXJJekNIR0RCNlZ4am1EaDlIaTJfWmRmalpRbDQwc3VKWGVvMk5iMUVHVTJVQTFBVEprSGVGTEFhQmxfbWwweWd3N0c1ZEJ0TUZkM3lub0I5bzFIUlJhQVJZckxZekJVUGpIX2dsZFEtREF0QXd4ZkpqNDNsbUtyNDQyNGN1ZmJn?oc=5"
+    },
+    {
+      "id": "fa92b66850b19254",
+      "date": "2026-08-24",
+      "kind": "announcement",
+      "title": "Vertiv launches 1.8MW UPS for AI data centres in Asia",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 1.8,
+      "facilityId": null,
+      "sourceName": "DataCenterNews Asia Pacific",
+      "sourceURL": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0lKYlc4SGpDRmx3OTRjcHBEYldqNjk0Y0E3MkRZV2ZzeUduU0ZzQWl4bXRZRTlSeEttWHMwTDRkS0N5dUE2TElGQjN3VXpzLURlMG5ONFRWbDA3amJHdjZQYzZqeXp2bVZVVEUzaS1IWFdKbFhaTDVpSENoVUQyd0dRbU96YjY4RU9TTGxHNzQ?oc=5"
+    },
+    {
+      "id": "28a05023c642f43f",
+      "date": "2026-08-24",
+      "kind": "announcement",
+      "title": "Zerra plans 1.44GW, AUD 14.5bn data centre campus in Queensland",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 1440.0,
+      "facilityId": null,
+      "sourceName": "W.Media",
+      "sourceURL": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNamZXenFaLUNObVRuYS1iUkRXVG54U01YeTdmTWxXT1RSVDlsWl9BNmVBTUdDdTRrYTVFemNNa3huSzNfbW04WkpZYXVvNXlZTVgzM3VJX20zX21mRHZRVXBEZXRQTTVhTVBwc0hKUTgtcy1CbkZaRzFaZmFJWXdnU1Q2VHhrdw?oc=5"
+    },
+    {
+      "id": "9b638e6ad7b81764",
+      "date": "2026-08-24",
+      "kind": "announcement",
+      "title": "DXN secures AU$12.2m contract to deliver containerized data center to HPC customer",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 2.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/dxn-secures-au122m-contract-to-deliver-containerized-data-center-to-hpc-customer/"
+    },
+    {
+      "id": "a8f0bfd705f58c31",
+      "date": "2026-08-23",
+      "kind": "announcement",
+      "title": "Hut 8 Stock Climbs After Securing Long-Term Nvidia AI Data Center Leases in Texas",
+      "detail": "",
+      "builders": [
+        "Nvidia"
+      ],
+      "stateCode": "TX",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "TIKR.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0pHWTVLVUU1alZKQzZYbWxJN1VtWEtpYkZ0VW1ZTm5rY2pzNTZTZ1FuY25hMUREODVaT2RjMkJQTV9KTkNSa282S2o5VlJWN1RPckdTYjRQX3JFZnRPTGVEdUJsek5ERXhxZUphNTdMSEhfaGdERkRCNGc0bTFRNV9lQ3Budw?oc=5"
+    },
     {
       "id": "8154bf273585a2ef",
       "date": "2026-08-20",

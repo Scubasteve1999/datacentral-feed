@@ -1,7 +1,78 @@
 {
   "version": 1,
-  "updated": "2026-08-24T13:39:47Z",
+  "updated": "2026-08-27T22:39:33Z",
   "events": [
+    {
+      "id": "c291d9af41b99b2e",
+      "date": "2026-08-27",
+      "kind": "announcement",
+      "title": "Anthropic signs $45bn compute capacity agreement with Nscale",
+      "detail": "",
+      "builders": [
+        "Anthropic"
+      ],
+      "stateCode": "VA",
+      "mw": 460.0,
+      "facilityId": null,
+      "sourceName": "report",
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/anthropic-signs-45bn-compute-capacity-agreement-with-nscale-report/"
+    },
+    {
+      "id": "7bb3de268410f36e",
+      "date": "2026-08-27",
+      "kind": "announcement",
+      "title": "DMGI: Q3 revenue fell 13% as AI data center transition advanced and 75 MW power was secured",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 75.0,
+      "facilityId": null,
+      "sourceName": "TradingView",
+      "sourceURL": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQmRCYzAwLXJvY2xoYXphMDM3T1JPNDJlZnk2MkVIU0h5MmFhazVuZW40eVFMekpWcnl6WFlrbm8xbVlWeWRnZW9IRjB6cm1PSWJhUjgzeFd5a010UEtYSnhKcy1lM1l4QTNfOWQ0d1FXQWZqYmlfRXBmZFBFZHVFbm5Ja1FPSzJqX04wRWhucDdTV0NIOGVvd3NjeWxja3lXMHVhQk9tLWZRVUt6UThxeUxReGdfdnNfS3BkcnNVVW0xdjJ2cENTM2QwNHhhdDB5ZENVRmVzNlhtNHhtcVlDVnI0Xy05OXdxTjJUakEzNlVxWnJwZnJtVTFWcG9vSVlSNEZRei1fZw?oc=5"
+    },
+    {
+      "id": "8eefc5af05068d1b",
+      "date": "2026-08-25",
+      "kind": "announcement",
+      "title": "PSC deadline arrives for Georgia Power’s 3.2-gigawatt OpenAI data center contract",
+      "detail": "",
+      "builders": [
+        "OpenAI"
+      ],
+      "stateCode": "GA",
+      "mw": 3200.0,
+      "facilityId": null,
+      "sourceName": "thecurrentga.org",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGZZQjVhY0cyN2t2bG1DczhUbGdTRmJFMU1TVmNaZ09rZnZlZlRhY2F2bzVnWDUxLXR4NFFtZ3NRU3kwZWZvRVY4V1FOS0J4a1BvbE5sRXJxVDluM0FnVzFvMDh2c0hEQnU4TFVzLUV5cDNwd3pwaUJHREd4RHlEOXpPQTlRUVhVUmx5MEt6MXZjN1hBSmU2UjRDQzRWYUxlY09zbjVjVExkWHREOFotY3ZwX0ItbThZ?oc=5"
+    },
+    {
+      "id": "881cde42975768ae",
+      "date": "2026-08-25",
+      "kind": "announcement",
+      "title": "On Jurong Island, Digital Realty plans a 50-megawatt data center for AI workloads",
+      "detail": "",
+      "builders": [
+        "Digital Realty"
+      ],
+      "stateCode": null,
+      "mw": 50.0,
+      "facilityId": null,
+      "sourceName": "Stock Titan",
+      "sourceURL": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeHJpaS1xdGpaeC0xYmItTXA2TVI0Z1piVkFfVGxxVTR1alNDbG1jRzYyQVhfeDZ3R2ltSjNURzVGUl9ZTktGeFk5LWJuMVhqcDFpcW5yeXp3M2pzZXNPZkc2WEM4RUh4TE5rdVA2eTlYcVAzeGJ0WUpsR1NkaldqekxNQnFvRDhWVHAxX3lxVlpHTDBTWUVVNUhSUDYxemFpeGVSX09CTnpETFpEcFdKRzY5SXBiUTlXZVBacQ?oc=5"
+    },
+    {
+      "id": "536743b6c29af99e",
+      "date": "2026-08-24",
+      "kind": "announcement",
+      "title": "Prometheus’ 1.5 GW Texas Data Center Plan Tests Private Power",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 1500.0,
+      "facilityId": null,
+      "sourceName": "Data Center Knowledge",
+      "sourceURL": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWVyNlpnY19HMWNwSUtzUWFGcUZiVEdWWDlQeWRtNHdHOG5uYm1XZ0Zpb21zbU9oaXJyUTBnTDhMV3ZUb3dGTnVkZ1U3TEpSQlRhT09fREpLZkV0VHpvRERLMGU5OFdEZ01uNkhXU3YxeGNxeWdNc1FET2tIXzN6UkNFNDBUZ2Y1NndHWVpkNlJRSVVaemtxek9lQTRnbERuLTRCaVhEcDdNTUlmUGc?oc=5"
+    },
     {
       "id": "76a2a0c590defd30",
       "date": "2026-08-24",
@@ -81,6 +152,22 @@
       "facilityId": null,
       "sourceName": "TIKR.com",
       "sourceURL": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0pHWTVLVUU1alZKQzZYbWxJN1VtWEtpYkZ0VW1ZTm5rY2pzNTZTZ1FuY25hMUREODVaT2RjMkJQTV9KTkNSa282S2o5VlJWN1RPckdTYjRQX3JFZnRPTGVEdUJsek5ERXhxZUphNTdMSEhfaGdERkRCNGc0bTFRNV9lQ3Budw?oc=5"
+    },
+    {
+      "id": "dcc4af2810a1d08c",
+      "date": "2026-08-21",
+      "kind": "announcement",
+      "title": "Oracle Will Build US Data Centres Supplying 4.5GW Compute for OpenAI’s Stargate Project",
+      "detail": "",
+      "builders": [
+        "OpenAI",
+        "Oracle"
+      ],
+      "stateCode": null,
+      "mw": 4500.0,
+      "facilityId": null,
+      "sourceName": "TechRepublic",
+      "sourceURL": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JaGZXOU5kUS1lLWdvNUQ1YVhUazhLa3BaSnhrSlV1Q29NQlVRWTJmempITldFcnZ5Z0lUNDBodE9ZUm5mT1phLXJYeFdFdmFWQWdPUGxfS0FPcHRNTzRJRWRGYkIwaVluajVjOXctY0NKS2c5RXNSajkwVU5OSkk?oc=5"
     },
     {
       "id": "8154bf273585a2ef",

@@ -24,12 +24,12 @@ jobs:
 
       - name: Commit if changed
         run: |
-          if git diff --quiet pulse.json; then
+          if git diff --quiet pulse.json facilities.json; then
             echo "No changes."
             exit 0
           fi
           git config user.name "pulse-bot"
           git config user.email "actions@github.com"
-          git add pulse.json
+          git add pulse.json facilities.json
           git commit -m "Update pulse feed ($(date -u +%Y-%m-%d))"
           git push

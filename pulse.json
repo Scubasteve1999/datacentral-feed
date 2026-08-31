@@ -1,7 +1,78 @@
 {
   "version": 1,
-  "updated": "2026-08-27T22:39:33Z",
+  "updated": "2026-08-31T19:16:05Z",
   "events": [
+    {
+      "id": "f55b01b80816f077",
+      "date": "2026-08-31",
+      "kind": "announcement",
+      "title": "Azio AI Holdings names Atlas One as first phase of its 500-MW South Texas data center campus",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 500.0,
+      "facilityId": null,
+      "sourceName": "Energies Media",
+      "sourceURL": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDOGl3MnZOelNZTWtvN2pvX3VpeUgtTVZNRlAtRVFSNVpzWGVYek9vRnp4QkJzejVQUGtyUjVyZ04wQXBXOVdXUkU0WlByeWlCZXNrQTRFeWYtVHRWVGYtamp1bFkxcHRWeFVsVnRWWWllOFU?oc=5"
+    },
+    {
+      "id": "4ea075bc43540d3e",
+      "date": "2026-08-30",
+      "kind": "policy",
+      "title": "New York activists rally at Tesla site to demand stronger data center moratorium",
+      "detail": "",
+      "builders": [
+        "Tesla"
+      ],
+      "stateCode": "NY",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "The Cool Down",
+      "sourceURL": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUZtMGE5N2xVbkpzMGJFMGJVcERXRXo1WWk2Z3cxVjluVUlDM051LWF4cGs3aGRpcVlKcVQ2SnhzOGUyM09lN0dNSS0yR3hyOU5oRGliXzhrQzVXRWYyd0NwQWE0UjV0WDY2OFBoUEdkSWtkQ054bmpGM2hhcTNEMm1VSXlLd1lfZjFWcGZtVWo5Mi1pZGxsSXA3aEZXeVRiN1VOMWNNaw?oc=5"
+    },
+    {
+      "id": "4c1470b9f887c7b7",
+      "date": "2026-08-28",
+      "kind": "announcement",
+      "title": "Digital Realty breaks ground on fourth data center in Zurich, Switzerland",
+      "detail": "",
+      "builders": [
+        "Digital Realty"
+      ],
+      "stateCode": null,
+      "mw": 15.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/digital-realty-breaks-ground-on-fourth-data-center-in-zurich-switzerland/"
+    },
+    {
+      "id": "83caf6948883ecb2",
+      "date": "2026-08-28",
+      "kind": "grid",
+      "title": "Warehouses De Pauw announces two data center projects in Ilfov County, Romania",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 380.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/warehouses-de-pauw-announces-two-data-center-projects-in-ilfov-county-romania/"
+    },
+    {
+      "id": "f8c053c0347e6a7e",
+      "date": "2026-08-27",
+      "kind": "announcement",
+      "title": "Georgia Power gets clearance to serve OpenAI's massive AI data center in Effingham County​",
+      "detail": "",
+      "builders": [
+        "OpenAI"
+      ],
+      "stateCode": "GA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "CBS News",
+      "sourceURL": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDFlSWdGM0pFWTdhbkhOa0k3ZFBuNXZINVY3RHVTNTY4b0kxZV9ZWlpUQ040QjQ5LXNWcFZfUkd0QmpialJfek9nNWlTQlE5VGFWMUh4ZjFLZWNwY01GZ3EwcTdFNkw3eW1zcUQ1REtpcUxUMVlHWGhfRjlBbTdnS2huR0FaSG9STndBVDRDOE53dFdLODg2cXJJUVFhYzM5M2NqdkpySnhMMWF6SkN2eXNQbzJ0bENXdWJBMXpOdVZhbHNW?oc=5"
+    },
     {
       "id": "c291d9af41b99b2e",
       "date": "2026-08-27",
@@ -29,6 +100,19 @@
       "facilityId": null,
       "sourceName": "TradingView",
       "sourceURL": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQmRCYzAwLXJvY2xoYXphMDM3T1JPNDJlZnk2MkVIU0h5MmFhazVuZW40eVFMekpWcnl6WFlrbm8xbVlWeWRnZW9IRjB6cm1PSWJhUjgzeFd5a010UEtYSnhKcy1lM1l4QTNfOWQ0d1FXQWZqYmlfRXBmZFBFZHVFbm5Ja1FPSzJqX04wRWhucDdTV0NIOGVvd3NjeWxja3lXMHVhQk9tLWZRVUt6UThxeUxReGdfdnNfS3BkcnNVVW0xdjJ2cENTM2QwNHhhdDB5ZENVRmVzNlhtNHhtcVlDVnI0Xy05OXdxTjJUakEzNlVxWnJwZnJtVTFWcG9vSVlSNEZRei1fZw?oc=5"
+    },
+    {
+      "id": "d878d5da3ffdd41d",
+      "date": "2026-08-26",
+      "kind": "grid",
+      "title": "PJM’s Power Shortfall Puts Data Center Growth in Focus",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 6800.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterknowledge.com/energy-power-supply/pjm-s-power-shortfall-puts-data-center-growth-in-focus"
     },
     {
       "id": "8eefc5af05068d1b",

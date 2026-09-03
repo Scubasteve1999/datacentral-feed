@@ -1,7 +1,76 @@
 {
   "version": 1,
-  "updated": "2026-08-31T19:16:05Z",
+  "updated": "2026-09-03T16:43:08Z",
   "events": [
+    {
+      "id": "d70b473139f272cf",
+      "date": "2026-09-03",
+      "kind": "announcement",
+      "title": "Google inks massive Utah geothermal deal to power potential data center",
+      "detail": "",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": "UT",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "The Salt Lake Tribune",
+      "sourceURL": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdk11a291dDNYcFdoY01nZkRrQ29Vd3lLc1JPRGdZZ1BzVzF0X2wwV0pZaHNzRXc3a3dnLWU4NVo1c0pjcy1EeDV2amhwQ0luZzdTOUlsclc5N3B4NDlTUEQ1dVJTemc3R3B0bk1vN1B6R0N2ZjlZaHBwOHVMV0U5aE8xTzVPNjRLQ3plN0tR?oc=5"
+    },
+    {
+      "id": "19f196982a320d79",
+      "date": "2026-09-03",
+      "kind": "announcement",
+      "title": "Firmus proposes third data center project in Tasmania",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 52.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/firmus-proposes-third-data-center-project-in-tasmania/"
+    },
+    {
+      "id": "f0ab6052d85ca71c",
+      "date": "2026-09-03",
+      "kind": "announcement",
+      "title": "Cuasar Capital plans 300MW data center campus in Durango, Mexico",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 300.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/quasar-launches-a-300-mw-data-center-campus-in-durango-mexico/"
+    },
+    {
+      "id": "878b0b5d6421e5e4",
+      "date": "2026-09-02",
+      "kind": "announcement",
+      "title": "Google’s Vision: A 1 Gigawatt Geothermal Data Center",
+      "detail": "",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": null,
+      "mw": 1000.0,
+      "facilityId": null,
+      "sourceName": "Data Center Richness | Substack",
+      "sourceURL": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1JLVzFOUVpKdGEya2oxS2xfeER5enpyUVVtYWFJWDdiUlh1SE5HZTVjT3ppZmNrc3ZMYTZrWTl0VGstVVZFb2NiM0Nxd25CWkltQXNKbVMwSzZVck82UmR4SU5VbXpPRXQyLUhCbE5NUGVIQVVDYzQ3TXVrUVJtekV5ejZhYzQ?oc=5"
+    },
+    {
+      "id": "49cd5b5aa58d863a",
+      "date": "2026-09-01",
+      "kind": "announcement",
+      "title": "California Judge Orders Full Environmental Review of 330 MW Data Center",
+      "detail": "",
+      "builders": [],
+      "stateCode": "CA",
+      "mw": 330.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterknowledge.com/data-center-construction/california-judge-orders-full-environmental-review-of-330-mw-data-center"
+    },
     {
       "id": "f55b01b80816f077",
       "date": "2026-08-31",
@@ -57,6 +126,21 @@
       "facilityId": null,
       "sourceName": null,
       "sourceURL": "https://www.datacenterdynamics.com/en/news/warehouses-de-pauw-announces-two-data-center-projects-in-ilfov-county-romania/"
+    },
+    {
+      "id": "0cb29fd6bb0672a1",
+      "date": "2026-08-27",
+      "kind": "announcement",
+      "title": "ChronoScale Jumps on 50-Megawatt AI Data Center Pact With Microsoft",
+      "detail": "",
+      "builders": [
+        "Microsoft"
+      ],
+      "stateCode": null,
+      "mw": 50.0,
+      "facilityId": null,
+      "sourceName": "finance.biggo.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QSldjel9jNU5mTWZpcUpHOE1wWmtPZmZWRk5xMjZoalF1S1ZHMFRqejMtZmhGdjNyLXZEQTA3MHBtUURVN0pnQkE3dC1xcEVxQWY4MXVxSW5fYUhMNVdwZVRwLVdtdDlyRHhEQXlHX3RaYVVwREE?oc=5"
     },
     {
       "id": "f8c053c0347e6a7e",

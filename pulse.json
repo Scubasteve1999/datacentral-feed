@@ -1,7 +1,74 @@
 {
   "version": 1,
-  "updated": "2026-09-03T16:43:08Z",
+  "updated": "2026-09-07T17:57:56Z",
   "events": [
+    {
+      "id": "b598a2b742f41952",
+      "date": "2026-09-07",
+      "kind": "announcement",
+      "title": "JV plans 54MW data center in Dallas, Texas",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 54.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/jv-plans-54mw-data-center-in-dallas-texas/"
+    },
+    {
+      "id": "b0b22c671d152e0a",
+      "date": "2026-09-07",
+      "kind": "announcement",
+      "title": "Michigan Data Centers: The Weekly Download",
+      "detail": "",
+      "builders": [],
+      "stateCode": "MI",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Michigan Advance",
+      "sourceURL": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlEzUW10M3ltZnB5MDVyRG9WMW9HNlFwcFhad1JoTXJuVlJfTThraHZXeTd3TXZ2SXVZMWtlMEowRHNrR3haRHBXem5mc0NiWTdNNmZkU0kyZlRIbVRLN2hzS1FCUmJNS2tvajRoUG9OQ0xUS0o0dnJLdlZuYzBNbTR0WDFjc1FFazRnQ3lGbnk?oc=5"
+    },
+    {
+      "id": "690d459928894920",
+      "date": "2026-09-07",
+      "kind": "announcement",
+      "title": "Residents question noise impacts of OpenAI data center I Exclusive",
+      "detail": "",
+      "builders": [
+        "OpenAI"
+      ],
+      "stateCode": null,
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Savannah Morning News",
+      "sourceURL": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUhXSFN4VmFzNGZzWnp3dHd4aThYOTM5V28xQ2VOY2RNSGVBZDZPai1zOW9oeEVlckNlelg4d3lHQmlBdzYxV005WkI3UHR3cVZVVmg4bU9neTMzalRMcHJOWlRKUnZOeWhVOUI5eElJakxMaGd3WXh3N3NNTXdYMWNYTjlfMmUzU2RUV2Mwd0JDcEJmVUpKX0h5M1dONDB0dHFHM2FrWjF6b1R4c2JubQ?oc=5"
+    },
+    {
+      "id": "948abd40c86c53f7",
+      "date": "2026-09-07",
+      "kind": "grid",
+      "title": "ERCOT to complete Texas data center audit by December",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/ercot-to-complete-texas-data-center-audit-by-december/"
+    },
+    {
+      "id": "e303b661b8ca98fe",
+      "date": "2026-09-06",
+      "kind": "announcement",
+      "title": "'We Aren't Competitive': Power, Taxes Keep Colorado On The Data Center Sidelines",
+      "detail": "",
+      "builders": [],
+      "stateCode": "CO",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Bisnow",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMWRMRXpyamIxMzBUNkttcldLeDA3YkZ6Y3N1YjdQVmFUaEZob3c3UVdjOXh4ZFFsZkFjaUxJMzRTNEVtZjBYeWlPc0owVEVDOTdiWC1VTTV6SXNlX0FrTHNLY0tWdVR2LVo2NmZTRGpNamZ4LXh3Q3IwLTl3djQxYXdGNGd6NGhFeFFVcDZ0aGlCeUV2UVdWRW1FMmhiaGVUZl93aGE0b0RDQ0QxczVldmdjV195THpHMFo3cFQ4ZVpnd2FQU2dyVmlPQlplRWdOZ2diTg?oc=5"
+    },
     {
       "id": "d70b473139f272cf",
       "date": "2026-09-03",
@@ -83,6 +150,19 @@
       "facilityId": null,
       "sourceName": "Energies Media",
       "sourceURL": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDOGl3MnZOelNZTWtvN2pvX3VpeUgtTVZNRlAtRVFSNVpzWGVYek9vRnp4QkJzejVQUGtyUjVyZ04wQXBXOVdXUkU0WlByeWlCZXNrQTRFeWYtVHRWVGYtamp1bFkxcHRWeFVsVnRWWWllOFU?oc=5"
+    },
+    {
+      "id": "f6456b1cd050aa2f",
+      "date": "2026-08-30",
+      "kind": "grid",
+      "title": "Will AI Raise Your Electric Bill? EIA Starts Counting Data Center Power as Maine Pauses 20-Megawatt Builds",
+      "detail": "",
+      "builders": [],
+      "stateCode": "ME",
+      "mw": 20.0,
+      "facilityId": null,
+      "sourceName": "Intelligent Living",
+      "sourceURL": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XNE9oQTJNVjc1Xy1mLVRyZUl4UllZZWFjSkVHNXBPT0dUQThiQ1lTOGlnRWhUMUZtN2IyQmwtemJuYXJKc0NxUE5wRnNrVnhROU85cjdKTnJ4UHV6dnlBdndoUTY1ZnN5T0RZWm0zX3NaSFpXU0F4VjF5RDc?oc=5"
     },
     {
       "id": "4ea075bc43540d3e",

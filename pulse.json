@@ -1,7 +1,90 @@
 {
   "version": 1,
-  "updated": "2026-09-07T17:57:56Z",
+  "updated": "2026-09-10T16:42:48Z",
   "events": [
+    {
+      "id": "33315cc82f4d2675",
+      "date": "2026-09-10",
+      "kind": "announcement",
+      "title": "Google-Blackstone's TPU neocloud named Crux AI, hires Meta's data center engineering head Alan Duong",
+      "detail": "",
+      "builders": [
+        "Meta",
+        "Google"
+      ],
+      "stateCode": null,
+      "mw": 2000.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/google-blackstones-tpu-neocloud-named-crux-ai-hires-metas-data-center-engineering-head-alan-duong/"
+    },
+    {
+      "id": "59b5a24b68d71ccc",
+      "date": "2026-09-10",
+      "kind": "announcement",
+      "title": "S+B Gruppe to build data center in Bucharest, Romania",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 12.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/sb-gruppe-to-build-data-center-in-bucharest-romania/"
+    },
+    {
+      "id": "8f52de67f7d5babb",
+      "date": "2026-09-10",
+      "kind": "announcement",
+      "title": "Massachusetts Sets Clean Energy Rules For Data Centers",
+      "detail": "",
+      "builders": [],
+      "stateCode": "MA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "TaiyangNews",
+      "sourceURL": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeHBqUE1PVDFib1c3TC1BckVHRldIZUNjblFBYW1BeGdnQmlyUW1MQkxKQzUzNWpXRGV1NWlLVWU3Zml3eVh1VGp1SlAwOFU3VG54Ri00cC05VTIxR01JLVdsN3YxWXRMTDJoQW1ySEFEclpuejdPRFU1bGt2Q3RCOGI1enRkOEJiSE9YVlYtZUM?oc=5"
+    },
+    {
+      "id": "6539c24874c72cbb",
+      "date": "2026-09-10",
+      "kind": "policy",
+      "title": "Virginia needs a data center moratorium now | Guest column",
+      "detail": "",
+      "builders": [],
+      "stateCode": "VA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Richmond Times-Dispatch",
+      "sourceURL": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3V3eElJZnlCYS13Uk0tVGRzaGdVVnhpeU5zVnUzR3JObUdMNTNpUU9Kcjd1VTBHeHpVWWJiNkhfMnQ4NEZESzdlcU9hNVJ0SjZDZm93YkY5OU9IQ2U3N2pUZ0l6bnpEVFZucFJfZ0tBNG5xZ0VSRHp4dW1JUjRUWS1Dcm5ySUxNemo0UlVR?oc=5"
+    },
+    {
+      "id": "0929d1d71403213f",
+      "date": "2026-09-09",
+      "kind": "announcement",
+      "title": "OpenAI targets Argentina's freezing Patagonia for $25 billion 500MW Stargate AI data center — Green Capital and FlexDomes prep 120 to 3,000M",
+      "detail": "",
+      "builders": [
+        "OpenAI"
+      ],
+      "stateCode": null,
+      "mw": 500.0,
+      "facilityId": null,
+      "sourceName": "TechRadar",
+      "sourceURL": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPc25PT2wtUEMzQnpPVm9DcVM5bmJ2TTFkN2xidWNzT3ByNWE3OWxBWVpjLUFlZXlsTnJGX0xXWlhXUWtwWXozUFo5Sm9tMU5nSVZ1Q2dRRXBVQVNkTTRVbE8xazRGSTg1VmJ2THFiRjZ6WEJMNUc2TTFwVEhkQVFsWnFiMHIxZFlqamNhcGppY1J2TjVoWlB5NTFvU09JQ1BaNEVIR01TcTFvVHF0SENkZ3BFQUoyWktOUW41RzhwX09ULVZOWDFib0E5MExhS0tqNVNBcjZCZmlHV1dFd3JESU9oMVBzMm9xdmVSNEhOaXVYSmR5SGJ1WUdveDd1QjA2aXN1dHllVU5mNTdrTmFfaE8ybVY2MHhXaHdTdmd5SEZxMHpsYi1RN2NoNXdod3RLdjBHOEpRWURFOWJVeEE?oc=5"
+    },
+    {
+      "id": "e625326494956d7f",
+      "date": "2026-09-09",
+      "kind": "announcement",
+      "title": "368-megawatt AI data center approved in Kearney",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 368.0,
+      "facilityId": null,
+      "sourceName": "Kearney Hub",
+      "sourceURL": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRU1RdVBKOFo3VlU0UHRSWU90cllaVFV3Q01pak5aLXB6RUprTTQyWlY3TFJWdUJ2R1l6bjIwRF93YmxtU1FfSzhPY0NUMnd4UFc5RkNCVXlPdkRSbkpFdlhnS3JMclNtNGc0Uk9xTXRBUm1ORW1LbGNub2d2TlowRlM0VlZLeXN1WEhtZUdnTHluMGhjcW80RDB4Y1ZIN1NvMFlSNS1R?oc=5"
+    },
     {
       "id": "b598a2b742f41952",
       "date": "2026-09-07",
@@ -1632,88 +1715,6 @@
       "facilityId": null,
       "sourceName": "TechRepublic",
       "sourceURL": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODN6UWFnMXFIZVE0ZzVEQ3lfYVNKNFRwM01VRmtoTEN2ek9XTExZbUhkY2YwQXpySXg0QkZfOEhRYzFHbEFhWkpsVi1GYXpGV2JJZWNUUDU3VElBY0JsN05JYzgtQWYwQXF5Rm9wRm9xdVRlUnBjSU1BaXVRdzhOQm8wZw?oc=5"
-    },
-    {
-      "id": "13b93fdaf7b629e1",
-      "date": "2026-07-11",
-      "kind": "grid",
-      "title": "Virginia data center fire during heat wave strains power grid",
-      "detail": "A Virginia data center emitted dark smoke during a heat wave that pushed the power grid to near capacity limits.",
-      "builders": [],
-      "stateCode": "VA",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Business Insider",
-      "sourceURL": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbUZwNEdTOWVzWlkybG12VG1RNDFzd0QzZ0hHSmVBWHE0Rjk1TUExR05DMjNiSDNUYzY5QlptTGlWSHI2STQtakdsYTdCR0lUNjk3Sm5Ma00xTUZOWGgtdTh4VHF2RV8xQ1NSUU1RZVJIUFQ4UlN5X0paUWpxX1BmRUl2WDRWZVdta1E0MHBGamZnNWlQZUN1UWhUWnJsZw?oc=5"
-    },
-    {
-      "id": "a0025ccd5fbe4240",
-      "date": "2026-07-10",
-      "kind": "policy",
-      "title": "North Carolina ends data center power tax break, keeps capital incentives",
-      "detail": "North Carolina eliminated its data center power tax exemption while maintaining other capital investment incentives.",
-      "builders": [],
-      "stateCode": "NC",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterknowledge.com/regulations/nc-ends-data-center-power-tax-break-keeps-capital-incentives"
-    },
-    {
-      "id": "4fdc2446d7364282",
-      "date": "2026-07-10",
-      "kind": "announcement",
-      "title": "Crusoe expands data center AI competition beyond GPUs",
-      "detail": "Crusoe is positioning itself to compete in AI data centers with alternatives to GPU-based solutions.",
-      "builders": [
-        "Crusoe"
-      ],
-      "stateCode": null,
-      "mw": null,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterknowledge.com/next-gen-data-centers/crusoe-pushes-data-center-competition-beyond-gpus"
-    },
-    {
-      "id": "ad095f5ff4229ed5",
-      "date": "2026-07-10",
-      "kind": "policy",
-      "title": "Decimal Digital pursues transparency strategy to win over Ohio community",
-      "detail": "Decimal Digital is using a transparency-focused approach to gain local support for its AI data center project in Ohio.",
-      "builders": [],
-      "stateCode": "OH",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterknowledge.com/data-center-site-selection/can-transparency-become-an-ai-data-center-advantage-"
-    },
-    {
-      "id": "ed6407a4f4bcd5d2",
-      "date": "2026-07-10",
-      "kind": "grid",
-      "title": "Baker Hughes gas turbines to support up to 1.8 GW of behind-the-meter data center power",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 1800.0,
-      "facilityId": null,
-      "sourceName": "power-eng.com",
-      "sourceURL": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUjhZbGJ5MUhWSEVIY3hINzBTUnVkRzZuQldOSy1TUVY2VFRiVVExaENvbzlPV19TSDAzMzg2dmEyOERXRlZULTRmcUIyUmNwTXlTbUJmZGZ3OERsQktQUXdQUkgwbEg3SXlfTjFPcGpyeXpTU2ttZHczWDhSZng4XzJiWF9PNjlMVkJRS08yUHNlWUJTWTdiYkQwWmJfZ3FEVzhfRTA1dVR5RzZlSl9rNk1ISm1qY2F5RXI2aTF1eXhROWowNVE?oc=5"
-    },
-    {
-      "id": "04f5fe487a1dbbdc",
-      "date": "2026-07-07",
-      "kind": "announcement",
-      "title": "Oracle does damage control after New Mexico data center backlash",
-      "detail": "",
-      "builders": [
-        "Oracle"
-      ],
-      "stateCode": "NM",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Fierce Network",
-      "sourceURL": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdy1UWjB2aG1BODRBZHBtTEVSQ2ZnTS1YZmdjTGxpYXVaQ2oxY1N3MFNoMnRfbUtDOGFBOUxNVjN5UUItSEtsYVNMZS1NUTNrMUpibFAtd1dRM3JNLUkwZU9zekxfcTZFNlh4R3Z6Ny1VTm80Zlg3NjlxcjBTWkcxbTFzal9QSTFNRUNzUDhJeG0ycXo2MGdtTw?oc=5"
     }
   ]
 }

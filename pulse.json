@@ -1,7 +1,85 @@
 {
   "version": 1,
-  "updated": "2026-09-10T16:42:48Z",
+  "updated": "2026-09-14T18:13:43Z",
   "events": [
+    {
+      "id": "d8780857364896ef",
+      "date": "2026-09-14",
+      "kind": "milestone",
+      "title": "Edged tops out data centers in Council Bluffs, Iowa",
+      "detail": "",
+      "builders": [],
+      "stateCode": "IA",
+      "mw": 200.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/edged-tops-out-data-centers-in-council-bluffs-iowa/"
+    },
+    {
+      "id": "300f545844ddd1fb",
+      "date": "2026-09-14",
+      "kind": "announcement",
+      "title": "Thor Equities submits plans for 150MW data center in Georgia, US",
+      "detail": "",
+      "builders": [],
+      "stateCode": "GA",
+      "mw": 150.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/thor-equities-submits-plans-for-150mw-data-center-in-georgia-us/"
+    },
+    {
+      "id": "7e14e92ac55d6459",
+      "date": "2026-09-14",
+      "kind": "announcement",
+      "title": "SK Group's Ulsan AI Data Center Close to 900-Megawatt Capacity Expansion",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 900.0,
+      "facilityId": null,
+      "sourceName": "marketscreener.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdnZOVmEySk9kUmRmdmpTOE5pcnVOU014REo4b3FfX3QwWlk0QW0wRk9TbmhVdVRzYmNDemFXa0dndkx3UmNldHg3YzNPUHZ0bkRYNUVVLVVJVkNHTEFzMDlVMkFnc0VDcENFeXlCU201MURxaFNvWm1qLUloOFRjVThEWnRNel9JVU1GaGlLc0RVV1JvT0l4ZFJHNTJnTjZxRlNwTVJtbVl5UHF1Q1dIOXZjVTJwQ0hhQ2xpUksxYkVMV2c?oc=5"
+    },
+    {
+      "id": "1bb35ecc51c63b79",
+      "date": "2026-09-14",
+      "kind": "announcement",
+      "title": "Damac and Vodafone launch Turkish data center",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 4.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/damac-and-vodafone-launch-turkish-data-center/"
+    },
+    {
+      "id": "0cc430d3a543c41f",
+      "date": "2026-09-14",
+      "kind": "policy",
+      "title": "Michigan environmentalists push for statewide data center moratorium, regulations as bills stall",
+      "detail": "",
+      "builders": [],
+      "stateCode": "MI",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Planet Detroit",
+      "sourceURL": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1JMRkZIN1A0aFl5YVpRZmMydVdPN1V0UTlIeWIzUGZCWjVOSXN4amhTYjhPZFRyejBWWXFibkpWTTU2MWdDYk9GSHd2cUtWVHV1blQ3ektXYlFMblNfS3otVVFhSTFOa3EyOG5GdmJNUUlhNnVtOXpSaS0yRUJJTlFVZVVXeWxTT2FzOHVR?oc=5"
+    },
+    {
+      "id": "5fc26aea62ad22ae",
+      "date": "2026-09-14",
+      "kind": "policy",
+      "title": "Environmentalists push Michigan lawmakers to forge ahead on moratorium and regulations for data centers",
+      "detail": "",
+      "builders": [],
+      "stateCode": "MI",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Route Fifty",
+      "sourceURL": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbjdSZWlVWm4tOTBxdldpVlEtTnNOQ2gxNGljRzJmYUFnNF9ZT3RJR0ZGdW56QU9YbEVxN1pPOXNmV0pkR01qMXBNcm9uM0RQU0RUSENEc0dwdTZ0VnViVEFpZHdUMDlPeVVYUXR4dkFtVzFYYWxvV3VlTW1heFRhOXZFcW9sQU9sLUZBMHlia1ZlZlNIRExFWVdQcU11YV9sSWI1dVZIYWNGNnM5OXVtcVJSXzM2aTNkdzNrai05bnBXRG44UTZ1LWpLb2ZCOC1idzVSRFhHYWROVW4wNnNCVE5OOG1zcjFJaVF2SkZPTTVUbWpKb0hEakF6TWhuS01nUU56c0FUMDd4TEZ0cGdqVEZB?oc=5"
+    },
     {
       "id": "33315cc82f4d2675",
       "date": "2026-09-10",
@@ -1628,93 +1706,6 @@
       "facilityId": null,
       "sourceName": null,
       "sourceURL": "https://www.datacenterdynamics.com/en/news/global-stack-pitches-edge-data-center-at-rodeo-focused-indoor-arena-in-california/"
-    },
-    {
-      "id": "21ebb07f4ee6ec51",
-      "date": "2026-07-13",
-      "kind": "grid",
-      "title": "Meta’s 5 GW Hyperion Turns AI into a Grid Anchor",
-      "detail": "",
-      "builders": [
-        "Meta"
-      ],
-      "stateCode": null,
-      "mw": 5000.0,
-      "facilityId": null,
-      "sourceName": "Data Center Knowledge",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOVlqYzRQYWFianRvdzY2azZWaVF4X3R0UVdYTU0tazBzSXVpalRGc0VpX05UcDFMTnVlUXcyYlFIODE4dkdiRG8ydy1qUG9sTVJja2t6LV9McXNwak11ckZza0taZGlxTUpwLUk4VzVYWTNLUUZyM3RNOTg3RF8yUFVaVUNvdXZZMUFEV1hFdFNrdTlBM3h3VDR6aFU2d3RQdkVxT091blY3T1FjMHJEbndBN1k5UVU1YzBGRmNPWF9lMW9obHZKTm53?oc=5"
-    },
-    {
-      "id": "6ee0f758ada17cb7",
-      "date": "2026-07-13",
-      "kind": "announcement",
-      "title": "Shoshone-Bannock tribe pushes back on 100 MW AI data center appeal: Idaho State Journal",
-      "detail": "",
-      "builders": [],
-      "stateCode": "ID",
-      "mw": 100.0,
-      "facilityId": null,
-      "sourceName": "Blockspace Media",
-      "sourceURL": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fRGFkdWRGQ19TcnNDbF9VbE5ZcFJPNmlxM2Y3Tlo2ZXFHa1NNR005aG5YaU5tcHh5bS1QQkpUbktUM29yTmlQS05JY2w3NXRkNV84anR3bW5SbnFDT0xrWi1sY1QzQ3doTVdoUk1IX1B5ZjQ?oc=5"
-    },
-    {
-      "id": "5cac16f2cd8bdcb3",
-      "date": "2026-07-13",
-      "kind": "announcement",
-      "title": "Tract looks to develop 900MW data center park outside Richmond, Virginia",
-      "detail": "",
-      "builders": [],
-      "stateCode": "VA",
-      "mw": 900.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/tract-looks-to-develop-900mw-data-center-park-outside-richmond-virginia/"
-    },
-    {
-      "id": "fb80cc9b51bb02e5",
-      "date": "2026-07-13",
-      "kind": "announcement",
-      "title": "Meta reaches $50 billion investment in 10 million-square-foot Louisiana data center",
-      "detail": "",
-      "builders": [
-        "Meta"
-      ],
-      "stateCode": "LA",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Washington Examiner",
-      "sourceURL": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb3RnNk5VLXFPNXZseFF4RXhNVGpMRTE1ZmY4VEM2LTNhUlpVSkt3WVI5MTMzXzJXWllTTWJvQTZoRkRUOHhPaUhZSjdReGhsejNQTjZXVWdBVFRjb0x2bjlicDFKSmRRVE5lVG1oai1IMVotTE0zbXV3YVZrOWtmT1ZqcXgxWWFwNnBTU2NJUW5CZjV3Z3VLVDhuclhZZEFhUWpEdmgtRGxmLXJQY3Jn?oc=5"
-    },
-    {
-      "id": "637356b8a225b1bd",
-      "date": "2026-07-13",
-      "kind": "policy",
-      "title": "Indiana regulators OK energy project tied to Google’s Morgan County data center",
-      "detail": "",
-      "builders": [
-        "Google"
-      ],
-      "stateCode": "IN",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "dailyjournal.net",
-      "sourceURL": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc21GZU5DbW0xRDdGLURFN19HVUZuYUlsTXFHZ0d3SkNzUW50OFY1MWlEZGwtNW9CeEJ5YVBfTmdjcHFpaDJUeEstN19Ca3N3UnVJUlNRSnBZWF9jRmdnOWpGU2U2aDhxS0xaXzlYc1JmbFZ4RTJ3YUJFOFo3SVFLeDlRMWhYenBTdTRLTVVlVVBtRE1kZldUc3JWZWNZb1dodVZoQTBLTllSUUlyZlRNdXlLMzFtZw?oc=5"
-    },
-    {
-      "id": "d193c1c056655b2e",
-      "date": "2026-07-12",
-      "kind": "announcement",
-      "title": "OpenAI and SoftBank's $100B Stargate AI project stalls",
-      "detail": "The $100 billion Stargate AI project between OpenAI and SoftBank has encountered delays.",
-      "builders": [
-        "OpenAI",
-        "SoftBank"
-      ],
-      "stateCode": null,
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "TechRepublic",
-      "sourceURL": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODN6UWFnMXFIZVE0ZzVEQ3lfYVNKNFRwM01VRmtoTEN2ek9XTExZbUhkY2YwQXpySXg0QkZfOEhRYzFHbEFhWkpsVi1GYXpGV2JJZWNUUDU3VElBY0JsN05JYzgtQWYwQXF5Rm9wRm9xdVRlUnBjSU1BaXVRdzhOQm8wZw?oc=5"
     }
   ]
 }

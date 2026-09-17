@@ -1,7 +1,89 @@
 {
   "version": 1,
-  "updated": "2026-09-14T18:13:43Z",
+  "updated": "2026-09-17T17:18:51Z",
   "events": [
+    {
+      "id": "4051395f7f2c8f50",
+      "date": "2026-09-17",
+      "kind": "announcement",
+      "title": "Aligned breaks ground on gigawatt-scale data center campus in Pennsylvania",
+      "detail": "",
+      "builders": [
+        "Aligned"
+      ],
+      "stateCode": "PA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Data Center Dynamics",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmQxbk4wRmF3eUtqSjV0WUNWUE04VXdJNVVOcS1WRnBpdzVMYnI1U3FlamU1WDdpNkVBUnJVV2FIc19wSnB2TVhONmM3OVpNUmNnZmNmNm5sbzNaX3JLeTM0VjZabkMxaUtCZFVYWGNXbmw1Y19NNjh0c2RHbW9aZ0dPZ1lSd2s2ZlRxR2ZQWTVUS1hhSmFPTkVRMXd1Q1dJS3lYNmZLS2p1bTgyLUpfUTRxZVFTSWxiQmc?oc=5"
+    },
+    {
+      "id": "12aa3f36737fdf67",
+      "date": "2026-09-17",
+      "kind": "announcement",
+      "title": "INNIO Secures 450 MW Order to Power Next-Generation Data Centers",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 450.0,
+      "facilityId": null,
+      "sourceName": "Business Wire",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNWGMxazhKVW0wd1JHd0hiU2xhMlcwSl9PZFFUSGNwZWRqVDhfbUJmWWw1NzFDckVfLW51STlXQW1iX2tET3duQW5qQlVGOFZRdmFpc0JwSXRaUEZucnI4QkYzT3BhcTZwYmVxQU1CcDBDc09QTE9LYVh5OF84OHRrZ2EzemZxMFZjNVN5QXh2bG42UDVkN3YwX1h0eWRtdGNUWFVOWnVLenViMFhaOFJtU2p3QlRIbWpiMWNmWkx2aWdfNVZSTzIzSnBUcW1xVHMwTWlDdlp5Y0RMNVBFaVRLV054TjdLamdRYWdUSGhWRXh0bWJtRmpzT0NoNVZGWV9jUjh0MlV6Y2Z5VnoxN3lRdjZ2a3lwcFVpakRwNS1QdVRDTEJYV3N5VXREX0k3dWRjTmtoaV9mN3JwSlR4UjdWa3VGdE5VSDI3QnR2b3kxTlBqdXY0NGIyNXpNaF90RFFqOGNYb2hmTjFJc3hpel85X2Z1NEs?oc=5"
+    },
+    {
+      "id": "c403768b192b6bf3",
+      "date": "2026-09-17",
+      "kind": "announcement",
+      "title": "Google considers data center development in New Mexico",
+      "detail": "",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": "NM",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/google-considers-data-center-development-in-new-mexico/"
+    },
+    {
+      "id": "2845bf21e3754dbf",
+      "date": "2026-09-17",
+      "kind": "announcement",
+      "title": "New York State recommends demanding AI data centers pay $1 million in community investment per megawatt — framework advises towns to plan fo",
+      "detail": "",
+      "builders": [],
+      "stateCode": "NY",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Tom's Hardware",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNcGVqWXhuOHF1eXVjNkFvb09Ob0lvV21EbXZfem1VRWVCVVZoWDM4QTNlZm1qNjJtcDRCS1FWMlVkVVczTDNMeG9rTFVCTHltcm9ZNDF1aUVlRktuR3duT3gxaHZhMk9wVkt0ejgxWGdFNktaY0hISXdpeXZuYXNWc081RDdSRkI3YmE0ZThMeVBIVTJ2aXJ4bFdrZGUyeDdSRUp4SXdhMnNNSVZuM3k1SHFNWmlGUjZlZUdKYTA0STNqa3pseVZBb1N0Z1J5WWpqeGZrXzAwVTJKbW5LLWdaZ0pVTmp2Z2pteXRvQmV6eXJHMmlrdmtmTlQ3Y3FNbWNkcHJJMXh5a0RvZ2tYNmxHOUFsbTN4bW9ZUWJKRTlIcUt6b2s4aXdJTFdXNHRqWUVIS01wazh5N19IQUFEVV8yTk93NGY1bnlfeDJid3RWOXVnUUkydk1wem8yWW9YMUhsbW9XWUlwU3h2ZzM5cmRpR3JR?oc=5"
+    },
+    {
+      "id": "c95c7534234c5d2f",
+      "date": "2026-09-17",
+      "kind": "announcement",
+      "title": "New York Unveils Data Center Investment Framework",
+      "detail": "",
+      "builders": [],
+      "stateCode": "NY",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "BKReader",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd01xYTVheWlZOV94RDlYX2FDa0dSR21peVBZalhGRVczRGhIcGVOcjhoQnVjdHlwVkswamZJM2FrRUJZaWtIVUtab1NtSWNueGtGRlFRTzgyYjNpODJkZ0JTaUthclpGV0l4aHFNSjVNamdMeTZOQUZOUkpNWnRBTUx5MUF2dUNfRTVOeWhaQy1sQ3NpQXdadkd1VGFiOHp0OWhB?oc=5"
+    },
+    {
+      "id": "6c1422efbe73b23b",
+      "date": "2026-09-16",
+      "kind": "announcement",
+      "title": "A tobacco-and-dairy county in southern Virginia killed a plan for 12 data centers and a 3,500-megawatt gas plant. Residents organized with h",
+      "detail": "",
+      "builders": [],
+      "stateCode": "VA",
+      "mw": 3500.0,
+      "facilityId": null,
+      "sourceName": "ScienceBlog.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNczFObk1kU1U0MVdEcDBPellOYlZlSnJnUm5wM1RaZW5zVVhtMGdpQ0NXQmRDLXR3N05wZ3N2T0hLUWdvcHJmaEI1QUkxeEstazFzajd3VXZpNW1JZWhYT2N3Tl9MNmI3Mm9LQXlUMll1dVU0VEZzaHY0TEtvRTZyLVBIbmNLVGRYeHRrVDh5OGlGNGdLa3FWWFFXWDdxRjlSV3BhanVPUHVvcmF5a2R1aGhjRkh5SVpIMmxRdkVZVVpkTkE1UnVBV09NbFVFNVV2bVFmRTJndUgwc1paWTZKeW1zY3ZJNUVodnloMDE1X0dmSUFhUVdtbzkwZjJpb3hwUE5ndkZ6SllScUVKcFhNWTNaWFJFSlhMcGU5WU1UaVN5TzUwYmdQY2R1Q2J1QnlH?oc=5"
+    },
     {
       "id": "d8780857364896ef",
       "date": "2026-09-14",
@@ -1626,86 +1708,6 @@
       "facilityId": null,
       "sourceName": null,
       "sourceURL": "https://www.datacenterdynamics.com/en/news/county-officials-deny-application-for-2000-acre-data-center-campus-in-virginia/"
-    },
-    {
-      "id": "97dab7c82e9873ae",
-      "date": "2026-07-13",
-      "kind": "announcement",
-      "title": "TA Realty buys data center-zoned land in Sterling, Virginia",
-      "detail": "",
-      "builders": [],
-      "stateCode": "VA",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/ta-realty-buys-data-center-zoned-land-in-sterling-virginia/"
-    },
-    {
-      "id": "772dd34f4d8af35d",
-      "date": "2026-07-13",
-      "kind": "announcement",
-      "title": "Nebraska carbon black plant set to host data center",
-      "detail": "",
-      "builders": [],
-      "stateCode": "NE",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/nebraska-carbon-black-plant-set-to-host-data-center/"
-    },
-    {
-      "id": "9631884f7ff3a864",
-      "date": "2026-07-13",
-      "kind": "announcement",
-      "title": "EdgeMode enters non-binding offer for 300 MW data center sale",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 300.0,
-      "facilityId": null,
-      "sourceName": "Investing.com",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGt0U3BsbWZMenFsWkJyV2dTS05MX1hXcTl2Tmxqcmt5ejNIamNpMkJCLUhkZnFQc0RORHlnWGFKb2dOZnJ1LTdWcFVuU201bmx0Y0dkRHU2MkI3Q1lPMEo4T2FaZmNTemdKci05MzkyVG1fZzZQQWFqQXUyVVlScDNhcGJFRmxVNVZjRTROS1V5OXNyNEZKT2oybFFDanJMTnZKLTkteE5sb2dRcWkzSFo5WnhFYW95?oc=5"
-    },
-    {
-      "id": "2dd9173fe710f95a",
-      "date": "2026-07-13",
-      "kind": "announcement",
-      "title": "HCLTech to invest Rs 3,500 crore in AI data centre business, targets 50 MW capacity",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 50.0,
-      "facilityId": null,
-      "sourceName": "The New Indian Express",
-      "sourceURL": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQ1lYeG5rMWxCSFVaVHQ2TmhCckJFQjNMV3JwUDRDcnBTMWdwVkk4VlpxdXJNTklRT1pkeWNTc1JSX2R2a1ZwRDNMZWlYZjExeXFsaVIxYUhxYXY4QXVVNlMxQVZmeU5YVVYzZHM0c2FrNVpYemNwQTFkdnd4VzZ6OGswb0ZEck9naHFLQXNZTm5TNXp3WUtSVEVSZlFpa2ZCVDE5ZWZqWmNVZVYxZ3pOY2ZXbzdIaGE5ZzNBZDBPbHFyN2EtNklqWVIwSXNnZUJS0gHeAUFVX3lxTE5BeW9rR2w5ZWlkb1NEb3pCMW5ZV3pXOEQ1R09RalF6dUtrYWhVWkwyUk1WeExyajNBdFZoLVRhYzRjMUZpTzNLVzlDc0luNWM0WHdvM3praWRUYzhkb01QQzJ4UGNxSVB6XzBKU2FCcURqdkg3dkFGVURhaUE4aGNfZXJjeUFrSHBQRTJVa2h5M0s2ZUcwNE9fdnRNeWd0VkpEX1pQUUNWdDdqaEVJSUs0LXFCVG9YcDRTY0U3VEFETXdzb3pGWkcwT0h3bUlQNEx2cF8wd0NyNndWNjU3Zw?oc=5"
-    },
-    {
-      "id": "9943bd21aed6b194",
-      "date": "2026-07-13",
-      "kind": "announcement",
-      "title": "Mindstream Energy proposes 400MW gas-powered data center in Jordanian gas field",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 400.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/mindstream-energy-proposes-400mw-gas-powered-data-center-in-jordanian-gas-field/"
-    },
-    {
-      "id": "3071d916754351ec",
-      "date": "2026-07-13",
-      "kind": "announcement",
-      "title": "Global Stack pitches Edge data center at rodeo-focused indoor arena in California",
-      "detail": "",
-      "builders": [
-        "Stack"
-      ],
-      "stateCode": "CA",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/global-stack-pitches-edge-data-center-at-rodeo-focused-indoor-arena-in-california/"
     }
   ]
 }

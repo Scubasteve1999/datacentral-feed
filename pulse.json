@@ -1,7 +1,78 @@
 {
   "version": 1,
-  "updated": "2026-09-24T17:36:12Z",
+  "updated": "2026-09-28T19:52:10Z",
   "events": [
+    {
+      "id": "a440082b1da22bfa",
+      "date": "2026-09-28",
+      "kind": "announcement",
+      "title": "OpenAI seeks technician to lead network buildout for unidentified 'partner' campus at Stargate Abilene",
+      "detail": "",
+      "builders": [
+        "OpenAI"
+      ],
+      "stateCode": null,
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "SDxCentral",
+      "sourceURL": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbHhlUUlEUGZlQWt3Qi1iRFVyb1ZKZU11blJ4SHFkcUhMNGxwaXZiTUgwY1pBNTBnYU52NDgtNzVHa2JZbC1tNXFpMGNTa0stS01MSTlYU19CSlk0TEhlUklxUE1oXzZtSmppanVZZjdTT3RCem96aUZXb01sbms2S1ZRMm5jeHRXNERUZ2NJZXloZVZPLVBBRkJWWGtQVzljTVozMnA4ak00UG9wQzBpRUliVDdvTnUwQV9CNXBqX0NCX2kwdjFaYkdoUnQ5QQ?oc=5"
+    },
+    {
+      "id": "7478de4f13223c24",
+      "date": "2026-09-28",
+      "kind": "announcement",
+      "title": "See how data centers are changing the American landscape",
+      "detail": "",
+      "builders": [],
+      "stateCode": "WA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "The Washington Post",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd21GM0FMOHRCREgyYVVpRDV3cWlkRmZ4Vkd6YlEzUG1kOWZjRWxEWk51QldNbUd5dXNWLTFpQ3VlUFNGR0cxWVBOZmFlM0hkQjMtS05QUUt3U29zeWVVZXVPN0hIYUZYbUxaTm5sQnB3M0FtWElmcnJRQ19JRndSNXcwVWRORG9KYnlrNHdXZXBNanVJbU5JS1VsbFY4Rm1PbFFBMjJ5VWFqTWhrWjItTU91LVA2aF81OVJFOWhJTGRqdw?oc=5"
+    },
+    {
+      "id": "f072cdadd60f46ec",
+      "date": "2026-09-28",
+      "kind": "policy",
+      "title": "New Mexico Dem governor nominee Haaland announces data center moratorium executive order if elected",
+      "detail": "",
+      "builders": [],
+      "stateCode": "NM",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "ictnews.org",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbTljRUIwTUxVQUVzeldXdjJYZ0RaY0s0M2Y4WGJmYmhNLUZMc2lLUW51RFN0YmJyZGtHMkRRLXYxb0ZqeEZIUnBwX3lkZG9jaC1leUNvWTRjUXV0VDZhQjlXcjdFVnFuRXRaeWdKOTl4UWNfVXdWVUNjSmJxUFlGSGlXZmN5Ymh5MEFHa3JMMFRjaERRZXpoTnlMU3I4WUlSZlhSZmY3UVpiVGF5MlMyRlFFQ0d5X3lLN0RpZUFuY2hiZzg?oc=5"
+    },
+    {
+      "id": "8b5e8a6dfa35635b",
+      "date": "2026-09-27",
+      "kind": "announcement",
+      "title": "Lambda Plans New Data Center at Oklahoma’s MidAmerica Industrial Park",
+      "detail": "",
+      "builders": [
+        "Lambda"
+      ],
+      "stateCode": "OK",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Unite.AI",
+      "sourceURL": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX09wQXJYeHRkazNJcmhMbU9MTlZ0dmNpUm1SZGNWQ1ViZmx2b29SZENOUS1pT3BYYW5lSlJKUXBUOHB1X1NyR0tWaFI4c042N2VJUnhSYm9kYVNlM3lDbndwUnlOT21jUnRRU2YycEtoNmQzX21uU1Nwa1UtY1MtYmQ5QXpLOHc0U2tEX1JCTHFZc3ds?oc=5"
+    },
+    {
+      "id": "2f352bbff1411bef",
+      "date": "2026-09-24",
+      "kind": "announcement",
+      "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+      "detail": "",
+      "builders": [
+        "Oracle"
+      ],
+      "stateCode": "NM",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "techcrunch.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU29zNVFCb2lhekZiajVsRE42ZnQ5ZG1EVlBIMFFKamd1VVUwMlQ0N0FJOVpRYW5YejNDT2JCS0ZGQVNHOG16Y1VtZzZwaHh6WUg5MXctcVVKQ1lOVUgwTU9OUC1NWUFRT3J0M01maFh3WFJlVzlhX2ZqemZCMG9hNDUzRWlpVWFSdkVHV1FzeHM5eElJUnlsT1NQR2Q5YWtpWUZEblY0MnNnNGM?oc=5"
+    },
     {
       "id": "25977b6d40cfa353",
       "date": "2026-09-24",
@@ -16,6 +87,19 @@
       "facilityId": null,
       "sourceName": null,
       "sourceURL": "https://www.datacenterdynamics.com/en/news/oracle-issues-force-majeure-notice-to-blue-owl-following-series-of-setbacks-at-project-jupiter-data-center-campus-report/"
+    },
+    {
+      "id": "5427c5a11429cfa1",
+      "date": "2026-09-23",
+      "kind": "policy",
+      "title": "NJ Fines Data Center $1M Over 123 MW of Unpermitted Generation",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 123.0,
+      "facilityId": null,
+      "sourceName": "Engineering News-Record",
+      "sourceURL": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYm90UDRMNDgtaG5WbVpJYzBUWUxwSHNMQ2ppdHlqNS1lYWFuRUNtb1RvZWx4YkJMSW1LbWU3VXNKS0xvMHVBRDFCWm1QdjdrZXhaOTUyNXdZbXRKNDRzSWdBWGhfcDNIQWxPYUlpdkRkd1NHMmd5YV80NHZjQURtSzJiTGRQazVRbmdldUFRc2VaRVlQa1AwMzZkSUU?oc=5"
     },
     {
       "id": "7f1de870d0b7396b",
@@ -1619,98 +1703,6 @@
       "facilityId": null,
       "sourceName": "Unite.AI",
       "sourceURL": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdzBNQUNGcDJlbVdKUVQzQ3gzUEJSU0F5akczMjBELU1IS0o5NGRIZVI1UFdyN2ExdGNoY0lxbTBNd2dxcHlYMUlhVlhJdHp0UFJ5b25vM0Jfd2hsUXlTTFpPSDVzdUJ4YTgtZVdHUkR5UDBjTFAzLVZHOU8wYktBaQ?oc=5"
-    },
-    {
-      "id": "dffa2c186c977eb2",
-      "date": "2026-07-20",
-      "kind": "policy",
-      "title": "New Mexico regulators reject natural gas pipeline for Oracle's Project Jupiter",
-      "detail": "New Mexico regulators rejected a natural gas pipeline required for Oracle's 2.5 GW Project Jupiter data center.",
-      "builders": [
-        "Oracle"
-      ],
-      "stateCode": "NM",
-      "mw": 2500.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/new-mexico-regulators-reject-natural-gas-pipeline-for-oracles-25gw-project-jupiter-data-center/"
-    },
-    {
-      "id": "35860d8b7ad89e20",
-      "date": "2026-07-20",
-      "kind": "announcement",
-      "title": "Big Digital Energy and 10NetZero acquire Texas site for 300 MW AI data center",
-      "detail": "Big Digital Energy and 10NetZero closed acquisition of a Texas site for a 300 MW AI data center campus.",
-      "builders": [
-        "Big Digital Energy",
-        "10NetZero"
-      ],
-      "stateCode": "TX",
-      "mw": 300.0,
-      "facilityId": null,
-      "sourceName": "citybiz",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZWxLYUtTOWR0TlBNQXdRSWcyQVgxUzlHNndlWFh6RURqcF9oUkRuVWQzLTNzYlZ0amhQMUF6ZzlwN0o3R05NaGh4cGJqaEVsU1ZuSkJQX3I0Tml2VEJsNlFkYmVQMmFYRVRPWm9fZkFydjdfQUVSVG1VMldvTkY4akxSZ3BGcm13Q0I2bU50T1VTR1pjOGxrYU5fWFFwUV9YOUFTMFRmUlJ5SVBTOUhmc3RVb2ZBUExBczlCQkpwY05MSWU1cFVNLQ?oc=5"
-    },
-    {
-      "id": "5cadf86f3d06a44f",
-      "date": "2026-07-20",
-      "kind": "milestone",
-      "title": "Hut 8 fully commercializes 1 GW Beacon Point AI data center campus",
-      "detail": "Hut 8 fully commercialized its 1 GW Beacon Point AI data center campus with a second 352 MW IT lease.",
-      "builders": [
-        "Hut 8"
-      ],
-      "stateCode": null,
-      "mw": 1000.0,
-      "facilityId": null,
-      "sourceName": "PR Newswire",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNYzZ0WlZvdF9Gai0xZkI4NWtEQUZCSThnd3FnLTdrcnhLcUpzSXJ3UXpwWkc4OTVqX3Y0UmhwY2tISl9yaGpqdmJtMGVpY3l1QXo3MFJFWTB3Wk9zaTNxUXNMdXJmZjNsU1M4REQ5eVhSOW5QODZyMWRQZm9GMTZaNEhsZVI1MjA0TWZvLUlWaVVvXzJtOUtXTzdZdkZiWFRrS0Q0czUzQklVNVdGQUtOb05fNWgzdU92czJBSURMTklhUFJob18wcjZjZndzRmFkYjFIWWJqampXVWRFWDRQUE9FX2ZiVzJiODNab1JETG4tcDdWTWJnNVB2bUM2VU4xU2JHSmx6MWVSQVdWQXVLNmlTMGd3b1ZqWUhkdEd0aDFCc2JNZzFESUU1ZWFkeF84Y25mNzkzX3o?oc=5"
-    },
-    {
-      "id": "cdbc5d2d6377461c",
-      "date": "2026-07-20",
-      "kind": "announcement",
-      "title": "Jane Street weighs 200 MW data center for quantitative trading",
-      "detail": "Jane Street is considering development of a 200 MW data center as quantitative trading becomes increasingly compute-intensive.",
-      "builders": [
-        "Jane Street"
-      ],
-      "stateCode": null,
-      "mw": 200.0,
-      "facilityId": null,
-      "sourceName": "Disruption Banking",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1J5SHd0X1lWbGxmOU95OUFEQWtPYnNqcUhpVFkxSXI2eUE5YVhsc3ZOTFRweG03c0IyTVRjcUdtNVpHVFhCYlp6WTdYU1FjNlhjZjNHdm5aOU9KVVVLbnowamExc3lQUzJiMTdNLWcwTUpuZVRiQXM0VXZkdkF5RVRzcEtnSWs3UkZoMjllbGZxSkgwQktYRGUzTWlMYjFLejI3VVFKSTJnaHhrLW1OYTZRdlBCZVZ6UzFuRXFBVFpZUQ?oc=5"
-    },
-    {
-      "id": "914f657955dcaf54",
-      "date": "2026-07-17",
-      "kind": "announcement",
-      "title": "Crusoe and Lancium partner on 1 GW AI data center campus in Childress, Texas",
-      "detail": "Crusoe and Lancium announced a partnership to develop a 1 GW AI data center campus in Childress, Texas.",
-      "builders": [
-        "Crusoe",
-        "Lancium"
-      ],
-      "stateCode": "TX",
-      "mw": 1000.0,
-      "facilityId": null,
-      "sourceName": "MyHighPlains.com",
-      "sourceURL": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdHAzelFNQ0NXZkF4aVVTSWRCSDBC..."
-    },
-    {
-      "id": "5ebd0d5a16ee7565",
-      "date": "2026-07-16",
-      "kind": "announcement",
-      "title": "Crusoe exploring 100 MW data center in Franklin County, Virginia",
-      "detail": "Crusoe is linked to a potential data center project in Franklin County, Virginia.",
-      "builders": [
-        "Crusoe"
-      ],
-      "stateCode": "VA",
-      "mw": 100.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/crusoe-linked-to-potential-data-center-project-in-franklin-county-virginia/"
     }
   ]
 }

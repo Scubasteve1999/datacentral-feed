@@ -1,7 +1,74 @@
 {
   "version": 1,
-  "updated": "2026-09-28T19:52:10Z",
+  "updated": "2026-10-01T18:35:45Z",
   "events": [
+    {
+      "id": "7f8379b2fea8f322",
+      "date": "2026-10-01",
+      "kind": "announcement",
+      "title": "Nebius signs 50MW lease with AIB Data Centers",
+      "detail": "",
+      "builders": [
+        "Nebius"
+      ],
+      "stateCode": null,
+      "mw": 50.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/nebius-signs-50mw-lease-with-aib-data-centers/"
+    },
+    {
+      "id": "d194a5351a840b37",
+      "date": "2026-10-01",
+      "kind": "announcement",
+      "title": "9.4GW SMR-powered data center campus proposed in Utah",
+      "detail": "",
+      "builders": [],
+      "stateCode": "UT",
+      "mw": 9400.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/94gw-smr-powered-data-center-campus-proposed-in-utah/"
+    },
+    {
+      "id": "12fe0cbec1bf39d2",
+      "date": "2026-10-01",
+      "kind": "announcement",
+      "title": "Alabama senators back data center bill to curb energy costs, but vote falls short",
+      "detail": "",
+      "builders": [],
+      "stateCode": "AL",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Alabama Daily News",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNb1RMRG1XYi1HY1dOdEdGMUdtdlI0M2UwYnNTLWVtelgyaDB4RC1UYVJ6MEJ1NFNGdnF6QjVBZm9oSXNhTG8tMTBac1JDOVplWHQtVVdtR0ZEMDNqMEN5S1JwZFdIMXRuQVJGRnBFYXZfNUdvMHp1QkR5QUFmTUxCbEZ1ZkhHT1VoYlAta1RsMFBaY2dvMG03S3YwSjVRT0xMdTN6S0VKaFQ?oc=5"
+    },
+    {
+      "id": "45de5fbfd93df577",
+      "date": "2026-10-01",
+      "kind": "announcement",
+      "title": "Ricketts weighs in as data center ratepayer bill falls short",
+      "detail": "",
+      "builders": [],
+      "stateCode": "NE",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Central News Channel Nebraska",
+      "sourceURL": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnpnWUxUeUJVc3JjNnM4ZWt3QXJmS05Zb1R0R2cxRS1YVVhjYm5ua1ZXSWxRWjJsMW40RTRyU1NTeS13YTRMTUtYQ2xSXzZFcXQ4ek5tRHlieUYzbGx2Q0xRekc1c1NKSlQ0d0RHVkVEUVlVclRKbGtRNmhQQmtvYlVNZVJSbkFLdXl1V3ZoYWpIRDA2LVZ3a2ZMLWUwYmViQmhOdDJYSE56aWVWcWRqRHlEOU1VdEE?oc=5"
+    },
+    {
+      "id": "f0b3d57efcdd0111",
+      "date": "2026-09-29",
+      "kind": "grid",
+      "title": "The 200 GW Moment: Reinventing the Grid for the AI Economy",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 200000.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterknowledge.com/energy-power-supply/the-200-gw-moment-reinventing-the-grid-for-the-ai-economy"
+    },
     {
       "id": "a440082b1da22bfa",
       "date": "2026-09-28",
@@ -156,6 +223,19 @@
       "facilityId": null,
       "sourceName": "pv magazine USA",
       "sourceURL": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWW1sanNIdTZ4RDBoQ3lQV0dUZ3pKVVdKaW03dzZlMlNhVXktWFR4WU5VQktPczd6NG1jek5qWXI4ZUQzeWd6cXRVSEJoNE02WHhHSmNVSENWekRDQjZFZWRweEJtR2ZQQ2ZFOHdNZFJWblpNN2hVNVZaUzg2czBDT0Q0RTZMYkJ1S1lDQUJUdWhDckZsalFlUFFIdUQ0dGkydEFuWnF0NU92dWsyVkdaVjJyQVRRNkE5QjkwN0hJLXpjWkZpMG40?oc=5"
+    },
+    {
+      "id": "6c4c494742a20835",
+      "date": "2026-09-22",
+      "kind": "grid",
+      "title": "BDx Breaks Ground on 640MW AI Data Center in West Java, Backed by 845MVA of Secured Grid Power",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 640.0,
+      "facilityId": null,
+      "sourceName": "sg.finance.yahoo.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdjI4dHhIQmwzNHdCMm1ZMGhlV3Jld0txRXh5d0dTaEVnSE81ODhISmRfeF8tY0tfRjdpcjN4NElKeXBZa0p5V2U2WUhZb1BwZzB0Zm1Ha2ZtTWdlcVVrY2h4bVZmV2htaDJldF9mOFcxSmQwdmZPeE9hei1ralptbQ?oc=5"
     },
     {
       "id": "29c09ee84dadaf39",
@@ -1611,98 +1691,6 @@
       "facilityId": null,
       "sourceName": "The Business Journals",
       "sourceURL": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFdkN0x2RURIaGpCWV9JamgxMXZfOUZ4dml4R3ZheHVLb0ZIZnBybURRZmRNaXFZS09sRHlvRUI5SWhlSHZBNkxpWi1yWFpQT3Z4VjBKR1ZSNnJKcWRrdUlYRFg5eDZNQlQ4SEZ6eF8yejUyMFEtZy1CQU95M2YzNVB5eEVoRldJTG5veWV6UGI0aUNzZGY1R1Fhc2pDS2c0VGo3VHBZMXVyQQ?oc=5"
-    },
-    {
-      "id": "35611b006b552dd5",
-      "date": "2026-07-23",
-      "kind": "announcement",
-      "title": "Liberty Energy and PowerBridge form JV for 2GW data center in West Texas",
-      "detail": "Liberty Energy and PowerBridge formed a joint venture to power a planned 2 gigawatt data center in West Texas.",
-      "builders": [
-        "Liberty Energy",
-        "PowerBridge"
-      ],
-      "stateCode": "TX",
-      "mw": 2000.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/liberty-energy-powerbridge-form-jv-to-power-planned-2gw-data-center-in-west-texas/"
-    },
-    {
-      "id": "14cb811ac0e95a14",
-      "date": "2026-07-22",
-      "kind": "announcement",
-      "title": "OpenAI plans 3.2GW data center campus in Effingham County, Georgia",
-      "detail": "OpenAI announced plans for a 3.2 gigawatt data center campus in Effingham County, Georgia.",
-      "builders": [
-        "OpenAI"
-      ],
-      "stateCode": "GA",
-      "mw": 3200.0,
-      "facilityId": null,
-      "sourceName": "Data Center Dynamics",
-      "sourceURL": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX2d1RGtfX2FuNExpelNlY2NjbkFId1AzT2lxbFRsNVEtZDJYeGQ5OE1fQlhEY1hmVkFSNnpUZEZIS243OUtERnpQaWRHSVAtcUVVaVlQQ29LUUJNelg1YmdqWmc4eVZlT0ZSQnI0anVWQ1ZuWGx4WjBWVHJPdTNuYmhMMVlCN1BBRnZZZEJsaUZHX0EwN3BkTEtWbmhpazhYY1Bva2JtZEtpVUNXcThlVQ?oc=5"
-    },
-    {
-      "id": "46d54feee00a4774",
-      "date": "2026-07-22",
-      "kind": "announcement",
-      "title": "SpaceX explores 1-gigawatt data center in Texas for AI computing",
-      "detail": "SpaceX is exploring the development of a 1 gigawatt data center in Texas to expand AI computing capacity.",
-      "builders": [
-        "SpaceX"
-      ],
-      "stateCode": "TX",
-      "mw": 1000.0,
-      "facilityId": null,
-      "sourceName": "Benzinga",
-      "sourceURL": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjJmdDNRVVRrdzVmemEyaVlUWV82c3BKRk5xSWc1bDhsZ2MyS19pSFd2bGdUNkhNbUFqZFB5eUJDY1UtOTJ2RlN0Tjg4OTRQZmtBWnU1SGxXVHRFNm9IRm5BNzJvNjR6ZzBBOXlpUFZwRjFpYXF4aUoxVy1kaVMyYkZNZ0wyUzZZYk5VaGxybU16MU9zUm5OQnVaNGJEZWk4UVp6SUdhNWRQSEdLZFV0MGo4WkNTRDg4TkswaQ?oc=5"
-    },
-    {
-      "id": "a0449351e64189e4",
-      "date": "2026-07-21",
-      "kind": "milestone",
-      "title": "Z.ai powers 1-gigawatt AI data center built on Chinese chips",
-      "detail": "Z.ai launched a 1 gigawatt AI data center built entirely on Chinese chips with multiple 10,000-chip clusters.",
-      "builders": [
-        "Z.ai"
-      ],
-      "stateCode": null,
-      "mw": 1000.0,
-      "facilityId": null,
-      "sourceName": "Tom's Hardware",
-      "sourceURL": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRDNCTFMwQzB6VjdfRHB1TUhneXF0dFROTkJvWXN4ei15ZW0xdFBQVHd1UnFiWHRvVzZEOEVBU3lCRE84UXVlamFmNFU2MXY1OGVPZFhXRU56V28tcUJjZERqVzA5SFlVMGdkZGlGeHJxLXZaVHY5aVh2TzRNOS1MMkFmS1diZ291cTlTajhPbmtNdmozYXB3NzZRR2Y0Ujl4OTA2Yk8wZnJiaDZHeU4xNFppQUlzUkxRWFZHX2lIRU5yY3B1S3kxVTBCSTg?oc=5"
-    },
-    {
-      "id": "83b2b0b052c5b5de",
-      "date": "2026-07-21",
-      "kind": "announcement",
-      "title": "Crusoe and ON.energy deploy 5GW of AI UPS at hyperscale campuses",
-      "detail": "Crusoe and ON.energy announced deployment of 5 gigawatts of AI UPS across multiple hyperscale data center campuses.",
-      "builders": [
-        "Crusoe",
-        "ON.energy"
-      ],
-      "stateCode": null,
-      "mw": 5000.0,
-      "facilityId": null,
-      "sourceName": "Crusoe",
-      "sourceURL": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ0NUaDV5VHI1Nk9FTDlNS0pJSUtIbEVLVzdqdll6bDVwOFhPQ2R1VmphT1VyNzYxY0VySjZwLWd2R3ZRTklKMU9Db241andnTHRIc3JQZExmVVd3SlMzZzE0NEt5c1hMdDkxcHNQLUZRQ1dVNDh1TjN1V0lMaUVQamtpR0prWmhhZmFQNk1IRmZjcUQxam03R1llV1VuUXQ3MkJBSENfTEVTcUtJR2hNVV8zRHdyNXVaN3ltWEJ3?oc=5"
-    },
-    {
-      "id": "97f8c989b33fed5b",
-      "date": "2026-07-21",
-      "kind": "announcement",
-      "title": "Idemitsu to fuel 600MW AI data center campus in Texas",
-      "detail": "Idemitsu announced plans to fuel a 600 megawatt AI data center campus in Texas.",
-      "builders": [
-        "Idemitsu"
-      ],
-      "stateCode": "TX",
-      "mw": 600.0,
-      "facilityId": null,
-      "sourceName": "Unite.AI",
-      "sourceURL": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdzBNQUNGcDJlbVdKUVQzQ3gzUEJSU0F5akczMjBELU1IS0o5NGRIZVI1UFdyN2ExdGNoY0lxbTBNd2dxcHlYMUlhVlhJdHp0UFJ5b25vM0Jfd2hsUXlTTFpPSDVzdUJ4YTgtZVdHUkR5UDBjTFAzLVZHOU8wYktBaQ?oc=5"
     }
   ]
 }

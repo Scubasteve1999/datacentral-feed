@@ -1,7 +1,90 @@
 {
   "version": 1,
-  "updated": "2026-10-01T18:35:45Z",
+  "updated": "2026-10-05T21:00:29Z",
   "events": [
+    {
+      "id": "d469b119b3cd670d",
+      "date": "2026-10-05",
+      "kind": "milestone",
+      "title": "Applied Digital adds 75MW of capacity at Ellendale data center campus in North Dakota",
+      "detail": "",
+      "builders": [],
+      "stateCode": "ND",
+      "mw": 75.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/applied-digital-adds-75mw-of-capacity-at-ellendale-data-center-campus-in-north-dakota/"
+    },
+    {
+      "id": "95a0c4fc166479b1",
+      "date": "2026-10-05",
+      "kind": "announcement",
+      "title": "TeraWulf doubles Kentucky data center power deal to a full gigawatt",
+      "detail": "",
+      "builders": [],
+      "stateCode": "KY",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Startup Fortune",
+      "sourceURL": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMnVtdnJaM2VlR2t0emZ4aEdOcUUtZ0xjWU8tS3JMOGNyYUxxUmJEbldQUy1pV1J2MTZXOWRYSzF5aFV6VXYzOW5oeFVJc0I2ek1tY3p2OWREVTJSanl0VVV5MDZRcGFvNEkxSEpXeW1Wb1lTbDNBUWN1akFBSFJPb3VucDBlVnhrX1F5QUZmdVZxZ1dpeklsZXdJaw?oc=5"
+    },
+    {
+      "id": "d12d06d3332ba42f",
+      "date": "2026-10-05",
+      "kind": "announcement",
+      "title": "Colorado data center fight heads to Brighton next as opposition grows",
+      "detail": "",
+      "builders": [],
+      "stateCode": "CO",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "The Colorado Sun",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeW1FMW9ZNTlCQ1V1bXhnTGRhbHFRTTYtenVhYV9rSkZKb1cwUm83OVFoSXA3bjNqNExHZXlKSEFnbVJmeklEZW1ORmxQazBTUm1qM2VhazdydFlTaURBS2daSEMtNHBSRVRPeGR0aDNmdUhQQnFGaDNPU2xzY2daTTljUngyTkZuLWFN?oc=5"
+    },
+    {
+      "id": "2fab8905e72f7c48",
+      "date": "2026-10-02",
+      "kind": "policy",
+      "title": "Michigan regulators OK DTE contracts for Google data center",
+      "detail": "",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": "MI",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Michigan Advance",
+      "sourceURL": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYW5ySW1BOWp0MDFZVXF6bF9rMGRDOHJaYU9PQkI0bnlONFgzdmVacWFqMUszSHJJT21zeVl5QVFZdEdlRlBDa0RNMGpkVWM5V0dJUXZTTFA1VVpuLTFxajBoXy1uZDViMF9FS1BhWWN0cG5idVV3blV4LWNReGhTcVZzTDFmTjEtXzZoZjVvWGtfT1pqZ3VzNkFiZl9jM09O?oc=5",
+      "policy": {
+        "status": "approved"
+      }
+    },
+    {
+      "id": "b3e8ae6bc07c377f",
+      "date": "2026-10-02",
+      "kind": "announcement",
+      "title": "Why Enerflex (TSX:EFX) Is Up 10.3% After Landing a 450-Megawatt Data Center Power Deal",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 450.0,
+      "facilityId": null,
+      "sourceName": "Yahoo Finance",
+      "sourceURL": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeE9rZ2xSdzZ1azFTczlYdmlvb1lNcE12T0R3dDdUUm0xcmpFQ0xiQ3ZjSFVIZEEzZFN0eFdvUDhIYWRYZDlob1djWWZHVzBJUEVSMmE3RWZxMEgwN1ZiaHRhdnU2U3NLQldUWjh1ZFpYTTVSWDNMZXNQM0JUUlZTQ25iVE01aHM?oc=5"
+    },
+    {
+      "id": "f6e9d18d012c310f",
+      "date": "2026-10-01",
+      "kind": "announcement",
+      "title": "Valar Atomics pitches 456-reactor, 9.6-gigawatt data center on federal land in Utah",
+      "detail": "",
+      "builders": [],
+      "stateCode": "UT",
+      "mw": 9600.0,
+      "facilityId": null,
+      "sourceName": "finance.biggo.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HOFg5bnZyaVpuV00tanJYTjRQNkhaeG02NTB0b3A5blhGbVFwSERRa3h0dnFBMUVxTmVRWU1IU29wT2NWelF0QUFEVlJKckJZQUFkNGZvYTFheHEyMUhTSWxLeVA5M1lFaXBSaVAtc3ROWDNQUmc?oc=5"
+    },
     {
       "id": "7f8379b2fea8f322",
       "date": "2026-10-01",
@@ -1603,94 +1686,6 @@
       "facilityId": null,
       "sourceName": "TechPowerUp",
       "sourceURL": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0YwQnVvaE5JOGRiMjNBbzAySkY2T0tQT1pPN3FyakpiaWJZV05jdjJrclB1UlFpOTh2TmtLd0VSTnZKVjdrMktuLXp2bTBSQ19fVkdJMzh3RC1NcDJSV3VkTUdOQnAwYmVxX0tMTGdmT3g2QXpXR2h4VzlWcW84ZUp6WmFfQTZOODJlMERGVzVjQUNUOTY0Z20yNUdYYmpVbTVld0J4cFJHaVg5eWRNNXNUOGZzc1hHaGdPdlN2Q3ZHTkHSAcgBQVVfeXFMTnc2ZVhidEo2dk5TOFJzYkM3R09ZQlF0TDF2TWIxRWRUaUtxZmp5OGE0QjNLZFdjOFlNSDczMm1wRHJJLU5nNEVOc05HM2dFZDRSZGxxeERldW5ZWC0yb0pZQWRZSlU4enZSRDNPVmVRMW9EdGVfNE54dW9UREdUb2l2cURpSUt0cEFLSHVNZHRLQjFSbWFCOFJ0OGRzX3dXbGF5aWFNai0xa1JNZ0pSSTQxUEdWQWpVYzFiUEpiZWF3Ty1JbGpBelg?oc=5"
-    },
-    {
-      "id": "12a727b6887d2644",
-      "date": "2026-07-27",
-      "kind": "announcement",
-      "title": "Nvidia and SK Group announce $500B AI agreement with 2 GW data center",
-      "detail": "Nvidia and SK Group announced a $500 billion AI agreement that includes 2 gigawatts of data center capacity.",
-      "builders": [
-        "Nvidia",
-        "SK Group"
-      ],
-      "stateCode": null,
-      "mw": 2000.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/nvidia-and-sk-group-announce-500bn-ai-agreement-includes-2gw-of-data-center-capacity/"
-    },
-    {
-      "id": "57b02ec77d704e79",
-      "date": "2026-07-27",
-      "kind": "announcement",
-      "title": "Nvidia in talks to finance OpenAI's Ohio data center with $250B",
-      "detail": "Nvidia is in negotiations to provide $250 billion in financing for OpenAI's Ohio data center project.",
-      "builders": [
-        "OpenAI",
-        "Nvidia"
-      ],
-      "stateCode": "OH",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "qz.com",
-      "sourceURL": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NeTg5b2ZheHBYdHVkT2JieGZmaGJSaVdlT2xfd01WV2ViODktZXpsS2xVQ3hBLVBEeGF2V0M1MVAwbjhRMC1YWmxLSklrbzNXRTBJMWtDUnZrY3RVWURiY05DNS14OXI3SmlDZFJvZw?oc=5"
-    },
-    {
-      "id": "5317684d603108e2",
-      "date": "2026-07-25",
-      "kind": "announcement",
-      "title": "OpenAI plans 3.2 GW self-built data center campus in Georgia",
-      "detail": "OpenAI announced plans for a 3.2 gigawatt data center campus in Georgia.",
-      "builders": [
-        "OpenAI"
-      ],
-      "stateCode": "GA",
-      "mw": 3200.0,
-      "facilityId": null,
-      "sourceName": "Indiatimes",
-      "sourceURL": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV2h1LUlscU5nM21mMzhhOEFOSFZ3T0RMUXhQWFotcFBoRE1zQ3FYSHEyQkNnMjhtMW9YcTBGeGQxeGNkVjJHbXN3c0xtSUJxcVZTVFA0RnAtTVExd25uNHhzeHJ4d2E5dGRRejZ0RHUwWGhDZ0dxemtFdGZ6U0F4VW15dkV2Qi10S3F0TEkyX043MmF3cXNWUnJ6NkxLSEl3VHhaUGdZV1JfTW9QSDl1bDBXZ0pWcTgyVVRodmJTQm9pb2k3bFRYT3JaX2F3SW41Vl9CZ0JnQTRIX2N1aHh6aUV1Vmg?oc=5"
-    },
-    {
-      "id": "9ab2bd4f86274f73",
-      "date": "2026-07-25",
-      "kind": "announcement",
-      "title": "330 MW AI data center in California changes water usage plan",
-      "detail": "A proposed 330-megawatt AI data center in California reversed its commitment to avoid Colorado River water.",
-      "builders": [],
-      "stateCode": "CA",
-      "mw": 330.0,
-      "facilityId": null,
-      "sourceName": "The Times of India",
-      "sourceURL": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQWUhGazloallBUDdINjBKQmV0aFRlU1ZHUFczdWhBZ3NIOFlTWGxXLXlkZW9va1FsYl9GTTBOVHRpUUl6cmVOTjRKSUE4MEpIbFBNQU4yRXZ1RUtGQU1iaVVzcV9IOTZZa0tQTUpFYTYxcTIyYUp1VXhValFxQnRRakQ2UGZndm1tR29qRlBXSUNFbUhLbjA2LTJFaGl3d2d1akRsRDdsSGJKU3JSV29KTG93cDhJVzFhT3k4ZDhKM1NCaHZpNDI0VU0yNWo3VFVEazhyVlYtMTNtd1cwRU8xLVZzMWFscjNYelRLMlktS3lZV2lmOGpLYzhJU3FmYV8zdWpFTWpQdWRwTW42aUlzdDA0SGZ1ZmhYdjJFUFRzMUVfT0tEQ0JocHJyVkbSAbICQVVfeXFMTW5OQ0RSMmVlczNacU9pcmFvSWpyeWR1NENiZWpIS2xSdWlQaERHWDRCMXBRUDhsQmlPRTFrQWJxUHdUeVRfNUM0RDFYK1FXTkEtckF5UGppX0VBa1hhNmtRdVNJQndQNlhDX21XbGpSMWlvM1dQZUZuaEpMU0ZYLW5tSlpzdUNMYXdjVmJTYW81RFdSTVdzOGdBbWNoTHNxeU8zOFF2WUJlSzJBNm9SZVhQTUljNnFlT0V4elZXVlBmUzVNTUt0cEIwZmZhS2xhN1pIbUpGZ3lfbWtqSWF5M1U1d2MtWG92aVpiVExKSUFDa3FBZGhkRWdZSC1idllnZE1hMjNyTDVwenpvY2JwRWh4Ty05QkxXT25SUm9kOTdqN3c3T2FUcUhaTFk1bmpWTlR3?oc=5"
-    },
-    {
-      "id": "fc453ab964bb4a19",
-      "date": "2026-07-23",
-      "kind": "grid",
-      "title": "Line fault causes 3 GW data center load drop in Virginia",
-      "detail": "A line fault caused 3 gigawatts of data center load to drop offline in Virginia.",
-      "builders": [],
-      "stateCode": "VA",
-      "mw": 3000.0,
-      "facilityId": null,
-      "sourceName": "RTO Insider",
-      "sourceURL": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNDN2czRaT1hjMXJnTGpybzEway1uVGdkejFCeUJnMlhxRGpENGxITlpnMHJjSjVTLW5fNldvVG5zYnBCY2pQRUNvNEJwaGFNSnZXbjF6RC0yOVBpVU5XMXYwVG52a0R1VjlIR0tMMFZpaVRGTklXYlBOYUhEeG5hR0ZCQVBLLWdZVW9NT2VhRks1bnk4YXd4RFFzcTc5dw?oc=5"
-    },
-    {
-      "id": "1e11e0e946eb486b",
-      "date": "2026-07-23",
-      "kind": "announcement",
-      "title": "Liberty Energy signs on to PowerBridge's 2 GW data center in Texas",
-      "detail": "Liberty Energy signed on as a customer for PowerBridge's 2-gigawatt data center in West Texas.",
-      "builders": [
-        "PowerBridge"
-      ],
-      "stateCode": "TX",
-      "mw": 2000.0,
-      "facilityId": null,
-      "sourceName": "The Business Journals",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFdkN0x2RURIaGpCWV9JamgxMXZfOUZ4dml4R3ZheHVLb0ZIZnBybURRZmRNaXFZS09sRHlvRUI5SWhlSHZBNkxpWi1yWFpQT3Z4VjBKR1ZSNnJKcWRrdUlYRFg5eDZNQlQ4SEZ6eF8yejUyMFEtZy1CQU95M2YzNVB5eEVoRldJTG5veWV6UGI0aUNzZGY1R1Fhc2pDS2c0VGo3VHBZMXVyQQ?oc=5"
     }
   ]
 }

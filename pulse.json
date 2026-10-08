@@ -1,7 +1,89 @@
 {
   "version": 1,
-  "updated": "2026-10-05T21:00:29Z",
+  "updated": "2026-10-08T19:02:16Z",
   "events": [
+    {
+      "id": "73f55f4cf8fd3abe",
+      "date": "2026-10-08",
+      "kind": "announcement",
+      "title": "CDC’s 1.4-Gigawatt Data Center Plan Runs Into Local Pushback",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 1400.0,
+      "facilityId": null,
+      "sourceName": "Finimize",
+      "sourceURL": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVEw0MlpMSUpIb3BXTERra0ZUV0lLQUxrdUJwYk04M2xyUnlRdnRqYWlhQ19WbnlpRlpjOUVaUUREcHdvakhvbDNlS1JTNjhyemNvOWx6eXdISmJuQjI1b2J3bV9nU0RPMkhySUdtcGhSWGxweUpJMWx3VEl5ejJRWnVvcHJ6bWFJclVuZmRaUUM?oc=5"
+    },
+    {
+      "id": "d8bea924b4037aae",
+      "date": "2026-10-08",
+      "kind": "announcement",
+      "title": "Built to power data centers at scale",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 1000.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/whitepapers/built-to-power-data-centers-at-scale/"
+    },
+    {
+      "id": "2f77b86d24c19250",
+      "date": "2026-10-07",
+      "kind": "announcement",
+      "title": "IURC approves AES plan to power Google data center in Morgan County",
+      "detail": "",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": "IN",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Inside INdiana Business",
+      "sourceURL": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOUxubTNxY0c5UHJuVFE5bHZVZHFlSDF2RHlIVm9Za0l0cDhDU2M2S3cxSVdRck8tR3dRdlNaNzEtLUNmUUdzQXVLamNyUEl5S3ZXVFVDZkZ3ZE1VS0pYQnFIcm5EZURtaENPQmYxdTE4OVhYN1RBcVVpSHVLVmNobDJodGwxamNGeVR2di1VNWRRNVJVTDJPYUd3dkNuVDZiLUU3N2VNRHlBMWdDREJvMUkwX1o?oc=5"
+    },
+    {
+      "id": "dd6b9f3edff82b28",
+      "date": "2026-10-07",
+      "kind": "announcement",
+      "title": "Data Centers Drive 4.4-Gigawatt Pa. Gas Power Buildout",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 4400.0,
+      "facilityId": null,
+      "sourceName": "MyChesCo",
+      "sourceURL": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDBfS0hId2VWR2JMc3NMem5vblhUMjdUVjdXNW95WUVDbzg3ZVNjWVNLeUVVdWFkMV9qZ3ZUZkJyU0U5bzBLYkhDRml1cHd5dTlCLThLbUJnd3R5ZkdsbXR6NzFtcTVHVzhqUGRIaHR0c215WlctbnRyLTJnOXRlcEstVlFRRHp2TDctM1hYaHEyS2pFY3hUbTFDQ0xadjZi?oc=5"
+    },
+    {
+      "id": "dad6090a37f74f25",
+      "date": "2026-10-07",
+      "kind": "announcement",
+      "title": "Amazon’s Walla Walla data center plan sparks tension between protesters, local officials",
+      "detail": "",
+      "builders": [
+        "Amazon"
+      ],
+      "stateCode": "WA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Washington State Standard",
+      "sourceURL": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU1IwWnBjTG9oT1lhMU15SWhYYnFqUlRfS3dTY1NPaUtGamxyZ2k5WHlZYzlwdjhGWUtocmZfdDR4OU5iOEt5aUlSWDIwa01rT25uZjRER1gyMmdSejRKTDdULW82eWdmVG93U2FVQUFBanZZU2JfN19QY0xHQm9qeVZZUHZRN0pqS2lZNXVQTXNIV2hSUkVBSThxR2RsMzNGcy1oLXB5d0g1RWpuOTlmYVEtSVRwcmZPdjVjeWJ0aDFtRDFoVmVaQ2FuanF3eU0?oc=5"
+    },
+    {
+      "id": "9acec215304513c5",
+      "date": "2026-10-07",
+      "kind": "policy",
+      "title": "Mendocino County supervisors extend data center moratorium to 2028, with a 3-megawatt exception",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 3.0,
+      "facilityId": null,
+      "sourceName": "The Mendocino Voice",
+      "sourceURL": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXRqdi1ZMFFISndVTGdCVElFSHZ5VC1jWGR0czJqVkpDbFBTcGNDMXEzVWNoc0lfd2dlNm5GLTRFLXNMT2s1V2lOa0VxRTJPcFA5WThySVNFR21BYjh2SF9RdFBXa1Rja1J5Q21ULVlIUjVxQ3hLZ1pyQ05DcXA4ejdMV29tTVVRbE5QSU1rOXlZSkJKdW8wTkNIeGZUZFp2a19sVndpNWthTmxaUHJPSk5tbHB6Vy1GY0J5T2xMcE4xNW5Y?oc=5"
+    },
     {
       "id": "d469b119b3cd670d",
       "date": "2026-10-05",
@@ -1595,97 +1677,6 @@
       "facilityId": null,
       "sourceName": "Interesting Engineering",
       "sourceURL": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcEdtcnliMEFiU0NFYWh4WnR4bDd1M0hMcks4WkdCTTB1dDhpRmFuVVYxQ0d5M0ctRTBnR1hUcTJZcDNiR29fUFU2a1JYaXAzVGVDRkRRcUpkcV83VkJGd0VUOVlqQ2xHX1FEQVdVUmZQSVYwMU5qOG5mdVhkY1VNM0V0ZktBa1k?oc=5"
-    },
-    {
-      "id": "47ab79f8e9e51486",
-      "date": "2026-07-30",
-      "kind": "announcement",
-      "title": "Energy Vault begins construction on 8 MW AI campus in Texas",
-      "detail": "Energy Vault is constructing an 8 MW AI data center campus in Texas for Crusoe Cloud.",
-      "builders": [
-        "Energy Vault",
-        "Crusoe"
-      ],
-      "stateCode": "TX",
-      "mw": 8.0,
-      "facilityId": null,
-      "sourceName": "Indiatimes",
-      "sourceURL": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdk0yZXVySlJjRC1kQWt3VmZ4QVo0X3VSdnE0Q0w0alprVGZocjk5UURZZ0ljTmpyT2JGTHNVZmwzMWx2UXFaaWtXdi01NnZJMndsaDJVd3BfMEhyaFhNVzR2UVl1QzB0ZGNPUFp4eEU3aFRKckxVTGg4R1Y1Wjlzk2ptUHFwYXN4S0xxWU50UWctMzl3OFVlMGFjeExDdTh6dDI1OXE0V2ViNzNkZ2hpamZBazdWZ0hRQ0ozNGVMb0J4azJtdUphRWZBUzk4R2ZXbl9IaDhIamR3eHNMSzV1NW9IWFFCX2owTmRVeEtxSGhhTmh6X1otRU13RGYycWJZ?oc=5"
-    },
-    {
-      "id": "d50830ec5b6b96ff",
-      "date": "2026-07-30",
-      "kind": "announcement",
-      "title": "PowerPlay AI and Sharon AI plan 400 MW data center in Abilene, Texas",
-      "detail": "PowerPlay AI and Sharon AI plan to build a 400 MW behind-the-meter gas-powered data center in Abilene, Texas.",
-      "builders": [
-        "PowerPlay AI",
-        "Sharon AI"
-      ],
-      "stateCode": "TX",
-      "mw": 400.0,
-      "facilityId": null,
-      "sourceName": "Data Center Dynamics",
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/powerplay-ai-sharon-ai-plan-400mw-behind-the-meter-gas-powered-data-center-in-abilene-texas/"
-    },
-    {
-      "id": "ca3868f20f73a93c",
-      "date": "2026-07-30",
-      "kind": "milestone",
-      "title": "Hudson Interxchange data center signs new customer contract",
-      "detail": "New York's Hudson Interxchange data center has signed a new customer contract.",
-      "builders": [
-        "Hudson Interxchange"
-      ],
-      "stateCode": "NY",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Data Center Dynamics",
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/new-yorks-hudson-interxchange-data-center-signs-new-customer-contract/"
-    },
-    {
-      "id": "995653b0dccb5903",
-      "date": "2026-07-29",
-      "kind": "policy",
-      "title": "Virginia residents oppose 900 MW data center campus over concerns",
-      "detail": "Virginia residents are pushing back against a 900-megawatt data center campus, citing water, noise, and heat concerns.",
-      "builders": [],
-      "stateCode": "VA",
-      "mw": 900.0,
-      "facilityId": null,
-      "sourceName": "The Cool Down",
-      "sourceURL": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZDRtMXBBNUw3eWlpVk5mUlNxb3hjQ0dQMmVWUjhxNUd4LVJxa0lnUGJZU1VIVmQtckZ0Qk5uS3JaY1VjVGZ2VGw3QVdtR3dfS1liNFg5MlV6bjlSU2RySEM3TnVGS3FTSjVNd19FT0d0THNKZW5Ya21qWXBEaFh2NXUzNVpOM21Gb0wzMW5B?oc=5"
-    },
-    {
-      "id": "1bab87157095dfd3",
-      "date": "2026-07-27",
-      "kind": "announcement",
-      "title": "Nebius plans 1.2 GW data center campus in Pennsylvania",
-      "detail": "Nebius has detailed plans for a 1.2 GW data center campus in Pennsylvania.",
-      "builders": [
-        "Nebius"
-      ],
-      "stateCode": "PA",
-      "mw": 1200.0,
-      "facilityId": null,
-      "sourceName": "Data Center Dynamics",
-      "sourceURL": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUFZMRHd2WE54aF85VDJFbEIxbFhEMjdlN0hKM1dESWZpcE1iN0tQVDhQU1VCUlY0WEk4TGdYbHh0Wmc1bHhUeUd4N2hxdlZ4LWs3MEkydzdmM2w4UFA4UHBheFQ0N0tSTmZpTFA5QmdWWGUtZU9BbU56WDk3bU0tNWxrRDB5TnZkWTBBRThkUl8xRkIzLXpJWlJ6QWtQZXdXaVFSbE1MS2FQR2VZ?oc=5"
-    },
-    {
-      "id": "d13c542994ed0d79",
-      "date": "2026-07-27",
-      "kind": "announcement",
-      "title": "OpenAI and Nvidia discuss $250B deal for 10 GW Ohio data center",
-      "detail": "OpenAI and Nvidia are reportedly discussing a $250 billion deal for a 10-gigawatt data center in Ohio.",
-      "builders": [
-        "OpenAI",
-        "Nvidia"
-      ],
-      "stateCode": "OH",
-      "mw": 10000.0,
-      "facilityId": null,
-      "sourceName": "TechPowerUp",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX0YwQnVvaE5JOGRiMjNBbzAySkY2T0tQT1pPN3FyakpiaWJZV05jdjJrclB1UlFpOTh2TmtLd0VSTnZKVjdrMktuLXp2bTBSQ19fVkdJMzh3RC1NcDJSV3VkTUdOQnAwYmVxX0tMTGdmT3g2QXpXR2h4VzlWcW84ZUp6WmFfQTZOODJlMERGVzVjQUNUOTY0Z20yNUdYYmpVbTVld0J4cFJHaVg5eWRNNXNUOGZzc1hHaGdPdlN2Q3ZHTkHSAcgBQVVfeXFMTnc2ZVhidEo2dk5TOFJzYkM3R09ZQlF0TDF2TWIxRWRUaUtxZmp5OGE0QjNLZFdjOFlNSDczMm1wRHJJLU5nNEVOc05HM2dFZDRSZGxxeERldW5ZWC0yb0pZQWRZSlU4enZSRDNPVmVRMW9EdGVfNE54dW9UREdUb2l2cURpSUt0cEFLSHVNZHRLQjFSbWFCOFJ0OGRzX3dXbGF5aWFNai0xa1JNZ0pSSTQxUEdWQWpVYzFiUEpiZWF3Ty1JbGpBelg?oc=5"
     }
   ]
 }

@@ -1,7 +1,78 @@
 {
   "version": 1,
-  "updated": "2026-10-12T21:25:56Z",
+  "updated": "2026-10-15T17:24:58Z",
   "events": [
+    {
+      "id": "747c5b27c2a4251c",
+      "date": "2026-10-15",
+      "kind": "policy",
+      "title": "Meta named as company behind 3,000 acre data center project in Mason County, Kentucky",
+      "detail": "",
+      "builders": [
+        "Meta"
+      ],
+      "stateCode": "KY",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/meta-named-as-company-behind-3000-acre-data-center-project-in-mason-county-kentucky/"
+    },
+    {
+      "id": "73af2c1c1b2a8a90",
+      "date": "2026-10-15",
+      "kind": "announcement",
+      "title": "Massive Google data center approved in Wayne County despite residents’ opposition",
+      "detail": "",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": null,
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "MLive.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb2pvUThmQm5XLTBoeXpqYWtUM0d6VTNaV2hOSGJUMjN4aHhBSjZSYUZGcHlGSEQ2UWNBSTZrU3BBaE9vZHExcWg4UU9MN01fMndySkVrcFFDRWdieEdUOHdxWEtNNnU3NWt2QW5HMGlUYWF4LUQzTURqZk15Z1JVQVZmOGQwSk92dmkwYWs3dWROYnY5M3RWdS1HZnAtSlc4a05uVUVsQmJOaWVaaVJ0bXVRS1hRcFMxSnM4akVjOTJkVUhPTUJv?oc=5"
+    },
+    {
+      "id": "082ec4dd102b2589",
+      "date": "2026-10-15",
+      "kind": "announcement",
+      "title": "The Midterm Battle over Data Centers: Memphis House Candidate Justin Pearson Fights Elon Musk’s xAI",
+      "detail": "",
+      "builders": [
+        "xAI"
+      ],
+      "stateCode": null,
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Democracy Now!",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnN0M3ZzA1Slo4Nm1RcEVSNzRBLWctTUlRX3dQenpTSThLS3k2dlo2T3lYZHVmTmdwSURqMmpMOS1aOF9KRHhmTk9wT0dSdUJlZUdNazRnMVJ4ODlXTWlyRjBKSzNKemoxVWc?oc=5"
+    },
+    {
+      "id": "8afe3cbb535bda1c",
+      "date": "2026-10-14",
+      "kind": "announcement",
+      "title": "Big Watt, PowerHouse secure 1 GW Texas data center approval",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 1000.0,
+      "facilityId": null,
+      "sourceName": "ET Datacenters",
+      "sourceURL": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQLWlXaWdwdzhYNjdTMWpsMEM1bUc4STJMX1lUeUVkMVJ5OGVGNXF5eFlVSWM5RTJMSS1sUm9tcGJvN21sV2VON0s2ZFRPbkpqWjVBb0Z0M0lwNTdXVXhCbVNjMm5SemVVN0hzS3NEYzJudHJjWmpkYzN6NkdCT2ttLUNZYV9Hc0s0UWxSSEptUlhyazl5dk5FdUlJeWpaLS1PZjU3cE5pY3M4WDFUVmZldDdHSkZ0a2RkWVp4NWM5NVZJOGozeGRDb0ZTc1otcHpuc091cGg1U2dqbjU0MlJZckl0aHdCdzlhNmoxVlVBZjhwLTRjYmxpTEFPNEtVNFhyMjFmVmJseHZPREdHd3llb0g2V09Ua1R1REVFcdIB6wFBVV95cUxOQ045R1Z1OU5Oa3l4MDNRVFF6MGtmajEyQUUtNVVrbFU2a3o2TzJyS3pxZXUzMm1LdjVQWkRnRkhxUU5jQWhOWmdIUTVxM3hMMWVyM3ZUbW1WV0hQdXRuRk9DdzdZQlNHN0N3dkdFbElybFAzbDljVE41YXluLXR3MmZEOWpha0tHWERhYUhXVWlhZVltTksxc0FmbDloTzRuaVJSMTNNVnJmcDhRUTh0UkNhR2dSSGVqUFBKeE1QcE1CQTNIbTRjTnN1XzdUam1nc1huQmhGVjhPeWI3V2k0Q0U4UF9TV21PNHdV?oc=5"
+    },
+    {
+      "id": "f1dbff21484754ba",
+      "date": "2026-10-14",
+      "kind": "announcement",
+      "title": "Developer submits 2 options for 2.1-gigawatt Slate Belt data center campus",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 2100.0,
+      "facilityId": null,
+      "sourceName": "LehighValleyLive.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc1ExdGtZb0poeWpUZkZtaDRPTmJtWUhvcER5cWNDQmVGUWk0M0RwQkQwS1pzNndjZnQ5TlIyTkFYSlR3QVN2dzJQMU56aE4ycmlOd2JzRUFTdmZWd0p0NFhoZWNVMy10c3RQVlRVNGFFaGFkUDFWaVpjWjRtbXpFZzZMTE5xVmZNdzlLOGYzTzhDQkl2enQyTEZhR2ZoLUtrVGJoNVVWZWdZZ3lSdXduMzJRRVBXNXdIMUtVZlZQVERvbUstdjZUcUp3?oc=5"
+    },
     {
       "id": "a18d0bc3f6af9357",
       "date": "2026-10-12",
@@ -161,6 +232,19 @@
       "facilityId": null,
       "sourceName": "The Mendocino Voice",
       "sourceURL": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXRqdi1ZMFFISndVTGdCVElFSHZ5VC1jWGR0czJqVkpDbFBTcGNDMXEzVWNoc0lfd2dlNm5GLTRFLXNMT2s1V2lOa0VxRTJPcFA5WThySVNFR21BYjh2SF9RdFBXa1Rja1J5Q21ULVlIUjVxQ3hLZ1pyQ05DcXA4ejdMV29tTVVRbE5QSU1rOXlZSkJKdW8wTkNIeGZUZFp2a19sVndpNWthTmxaUHJPSk5tbHB6Vy1GY0J5T2xMcE4xNW5Y?oc=5"
+    },
+    {
+      "id": "ab8aa325b458e04f",
+      "date": "2026-10-06",
+      "kind": "announcement",
+      "title": "LG Electronics secures 5-gigawatt-plus AI data center cooling deal",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 5000.0,
+      "facilityId": null,
+      "sourceName": "upi",
+      "sourceURL": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHFaeTVWOFlxR3ZaUVFFVGxtVHI3dEpYTk9VSzlCdy1BY0t5SE9vRWhCZVRxSHpGd0JkZk1uSUpvazBmSlpucmJldHN4TkR0MTNocVlCdEs2MnkxT1o5NnlRek5SR2lZY0p5ZWNlejhGaHNwWDNJSlg3S0xQQ0tld2JObnFRUHh5YkdPQ0xLUVdSUS1Rb0d0WXFXamQ4SVpzNXBISWhxZ9IBrAFBVV95cUxONkVCVTJZb1ZaMUJJczA2SC1Vb045ZFVuQjdjRXlHVDNIMnBqTzYybkJWVTZQaTJ0RWRYQlJPMWd5eEhpa0NfS2dhazdVcEpfZUwtWlFFMjIyckFOUW5SNzNVOGV0MWVOa3NjNUN2U1YzS1V5TDhQQWJhRG5iTktWa3MtTHNEX2kyWXFuVmJzM2tjMkpSUW1UZ01iRDcyNWpvMjB2ZW1tWEFqdXJH?oc=5"
     },
     {
       "id": "d469b119b3cd670d",
@@ -1576,96 +1660,6 @@
       "facilityId": null,
       "sourceName": "Seeking Alpha",
       "sourceURL": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM1hQcUdVZUs0VFJ1S2JMN3UxUXlYZ0kxVjQ5bFBQS1hKTkNHb1doMFY3d2otemUwckp6cVpvd1BiWkRFYlNBb09GU3U4TTZRZ3NpODlZUXRHWmt2OWdJaS1hRVFDdGV5QlNGaUdyUENTdWk2bFBzZDVlRENIQWVkOUx4TVhDbkx6WDJGVlZuY2ZaQVpzenRPWVd4cVRIR2U3X3NxcDc4QjRteFFaMzEwS1l5NG56b01oVks5VXZwd0t6dw?oc=5"
-    },
-    {
-      "id": "b536c43b1d7f8734",
-      "date": "2026-08-06",
-      "kind": "announcement",
-      "title": "AWS explores data center development at Pennsylvania natural gas plant",
-      "detail": "AWS is considering a data center project at a 4.5 GW natural gas facility in Pennsylvania.",
-      "builders": [
-        "AWS"
-      ],
-      "stateCode": "PA",
-      "mw": 4500.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/aws-eyes-potential-data-center-development-at-45gw-natural-gas-plant-in-pennsylvania/"
-    },
-    {
-      "id": "004063831f962cb0",
-      "date": "2026-08-06",
-      "kind": "grid",
-      "title": "NRG nears 1.2 GW hyperscaler deal in Texas",
-      "detail": "NRG is approaching completion of a 1.2 GW hyperscaler agreement in Texas.",
-      "builders": [
-        "NRG"
-      ],
-      "stateCode": "TX",
-      "mw": 1200.0,
-      "facilityId": null,
-      "sourceName": "Utility Dive",
-      "sourceURL": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS0hhUUcwWHRFZ2xEc0hUNlZCYVVoRFBVTzZ0eGRkbXlWcGZobUtGM3hyNFBrZGY3VjlOY0VUZnlabm0xeFNicVNISUlHUVlYaUt0MFhuamlyQjdLc0JHcXo2WWhiUDhubU9Yd1lDZF92dWw1Skcwc0J6MDFPZ1ZTRkNJZ3RmVWcyTVNPbUJsWFNEaV80dDVyYWw0UzRQdWJBOGpIdg?oc=5"
-    },
-    {
-      "id": "89c2a1759598ccd3",
-      "date": "2026-08-06",
-      "kind": "announcement",
-      "title": "Galaxy Digital expands 5.7 GW Texas AI data center pipeline",
-      "detail": "Galaxy Digital is advancing its Texas AI data center pipeline with a Helios expansion project totaling 5.7 GW.",
-      "builders": [
-        "Galaxy Digital"
-      ],
-      "stateCode": "TX",
-      "mw": 5700.0,
-      "facilityId": null,
-      "sourceName": "constructionreviewonline.com",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONDl3R09adWlzMU5xZWswM1ZCY01HN0RwbGg3NDhRSUVjcEVKc2NsNjllSXI4Zjh4VG42WmMtcEZTeEpRdzJlMTdtNUsxYXVSTWUtRkRPbFRoa0hzQzdWdWN6eFV0eG95Ulo0NmcyOTB3VEo4MnNMZ1BhQzlHUjRsdFVpNFhnd1oxTEZRcjZzMk80LWk5T3F1X1JYamJiYThDM01wUzRyc1paMUg0dGlucU83WmdTTUZpM0xPVkp0TGswN19MR0dmWQ?oc=5"
-    },
-    {
-      "id": "ef6710235047fcd2",
-      "date": "2026-08-06",
-      "kind": "policy",
-      "title": "Washington city officials introduce data center moratorium",
-      "detail": "Officials in a Washington city introduced a data center moratorium affecting a proposed 20 MW project.",
-      "builders": [],
-      "stateCode": "WA",
-      "mw": 20.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/officials-in-washington-city-introduce-data-center-moratorium-to-try-and-block-20mw-project/",
-      "policy": {
-        "status": "introduced"
-      }
-    },
-    {
-      "id": "add019aaa1f29af1",
-      "date": "2026-08-04",
-      "kind": "announcement",
-      "title": "Yondr and Cerberus partner on 72 MW Northern Virginia data center",
-      "detail": "Yondr and Cerberus are partnering on a 72 MW data center project in Northern Virginia.",
-      "builders": [
-        "Yondr",
-        "Cerberus"
-      ],
-      "stateCode": "VA",
-      "mw": 72.0,
-      "facilityId": null,
-      "sourceName": "W.Media",
-      "sourceURL": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSU5BWUM5OEl5bWhTZ0p0d0JtNGdNWW1IMmtQc0Nzek1jSVdfUkFkQ2lSMzMxUXptSmwtX0JXUlkyenNzVmVhTjFYejNURTBLc0NEQ3FSeDAzdXAxQWMyQTVSU3RTb2NCWFI1MW5tVWxvZ3A3dXJKNnVScDZnTFRQak5sWkFWTTg2VzZzNU9HRU9HNHR5?oc=5"
-    },
-    {
-      "id": "d896ac4b4a6c6ab6",
-      "date": "2026-08-03",
-      "kind": "grid",
-      "title": "Texas Governor Abbott orders data center audit amid record ERCOT queue",
-      "detail": "Texas Governor Abbott ordered an audit of data centers as the ERCOT interconnection queue reaches 474 GW.",
-      "builders": [],
-      "stateCode": "TX",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Blockspace Media",
-      "sourceURL": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mdlZBX3V2N1RYZy1zbDhVRndSMXNfdjNYWU8wSTdJYVRkTUtQNnRVeXN2WUVqd1FreV9tMVdRU3NIenZGd3VTSko0eVRRR2VoZjZQTHUwVmMwM1g3UVF3TGZKM1N3RGNMN0tSMVNqZi0yaDdhSEZhRUNMWHNUTVk?oc=5"
     }
   ]
 }

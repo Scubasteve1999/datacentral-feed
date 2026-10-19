@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-06-01T00:00:00Z",
-  "asOfLabel": "June 2026",
+  "updated": "2026-10-19T18:51:42Z",
+  "asOfLabel": "Oct 19, 2026",
   "sites": [
     {
       "id": 1001,
@@ -1403,6 +1403,32 @@
       "longitude": -94.5786,
       "facilityType": "traditional",
       "gridOperator": "SPP"
+    },
+    {
+      "id": 3001,
+      "name": "Valor Energy Youngstown",
+      "city": "Youngstown",
+      "stateName": "Ohio",
+      "stateCode": "OH",
+      "status": "building",
+      "provider": "",
+      "totalCapacityMw": 18.0,
+      "latitude": 41.1036,
+      "longitude": -80.652,
+      "facilityType": "hyperscale"
+    },
+    {
+      "id": 3002,
+      "name": "Carrier Connect Atlanta",
+      "city": "Atlanta",
+      "stateName": "Georgia",
+      "stateCode": "GA",
+      "status": "building",
+      "provider": "",
+      "totalCapacityMw": 4.0,
+      "latitude": 33.7545,
+      "longitude": -84.3898,
+      "facilityType": "hyperscale"
     }
   ],
   "aiCampuses": [

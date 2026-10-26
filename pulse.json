@@ -1,7 +1,76 @@
 {
   "version": 1,
-  "updated": "2026-10-22T17:41:05Z",
+  "updated": "2026-10-26T18:54:00Z",
   "events": [
+    {
+      "id": "8730431567f1e4d5",
+      "date": "2026-10-26",
+      "kind": "announcement",
+      "title": "Genius Group Launches GENIUSpark to Build and Operate Community-First AI Data Centers, Targeting an Initial 100 MW of AI Compute",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 100.0,
+      "facilityId": null,
+      "sourceName": "The Manila Times",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQME54WjRIci1rN093a2ZPMjVteXlTdTU4VlFOaF9LeWZyUkd3ZEpOOEJmZU9sX3A4Yk1pTHNRZ2VuU08wd1VYbDNrYUtLWkdIQUhZSF9pbVJqd0g2WThWcVhyTjFpUWw0cEZQSnRzOUxyTDhQZHZqeUtWY0ZpMV9wTWgwOWxOc2VuYXRnNEZZdlU5SzJaUEpCT013eElaZjVrc2VXNDRoSThWcFV4QkhsNjdRUXpWQ2dXaVBycWhKVE5VemRiTzAyVWFEdGpEM2pwNzNrQVVGNnFkellwYzBLZ01PWm5SZEo2X2ozeFBuVUFJMDNQYTQwek02ODlSaEo4WjhRWE0td3JlUkEyUm1FWS1McWg4cENOcXlQZTlCYkxwWE00SzNmbdIBrgJBVV95cUxNa3l0aHZnc0M3eUZqVTczeXpJSGFMdG9BbHQwUzkyU1BKa2FtOUlsbDdtdVo4RnFoRzJxcUFJMzlxQWF4REU1OGU3eDRmR203Y2VtQ2ljMW5fQWFtVTBfakVsbTRvNUtXUzhYVHU0RHlDZnMtSUM4b3BNWGdzZXcxdzdDWlpMQVA4Tjd0cDRqbE5zRUM3QXBrcTZnQllQX21ubHBZUTFKdzEtX2h2UWtSaW0zWFVrbUVyd2pjX3JvRnVHWDBpX0cxa0lfbzZVbzc5U0dJTmc4STdXR1hQRUZYdi02YnpZVk5GM0ZiR3U2Q3ZiN2VETU5KVnl3amhSRS1LTEhobW8yMXh2UW9rU0MtNGR3RzNzQktVRHU4YUpVdHlsMFVmZmRRdWcyYnNWZw?oc=5"
+    },
+    {
+      "id": "4ec6d8e26869d55b",
+      "date": "2026-10-26",
+      "kind": "announcement",
+      "title": "Cooler Master announces 2.5MW in-row CDU",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 2.5,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/cooler-master-announces-25mw-in-row-cdu/"
+    },
+    {
+      "id": "a41d2f6279e6d7fc",
+      "date": "2026-10-26",
+      "kind": "announcement",
+      "title": "Microsoft's AI Data Center Misfire Exposes a Brutal Reality: Billions Can't Buy Time",
+      "detail": "",
+      "builders": [
+        "Microsoft"
+      ],
+      "stateCode": null,
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Benzinga",
+      "sourceURL": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmI5OEF2TzVNZ2pTd0FVenpJTkdkVGxhVjlhNkJ6LUhDdG01enVTUWVjby1saFVsV1hDaWFQNFBveWxZMTlxYk9qaTFXVlJSWWxvOFZQY1pmUnR6RmNxWmkwem1DY0wtYmNwNVkwc3ZzbWc5QXpnSk05VzJ3Q3lGQ0s0OWxaeGwzOFhSd2hzeEx3cEF1NTNsVHRsa2xYNnVGN3V2bzQybk5zMVVp?oc=5"
+    },
+    {
+      "id": "219bac5aaa1fa775",
+      "date": "2026-10-26",
+      "kind": "policy",
+      "title": "Ohio Supreme Court: Village with data center moratorium won’t have to consider site plan",
+      "detail": "",
+      "builders": [],
+      "stateCode": "OH",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Ohio Capital Journal",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUGJZUXJKaUVIMWZWbldmRExzWUhrdmhKSTA5QndWdDZKZ0wteFZNeU1RN3NPZzJaMUY1b1VEY2pZM0Z4akx4NzZFN3dJMkZpMzRqbkowcGJxQXRXTnF5M0pWNkR1UzFaSkd5OE9id1FGd2pWaWhoUWxGQzdoRzVUMkJKVm5uUDJkYjNIa3BsWDJBeXpWbWMxWWZWU0VzVkY0eTdGMzItSUx1dlRUOVZGd0pqa0dQN2VHbXlIVHVVT25POHl1NEhReQ?oc=5"
+    },
+    {
+      "id": "a503926f85c372c4",
+      "date": "2026-10-23",
+      "kind": "announcement",
+      "title": "Vantage Reserves More Than 1 Gigawatt of Heron Transformer Production for Data Centers",
+      "detail": "",
+      "builders": [
+        "Vantage"
+      ],
+      "stateCode": null,
+      "mw": 1000.0,
+      "facilityId": null,
+      "sourceName": "EP Magazine",
+      "sourceURL": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM3c4d2JUbmk4cFdTX0g5UXlPdl95QWl2b1p4OTF3V2lEYTNJN3RBUlBaWjFQMTlWZ3ZEcUFIeWlIN2ttbFV4RFlBUFdCenJoaXptQWxqU1JZR1FvazZlSGZhalU3cmhBUnBHUWl3YzJFd1NHWWFsaDNla1JDcDVXaFhqOHN4RWpqWUNmdVJhNDdqMGxxQUEzbVo2WjdYcVhVWnRHbE96eEtIMmhiZjg0YVYydnR0LVQtVW9HbVZ5bFRSZzJQb21ya09PX0U?oc=5"
+    },
     {
       "id": "f79f8c5e17f35dbb",
       "date": "2026-10-22",
@@ -57,6 +126,22 @@
       "facilityId": null,
       "sourceName": null,
       "sourceURL": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-data-center-campus-in-floyd-county-georgia/"
+    },
+    {
+      "id": "b0e34f60efda1033",
+      "date": "2026-10-21",
+      "kind": "policy",
+      "title": "368-megawatt data center — and some regulations — approved in Kearney",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 368.0,
+      "facilityId": null,
+      "sourceName": "Omaha World-Herald",
+      "sourceURL": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2ZhRy1sajdRZFJhOERhOVBRaWxsZnNySkYtYnJGZ001YlZPSmZHZEFTRlBid0xXZGRiNkkzV2F5T21wMUtJbWZKNnR1OEZYTFJTTFB6MVVXMVJka0dRSVQxSWdBb240WFcyYUZOQWw0RkFVMnM2VGJ5T2pzWks0YUlOMGJXTlBnMmZtcWZIcFhBU3JJQ3ZlX0NLQTE?oc=5",
+      "policy": {
+        "status": "approved"
+      }
     },
     {
       "id": "46314d1de50e09bc",
@@ -1575,91 +1660,6 @@
       "facilityId": null,
       "sourceName": "SiliconANGLE",
       "sourceURL": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ29VdHp3dVplUUxXejdmcUJ5RnFOdGVYOVcySUQyTUpfY3hKNVRHcGpVbW15Mll0MG1rbF9UakZGWWRVdE84SWxuMTZFQmUyX0pWclM0aFpWcWQ4VFJNSUNRdG1GRkZNSnpfd1dFZXdUTXJtUkJOTUlzRUl0MW9ZbkxjQnRXcFBNOGpOT2lsZ1NkVWN2ZjRMelhSa2JDQlFlVW9VRHVRUDNKSVRFWnc?oc=5"
-    },
-    {
-      "id": "fce5b77e21f6aaed",
-      "date": "2026-08-17",
-      "kind": "announcement",
-      "title": "NVIDIA, SB Energy Partner for 8 GW AI Data Center Campus in Ohio",
-      "detail": "",
-      "builders": [
-        "Nvidia"
-      ],
-      "stateCode": "OH",
-      "mw": 8000.0,
-      "facilityId": null,
-      "sourceName": "TheEnergyMag",
-      "sourceURL": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNHN2cGtZRHlvYjhtX3lFQUcwOUFhX1VXTk9YLW55alZ6QnJxSkFiNVh4U0RHUkZoZWNqT2JuSUZvejJhQlRKVkw4M3RoUjJqU0NlWDJIbTgwMjZfeEUwNDY4czNDY1VHSFN5UGwyUjVQdXVtbmpvT2V6QjhNS0FMVGhCd3hJSGxQSlctV2xoamVJdFp5a2FqaTV2akoyajVTLXhHcHV0RFpOaUR3?oc=5"
-    },
-    {
-      "id": "34f7e3227d34cb3c",
-      "date": "2026-08-17",
-      "kind": "announcement",
-      "title": "Nvidia in talks to invest up to $3bn in SB Energy",
-      "detail": "",
-      "builders": [
-        "Nvidia"
-      ],
-      "stateCode": "OH",
-      "mw": 10000.0,
-      "facilityId": null,
-      "sourceName": "report",
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-up-to-3bn-in-sb-energy-report/"
-    },
-    {
-      "id": "a6ecb52a20170e80",
-      "date": "2026-08-17",
-      "kind": "grid",
-      "title": "Blue Energy, GE Vernova Hitachi advance 2.5GW gas-plus-nuclear plant in Texas, to power up to 1.5GW data center",
-      "detail": "",
-      "builders": [],
-      "stateCode": "TX",
-      "mw": 2500.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/blue-energy-ge-vernova-hitachi-advance-25gw-gas-plus-nuclear-plant-in-texas-to-power-up-to-15gw-data-center/"
-    },
-    {
-      "id": "6ab0e051cd25a499",
-      "date": "2026-08-17",
-      "kind": "announcement",
-      "title": "OpenAI Locks In Lease for Huge Data Center in Ohio With Backing From Nvidia",
-      "detail": "",
-      "builders": [
-        "OpenAI",
-        "Nvidia"
-      ],
-      "stateCode": "OH",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "WSJ",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTBKNEtxM1Y2QUJrZFFUZTZuempoMEtpM21jVjVjS0JNMVpHeUhSN1RxeER2YzY2Szh4NXpRRElWVHpmMVF3TmpFNHo4dFVGR1p0Y2VQQmtwS0JmN3JSR0NhUnk4LTJ3WDBmRWwxNVRhUGw0ekl3dklxNWxFdi03Z0t3dk1lTnB6YTM4OEJXeHNLc0pTZ3FXeVgwOXBOT3lZWVBONFFtREtPNGNpYjJNeGN6cw?oc=5"
-    },
-    {
-      "id": "b29d951887bb46c4",
-      "date": "2026-08-17",
-      "kind": "announcement",
-      "title": "Axe Compute and Duos Technologies Enter into Agreements For 55 MW of New AI Data Center Capacity Across Multiple U.S. Locations",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 55.0,
-      "facilityId": null,
-      "sourceName": "The Manila Times",
-      "sourceURL": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNU0Y1NExqcElvX3J3OHVZSWlxVzhwSGpxMEdidlNnM05fbGVhNktkcUdjM29IQlp4QTlwNTh2Z0p4b05KT2lYVDBmZVJCRWl1OVNrRlg4bHZXNVRrN005ZHhHZ2tnNWp6NjZqek5mSUZ1T29LRmN0dVRTS2ZYaXFyZk9xRHFOMk44VEF6U2wySm1kWWNKY29Ra09CSlA4UUhtTGpoMV9la3Z5ZUgzQjhaWlhMM3RxeTlTYlYxSk9XOUV5NW9PMkxfZ1ExVnljTl9ScFdkVllLRDBHeG1mVFp4SHVlT21FV2E5dkl1S1Bfa2lIV3dURS1EeURmdnZaYUJfdWxWeU92VUtYaXIxY3dwaDAzLVlqNUFJTHFTNXVqQl8wMG0zd3fSAasCQVVfeXFMTzM5cUJVeHFTbUpJOXhpQXVhYUsybG8tVEFTaEpMWWhWcnZMY2VLVFB3am50cnYwX25kM3dXWW1EUGh4YkF3SUJiU1VZZEdkRWIzSTByQUdLWXBJcEhjeEN3eEZ5a2pyazR3cTh5dS1MU2RmY0R4d0JvWVZhUlNEUjFvQ1MyR2R4LUlBQkdya0laYWc4YlFGUFA3Q1hCTm11N0N6UVNicm1qNHo0dktBTXhzT2p2TlptYU1qdHROajdMbTBZZGhOd0wwSGEyWmlQNjNrenpmU19DRE10cmx5TW9zeFFxU29Ndm4xb0ZfOUZOblppTmpsaVRjNFMzOEpWTVEyTG1DZUoxSTZ5M25xMUhPSzVXckhOTnFkdlJxaWRJTGkybUd0UW43ejA?oc=5"
-    },
-    {
-      "id": "f030b4e1dd62c06f",
-      "date": "2026-08-17",
-      "kind": "grid",
-      "title": "America's largest grid wants to cut power to new data centers first during shortages — 50MW-plus data centers must bring their own electrici",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 50.0,
-      "facilityId": null,
-      "sourceName": "Tom's Hardware",
-      "sourceURL": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTFB5dGU2MWk4c1UwWTZkLUFBRHp4SjFuVkhqcS1xMkRzY1FqaTRNcHdOV3l3V213UG5MMDNOd1c1YzJNamRfUGFfRHAyMDd4RjJMRHNHbGNDOGQydURoX01hT3BDRnB2QzNrZzlrMFFmR2s1RmdwQnk2X0oyVXRtOVpFZE5OVTZ0WXdDV3ZIcFJQM3VCUzBuX0h5S0hWLUJ5SDBfT2w2cDAzUmVCcmZ4aV9OMDNuSlpuc1REc1dUbDhHb0Ywc045WHdYemtxckpzZFRfTjBVWG0xY21lZHUwNF9uM2JCVVUwdzJCUkdYRUh4UQ?oc=5"
     }
   ]
 }

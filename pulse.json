@@ -1,7 +1,91 @@
 {
   "version": 1,
-  "updated": "2026-10-26T18:54:00Z",
+  "updated": "2026-10-29T18:41:07Z",
   "events": [
+    {
+      "id": "371c02c4ea84581c",
+      "date": "2026-10-29",
+      "kind": "announcement",
+      "title": "700MW data center project proposed outside Lansing, Michigan",
+      "detail": "",
+      "builders": [],
+      "stateCode": "MI",
+      "mw": 700.0,
+      "facilityId": null,
+      "sourceName": "Data Center Dynamics",
+      "sourceURL": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTA5SmJBTm5hRUlhaEsya0dQWjNrOUV0S3hhWlRiTnhkTUJxYWZsaFYyVEVyNjFBV253WlYzN25KR29USjBvSHgxaDdHNEE0ZjMxaTd3TkJFdklwVlp0WDBmbk1KSFNGdno1cmxEc09jUmJFWTd1WV84UGxTcmRXVnZLaGQtZ1ZPQW92X2VUR3lnVTF1dWczTTY1eGdqbjIyWDFDU2hB?oc=5"
+    },
+    {
+      "id": "ce71359226b5adef",
+      "date": "2026-10-29",
+      "kind": "announcement",
+      "title": "AIB plans 50MW AI data center at former Spartanburg cryptomine to serve Nebius",
+      "detail": "",
+      "builders": [
+        "Nebius"
+      ],
+      "stateCode": null,
+      "mw": 50.0,
+      "facilityId": null,
+      "sourceName": "Data Center Dynamics",
+      "sourceURL": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcFVmSXFGWURYQkZsOHhMOTlTLTEzSTVxNGZLa1VYV2swM3FLT0ZjeC0zblFOM2pCaWZnRU1McUt6NEpnMzVkeGlYNjU2TE1Tc01ZRU1wSzc3UnZCaXk2ckZMbGpqdDd3M0N1NThlby04eWZ6NlR1TXl2TDFJeXhHMzN0WERxcGhzX3ZnUmR5bkxVM2lXTEZxU2ZZZVByVld3cWxzWUVoX1hoUS1mZU1Md25DallTMUlGbHVaMUF5cw?oc=5"
+    },
+    {
+      "id": "dc540e104a6678ba",
+      "date": "2026-10-29",
+      "kind": "announcement",
+      "title": "PG&E sees marginal increase in data center pipeline",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 240.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/pge-sees-marginal-increase-in-data-center-pipeline/"
+    },
+    {
+      "id": "559e3f799e08b880",
+      "date": "2026-10-28",
+      "kind": "policy",
+      "title": "XAI Offers Home Buyouts In Mississippi To Quash Data Center Lawsuit",
+      "detail": "",
+      "builders": [
+        "xAI"
+      ],
+      "stateCode": "MS",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Forbes",
+      "sourceURL": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTkQ4cTNla21MS2dBdlZUVUNQbFFZYnRFQ0xvbmVCUmRiWXRWMXJrV3Nhbm9yU1VVS2hsbGltZmdDZXluQ0M3ZllyS0YzWHlJckJqUmJVOS1uSjRFMm9qQkFvaXFzbjZaRHZyZmFvR0xuVTRSUy1DZ21SUHVjWnpKSU52ZkVYNE56bzA4bUExRXdpelhUX1RUek05Q2ZLc3BRYkdPTy02NVZLZkxGckpzVHIzN01aSHNnMDROY05R?oc=5"
+    },
+    {
+      "id": "ce05d7a3c255a772",
+      "date": "2026-10-28",
+      "kind": "announcement",
+      "title": "New rules on data centers proposed in Tennessee county Google invited Little Rock leaders to visit",
+      "detail": "",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": "AR",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "The Arkansas Democrat-Gazette",
+      "sourceURL": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcE10TzRyX0I5M21fMkwyc0tfbTZIWWhic3RCNlh6MG1seGpXWHRBRGxhRkE2NVowcHJWQjNWeElndllXb3B2Y2xzeWJ3cUttN09tX25XbzJzdFdvSnZLeW1HYzNEbG5QcmowT21pSE5SUS1XS2RDWUFtUVJXNzZaZzZZQldkVncwSmh6bVFzdmtEamM1LWs0bVBJTHI?oc=5"
+    },
+    {
+      "id": "678e0cec14bfaf4d",
+      "date": "2026-10-27",
+      "kind": "announcement",
+      "title": "3 important updates in Slate Belt township where 2.1-gigawatt data center campus is proposed",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 2100.0,
+      "facilityId": null,
+      "sourceName": "LehighValleyLive.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSFk3My1Rb0k5NVNZcjNITXpDWGROS1Q0bE1Md2oxckFaRHE5dlhUNHhJaGQtcXlSQ2hoWUsybnRaYU9HNTNjb2JBaUxSYUlKTF9ZSjNNeUQ1ejREOFM4ckV5blJfaEloMGJyTzc0dzFReks5c3FaZ2ZxaE5EaEllZ1VtSnAzRmRoTXFXRE1Pa1l1cGF0RUZMMGRERWxzWmRWQm81ckxlcDJmcG4zNnFvek02MUhRWkJoTTBFdmV3ZWE2VE13VzhlM0lvZzdmdWEza1hSTTRHYUwtVlMxYXp3Qnd3?oc=5"
+    },
     {
       "id": "8730431567f1e4d5",
       "date": "2026-10-26",
@@ -1575,91 +1659,6 @@
       "facilityId": null,
       "sourceName": "TechRepublic",
       "sourceURL": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JaGZXOU5kUS1lLWdvNUQ1YVhUazhLa3BaSnhrSlV1Q29NQlVRWTJmempITldFcnZ5Z0lUNDBodE9ZUm5mT1phLXJYeFdFdmFWQWdPUGxfS0FPcHRNTzRJRWRGYkIwaVluajVjOXctY0NKS2c5RXNSajkwVU5OSkk?oc=5"
-    },
-    {
-      "id": "8154bf273585a2ef",
-      "date": "2026-08-20",
-      "kind": "announcement",
-      "title": "QumulusAI secures 3.75 MW Atlanta data center capacity",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 3.8,
-      "facilityId": null,
-      "sourceName": "Investing.com",
-      "sourceURL": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSjhISnJZZG01bmN2NXdoUVhxRGw1SGo5dHRXSlBrNkpOT09KZHRNRTFEd0hQY0hfWVlaeDFvYW93YUhDeFR5Zld5WEM1ekZSTFoxbkxLcFpPNEZPRGR1NmdsZjNTZldRZVktMlVfYjZwOE1kVFMtQ3VZTFlfVk5aTi0ya1hMajRMNi1HQTFfbUxsdzRxdWFvQzJ6dzV5QURYSzBlYmVteE94RkZSMDhn?oc=5"
-    },
-    {
-      "id": "b079892ab78338ce",
-      "date": "2026-08-20",
-      "kind": "announcement",
-      "title": "YTL Power and JLand to partner to build up to 1.5GW data center in Johor",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 1500.0,
-      "facilityId": null,
-      "sourceName": "w.media",
-      "sourceURL": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV2NpOXc3MTRtN0VfQjRjbmtCbWsxeG9fVzBlLVRSSU92TXpLTzlEeUduTU44ZDY4QkdscVQ3b3dCM3VZb1dFTEQxRlBkM3JXdE5DbTZ5OVdBZ0xWeEtUTERhV044NE9RTEVIQVdwMEdYdFpTcUpmQWttVmt6YjFMRWdzdmEtMHlST2hMTkNCNGRRc28?oc=5"
-    },
-    {
-      "id": "9b2ce068e1ab00b2",
-      "date": "2026-08-19",
-      "kind": "announcement",
-      "title": "Duos Announces More Than $611 Million Of AI Data Center Contracts Tied To 65 MW Of Capacity",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 65.0,
-      "facilityId": null,
-      "sourceName": "Pulse 2.0",
-      "sourceURL": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnE5NUFpX0Q0QUZyWk1UMGlmeXlEZVhtRk5CTVBHSm1aTXVaelFveGFPR29KdjBoZ0d0V2xoMWR5RUhDbmdKVVg0MnVna01WN1NhZ1dULXJaNzJjZTczUWo5RHNxUG9JV2ktWU40TzFSZ0VabmNzdWYzalcyaU9xY2lOTVp5TG5GOERHR2llUnVYXzd0bmhhNTUzUVlIeXpSa0labEVTVlVHOF8zejFB0gG0AUFVX3lxTE41dmpiOEozdjZtZDNPSTdBbVNJZTlWMzFFd1FYSzdrWkFWV3VqN0pIeXFmaDM0T1ZWd1QxSjJKMW9FWkxmSkY4Wm9oQ24xWlJZZ2NmdmZ0ZktJbnFQS2V3WHpkclNHTmtvZmhUQlpzR0gzcGJEN3dvTjFNNF9tVHJiMTdMalh5UFFHSmpmd0pBZ3hCWkM5VlNfNnJMTGc3VjRrTENqaUs0cFF5STB1OXBzUWpMNQ?oc=5"
-    },
-    {
-      "id": "3856af4ff5d27da2",
-      "date": "2026-08-18",
-      "kind": "announcement",
-      "title": "OpenAI links 8-gigawatt Ohio data center deal to $84 million Codex offer for students",
-      "detail": "",
-      "builders": [
-        "OpenAI"
-      ],
-      "stateCode": "OH",
-      "mw": 8000.0,
-      "facilityId": null,
-      "sourceName": "EdTech Innovation Hub",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaEpmMU41OVdWV1NGajJmMDFHS204elBaTFhPb0ZwM1BFWWJDdkgwZzdpTVhTSHF0MWFRSnVSQ2cxeDhQaUFWZjNZcUFCamQxMVdSTnNxa1RzRnRmSHYzRHFoNTNTZUdmTExrei1UUUttNzZ0R1IxVmlsX1kxNFZqcmZ1M3lySFJ2bFBwUmlNaUxKLUJrSFRkMFVabjFNSEZVQWtGZXBGSHNCU3hmckJvbWVscUhvS0NWUGZoZWlFWXRweEU?oc=5"
-    },
-    {
-      "id": "7062a662ccfc9ff5",
-      "date": "2026-08-18",
-      "kind": "announcement",
-      "title": "OpenAI Signs 10 GW Ohio Data Center Lease, Utica Gas Wins Big",
-      "detail": "",
-      "builders": [
-        "OpenAI"
-      ],
-      "stateCode": "OH",
-      "mw": 10000.0,
-      "facilityId": null,
-      "sourceName": "Marcellus Drilling News",
-      "sourceURL": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOczM0QzhwSm90Sl95LUczRkNfX3pJYnZPZjN0cE9YcWItTlV6dzg5NWpya2o5RVZzWURBUzhmU1FKTGdLNHZSR3pTMGdIMEVoWC1sZy1xSkFrbFQteDhJZVFNc3FMSDZqTmQ0Q1VEWjBGQ0lBQ3FGMXVMYVhJOEdJbXJCT1ZIY1Q3VFlUWmNtTmhLV05oQ0JDa0Qybk53UTFZ?oc=5"
-    },
-    {
-      "id": "9e74c207d7f2a2f6",
-      "date": "2026-08-17",
-      "kind": "announcement",
-      "title": "OpenAI leases 10-gigawatt AI data center campus from SoftBank’s SB Energy",
-      "detail": "",
-      "builders": [
-        "OpenAI",
-        "SoftBank"
-      ],
-      "stateCode": null,
-      "mw": 10000.0,
-      "facilityId": null,
-      "sourceName": "SiliconANGLE",
-      "sourceURL": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ29VdHp3dVplUUxXejdmcUJ5RnFOdGVYOVcySUQyTUpfY3hKNVRHcGpVbW15Mll0MG1rbF9UakZGWWRVdE84SWxuMTZFQmUyX0pWclM0aFpWcWQ4VFJNSUNRdG1GRkZNSnpfd1dFZXdUTXJtUkJOTUlzRUl0MW9ZbkxjQnRXcFBNOGpOT2lsZ1NkVWN2ZjRMelhSa2JDQlFlVW9VRHVRUDNKSVRFWnc?oc=5"
     }
   ]
 }

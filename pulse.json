@@ -1,7 +1,92 @@
 {
   "version": 1,
-  "updated": "2026-10-29T18:41:07Z",
+  "updated": "2026-11-02T21:57:54Z",
   "events": [
+    {
+      "id": "0c7faf5ec5c9a2ae",
+      "date": "2026-11-02",
+      "kind": "announcement",
+      "title": "Google eyes 1,000 acres for 1.2GW data center in Goochland County, Virginia",
+      "detail": "",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": "VA",
+      "mw": 1200.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/google-eyes-1000-acres-for-12gw-data-center-in-goochland-county-virginia/"
+    },
+    {
+      "id": "5c036bfcfb79d96a",
+      "date": "2026-11-02",
+      "kind": "policy",
+      "title": "County Approved 18-Megawatt Data Center Without Board Vote",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 18.0,
+      "facilityId": null,
+      "sourceName": "The Sacramento Observer",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVFFYS1iNzFEOTUtTEVNeF9qMzBTUVhZcTR0c291NGNpXzlMYzJfNmhXeldJNzF6dnZLOWVPZHBjbzlyY0NuLVFxOHh4QkhNNG0yazMxN1k5dXJBUjJweVNhRUJVVlRIWlY5QTd0Y1ZVMVFsSFRMekg2enZfOGZTTS1jVWltWnljLUl5YjR0NjdRaEtYTW5xNEZjS0Q4SFdVeDFkZmlqUTZxZw?oc=5",
+      "policy": {
+        "status": "approved"
+      }
+    },
+    {
+      "id": "79a82330d7db07b6",
+      "date": "2026-11-02",
+      "kind": "grid",
+      "title": "GE Vernova order backlog hits $197bn as data center demand drives gas turbine sales",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 130000.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/ge-vernova-order-backlog-hits-197bn-as-data-center-demand-drives-gas-turbine-sales/"
+    },
+    {
+      "id": "04849d2674879285",
+      "date": "2026-10-31",
+      "kind": "announcement",
+      "title": "Alliant Energy targets 1 GW of new data center contracts",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 1000.0,
+      "facilityId": null,
+      "sourceName": "ET Datacenters",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOV0VrTFJJMldHd2pNMWlmcVU3QXRwM3RXbWlwSVVJOVo0eHRiN1VuME9ReHJYYzAyZndyb2tOajJBU05GcWpXSUl2ekpxV0NtVWVsOEtNVmpONWNENUEyZkgwUFFleXMzZjFLQTJPNHFYWU4wX2txQ3g0TkhvNnBpRDhMbDlLcFhTSGFOUG8tRThNT0FWQmdGVVRKeG5OcWFlQ0JPUFRfeUtPMnJpQUhPLXZ4RUpIbDAzdWQ3cEtseG5GeG9nbXpPTkZrcDlxNXRzSHJhVE53dmlvXzhvamRhdnVsY9IB6AFBVV95cUxOaDREWHBaMXltS2ZLd2N2TnlUMmlVSzVRNm5PYVF2T3lTU2lGYTF3azdhdG0zWmg5ellGVHZycUU5UDZhdVhmUk16d1JZMnlVeTc4ZXVTbkZJLVVBRnZqc1I4Z25oYVBOSF8zeElnNFE0WW1SVGdJeEV4UGM2dW16cV9TZy02enZ1ZFBGSUdDLVNSWUJobFRtdnJwLUJKV3FkVnkxQ0JSTlZoWVgtRlR4OFBsbF9iaHFHcDFkdFVDWlZXVWxfZE9EaDBMS01YbWtnMkVPLUlSWUF6MWJ6dG1MbDRPMEtHS1NT?oc=5"
+    },
+    {
+      "id": "28c50daca19de0e5",
+      "date": "2026-10-31",
+      "kind": "announcement",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "detail": "",
+      "builders": [
+        "Nvidia"
+      ],
+      "stateCode": "VA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "TechCrunch",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGNhWVNJR0JZTnVKVlM5RUZFeGdQZDdMMk9yODB0ZTlGSXRnYzNZU2hVbXBLdVdWbGstX3RPYkphd190d0R5N0VKN0RabTd3aW5OSUI1cHVsME9vVno4Nm1LY0lTV25qZE5EejNqNm91c1dvbVk5YnctUUowaUJoYTJwSEhCY3BIYV9kbVZ1U1RKNTk5Y3NqVDR3YTlrdXZDOWd5ekVvaDdGSzV0aVA5OUFxcw?oc=5"
+    },
+    {
+      "id": "85091603071db918",
+      "date": "2026-10-29",
+      "kind": "announcement",
+      "title": "Georgia Election Could Flip Power Board, Reshape 20-Gigawatt Data Center Rush",
+      "detail": "",
+      "builders": [],
+      "stateCode": "GA",
+      "mw": 20000.0,
+      "facilityId": null,
+      "sourceName": "Hoodline",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMUgzeTkyaGROWjdoV0gwWHF5VmkzdWpBUU1yZEswOXVBUHlUc19xU2lvZHlnXzc1bHY3SWZZMzNqZXgzdmtSeV9LUVBMbDFXTVMtZTRuS3QtQlZtZnJLQ0g5Z3J4ZkxBU3dGTmw1MmJ5RlRyUFVpbzd1aDdscUh0XzRPX0pERXV0SDNhQmxxUlYzUXc1cjdGUmN4blJSaW1UTk92eGZrNDlBZw?oc=5"
+    },
     {
       "id": "371c02c4ea84581c",
       "date": "2026-10-29",
@@ -1576,89 +1661,6 @@
       "facilityId": null,
       "sourceName": "citybiz",
       "sourceURL": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0ttZlphU0NvYUl3dTYzX1NHVWJZdFc1bkZXSWljVXc5b044aExqeUxUWVFCSW1UOUQ5WXZLT0libjZjajdxSnhHaDBCYllvYTVPMFNraTJiUFNZMGh1eUE2UThadFdrbl9UOHo5OWFfRkJ6RnJBVzJGaEh0dVg0MzhtcXFCSy0zdkJ6LVlESHk2Vml4UnRqTDNLOTZyMENoRzNWcE00MmR3UQ?oc=5"
-    },
-    {
-      "id": "add065d02729e86b",
-      "date": "2026-08-24",
-      "kind": "announcement",
-      "title": "Kentucky PSC approves TeraWulf’s 482 MW data center agreement By Investing.com",
-      "detail": "",
-      "builders": [],
-      "stateCode": "KY",
-      "mw": 482.0,
-      "facilityId": null,
-      "sourceName": "Investing.com UK",
-      "sourceURL": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVEJrSndTTlhPN1pSenNWWFdmdHF2NHlMSWswelhIalYyOFNqT0plRGZyd1RuU19QZWhXLWxNeXJJekNIR0RCNlZ4am1EaDlIaTJfWmRmalpRbDQwc3VKWGVvMk5iMUVHVTJVQTFBVEprSGVGTEFhQmxfbWwweWd3N0c1ZEJ0TUZkM3lub0I5bzFIUlJhQVJZckxZekJVUGpIX2dsZFEtREF0QXd4ZkpqNDNsbUtyNDQyNGN1ZmJn?oc=5"
-    },
-    {
-      "id": "fa92b66850b19254",
-      "date": "2026-08-24",
-      "kind": "announcement",
-      "title": "Vertiv launches 1.8MW UPS for AI data centres in Asia",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 1.8,
-      "facilityId": null,
-      "sourceName": "DataCenterNews Asia Pacific",
-      "sourceURL": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb0lKYlc4SGpDRmx3OTRjcHBEYldqNjk0Y0E3MkRZV2ZzeUduU0ZzQWl4bXRZRTlSeEttWHMwTDRkS0N5dUE2TElGQjN3VXpzLURlMG5ONFRWbDA3amJHdjZQYzZqeXp2bVZVVEUzaS1IWFdKbFhaTDVpSENoVUQyd0dRbU96YjY4RU9TTGxHNzQ?oc=5"
-    },
-    {
-      "id": "28a05023c642f43f",
-      "date": "2026-08-24",
-      "kind": "announcement",
-      "title": "Zerra plans 1.44GW, AUD 14.5bn data centre campus in Queensland",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 1440.0,
-      "facilityId": null,
-      "sourceName": "W.Media",
-      "sourceURL": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNamZXenFaLUNObVRuYS1iUkRXVG54U01YeTdmTWxXT1RSVDlsWl9BNmVBTUdDdTRrYTVFemNNa3huSzNfbW04WkpZYXVvNXlZTVgzM3VJX20zX21mRHZRVXBEZXRQTTVhTVBwc0hKUTgtcy1CbkZaRzFaZmFJWXdnU1Q2VHhrdw?oc=5"
-    },
-    {
-      "id": "9b638e6ad7b81764",
-      "date": "2026-08-24",
-      "kind": "announcement",
-      "title": "DXN secures AU$12.2m contract to deliver containerized data center to HPC customer",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 2.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/dxn-secures-au122m-contract-to-deliver-containerized-data-center-to-hpc-customer/"
-    },
-    {
-      "id": "a8f0bfd705f58c31",
-      "date": "2026-08-23",
-      "kind": "announcement",
-      "title": "Hut 8 Stock Climbs After Securing Long-Term Nvidia AI Data Center Leases in Texas",
-      "detail": "",
-      "builders": [
-        "Nvidia"
-      ],
-      "stateCode": "TX",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "TIKR.com",
-      "sourceURL": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM0pHWTVLVUU1alZKQzZYbWxJN1VtWEtpYkZ0VW1ZTm5rY2pzNTZTZ1FuY25hMUREODVaT2RjMkJQTV9KTkNSa282S2o5VlJWN1RPckdTYjRQX3JFZnRPTGVEdUJsek5ERXhxZUphNTdMSEhfaGdERkRCNGc0bTFRNV9lQ3Budw?oc=5"
-    },
-    {
-      "id": "dcc4af2810a1d08c",
-      "date": "2026-08-21",
-      "kind": "announcement",
-      "title": "Oracle Will Build US Data Centres Supplying 4.5GW Compute for OpenAI’s Stargate Project",
-      "detail": "",
-      "builders": [
-        "OpenAI",
-        "Oracle"
-      ],
-      "stateCode": null,
-      "mw": 4500.0,
-      "facilityId": null,
-      "sourceName": "TechRepublic",
-      "sourceURL": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JaGZXOU5kUS1lLWdvNUQ1YVhUazhLa3BaSnhrSlV1Q29NQlVRWTJmempITldFcnZ5Z0lUNDBodE9ZUm5mT1phLXJYeFdFdmFWQWdPUGxfS0FPcHRNTzRJRWRGYkIwaVluajVjOXctY0NKS2c5RXNSajkwVU5OSkk?oc=5"
     }
   ]
 }

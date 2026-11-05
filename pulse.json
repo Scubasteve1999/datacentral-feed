@@ -1,7 +1,95 @@
 {
   "version": 1,
-  "updated": "2026-11-02T21:57:54Z",
+  "updated": "2026-11-05T20:20:54Z",
   "events": [
+    {
+      "id": "0a91cb4fc4c45503",
+      "date": "2026-11-05",
+      "kind": "announcement",
+      "title": "NTT Data Signs 900-Megawatt Bloom Energy Deal for Data Centers",
+      "detail": "",
+      "builders": [
+        "NTT"
+      ],
+      "stateCode": null,
+      "mw": 900.0,
+      "facilityId": null,
+      "sourceName": "TheEnergyMag",
+      "sourceURL": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQX2F2Q3Z1elVHZ08tRHNGTElncGNRWTVJc2RaOV93cVhNamdOazJRZThyR1E4eUF1emN5bzNiNk9uSERBYnN4RkFmWFQ0N2Z0cWRMdVR4cnhCWTNieFlBSmVvNnl2ckJELURiYkd5OWJlSGJyMlQxTnE5c0RzQno0Q0htSnJDNkhvMF8ySXlRTQ?oc=5"
+    },
+    {
+      "id": "eee1d32e2e09d5ca",
+      "date": "2026-11-05",
+      "kind": "announcement",
+      "title": "SpaceX Stock Tumbles. A 6-Gigawatt AI Data Center Is Drawing Backlash",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 6000.0,
+      "facilityId": null,
+      "sourceName": "Yahoo Finance",
+      "sourceURL": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXIyejQ3T2hqTF9Zelhacmhicm1Ma3NsMEFPWVNSRlJsSVJvVmg5OXJVT0dwcm0zVkFKdk1MQkxxNWMyWDkzekxJdmF6YU1DbllTWk5wSlVRa1UyVXV3UWotSkUxaDBaelFlOGN4aWtYUWwyZXZPNk4yZU5sNUlkblZEV0JHRGRRZ0hKTTZMQk53d3FjS3ZuS1B4OA?oc=5"
+    },
+    {
+      "id": "5dd4de5738326384",
+      "date": "2026-11-05",
+      "kind": "announcement",
+      "title": "Google Plans to Spend $17 Billion on Wyoming Data Center",
+      "detail": "",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": "WY",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Bloomberg.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNE1UblF4V2JrTFJGbnZvOWxFaURSZ3d6Y1VFRjcwWHVCcXlMQm94STFoeF95ekVHclBNbWtURXppSW1iV2NpWVFJNXdwZlU5MFd2UjlOWEhubnIyX2t5N1hhUU12MWh1QVJHZDljSjdOQk5EMHZNeWRMQ2tWUGhqdFpqR1JmMTBoUjdtZFpSSlFWU3FpaElDQV9mUzB5RWtSdnRQVmF3QTF5Zw?oc=5"
+    },
+    {
+      "id": "40bed53066761cc1",
+      "date": "2026-11-05",
+      "kind": "announcement",
+      "title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
+      "detail": "",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": "KY",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/"
+    },
+    {
+      "id": "4ad2f031073a6d9f",
+      "date": "2026-11-05",
+      "kind": "announcement",
+      "title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
+      "detail": "",
+      "builders": [
+        "Microsoft"
+      ],
+      "stateCode": "TX",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/"
+    },
+    {
+      "id": "db66bc0ea49dfb2b",
+      "date": "2026-11-04",
+      "kind": "announcement",
+      "title": "Modular AI Data Centers Gain Ground as Crusoe Debuts Unit",
+      "detail": "",
+      "builders": [
+        "Crusoe"
+      ],
+      "stateCode": null,
+      "mw": 3.5,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterknowledge.com/modular-data-centers/modular-ai-data-centers-gain-ground-as-crusoe-debuts-unit"
+    },
     {
       "id": "0c7faf5ec5c9a2ae",
       "date": "2026-11-02",
@@ -1579,88 +1667,6 @@
       "facilityId": null,
       "sourceName": "report",
       "sourceURL": "https://www.datacenterdynamics.com/en/news/anthropic-signs-45bn-compute-capacity-agreement-with-nscale-report/"
-    },
-    {
-      "id": "7bb3de268410f36e",
-      "date": "2026-08-27",
-      "kind": "announcement",
-      "title": "DMGI: Q3 revenue fell 13% as AI data center transition advanced and 75 MW power was secured",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 75.0,
-      "facilityId": null,
-      "sourceName": "TradingView",
-      "sourceURL": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQQmRCYzAwLXJvY2xoYXphMDM3T1JPNDJlZnk2MkVIU0h5MmFhazVuZW40eVFMekpWcnl6WFlrbm8xbVlWeWRnZW9IRjB6cm1PSWJhUjgzeFd5a010UEtYSnhKcy1lM1l4QTNfOWQ0d1FXQWZqYmlfRXBmZFBFZHVFbm5Ja1FPSzJqX04wRWhucDdTV0NIOGVvd3NjeWxja3lXMHVhQk9tLWZRVUt6UThxeUxReGdfdnNfS3BkcnNVVW0xdjJ2cENTM2QwNHhhdDB5ZENVRmVzNlhtNHhtcVlDVnI0Xy05OXdxTjJUakEzNlVxWnJwZnJtVTFWcG9vSVlSNEZRei1fZw?oc=5"
-    },
-    {
-      "id": "d878d5da3ffdd41d",
-      "date": "2026-08-26",
-      "kind": "grid",
-      "title": "PJM’s Power Shortfall Puts Data Center Growth in Focus",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 6800.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterknowledge.com/energy-power-supply/pjm-s-power-shortfall-puts-data-center-growth-in-focus"
-    },
-    {
-      "id": "8eefc5af05068d1b",
-      "date": "2026-08-25",
-      "kind": "announcement",
-      "title": "PSC deadline arrives for Georgia Power’s 3.2-gigawatt OpenAI data center contract",
-      "detail": "",
-      "builders": [
-        "OpenAI"
-      ],
-      "stateCode": "GA",
-      "mw": 3200.0,
-      "facilityId": null,
-      "sourceName": "thecurrentga.org",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQaGZZQjVhY0cyN2t2bG1DczhUbGdTRmJFMU1TVmNaZ09rZnZlZlRhY2F2bzVnWDUxLXR4NFFtZ3NRU3kwZWZvRVY4V1FOS0J4a1BvbE5sRXJxVDluM0FnVzFvMDh2c0hEQnU4TFVzLUV5cDNwd3pwaUJHREd4RHlEOXpPQTlRUVhVUmx5MEt6MXZjN1hBSmU2UjRDQzRWYUxlY09zbjVjVExkWHREOFotY3ZwX0ItbThZ?oc=5"
-    },
-    {
-      "id": "881cde42975768ae",
-      "date": "2026-08-25",
-      "kind": "announcement",
-      "title": "On Jurong Island, Digital Realty plans a 50-megawatt data center for AI workloads",
-      "detail": "",
-      "builders": [
-        "Digital Realty"
-      ],
-      "stateCode": null,
-      "mw": 50.0,
-      "facilityId": null,
-      "sourceName": "Stock Titan",
-      "sourceURL": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeHJpaS1xdGpaeC0xYmItTXA2TVI0Z1piVkFfVGxxVTR1alNDbG1jRzYyQVhfeDZ3R2ltSjNURzVGUl9ZTktGeFk5LWJuMVhqcDFpcW5yeXp3M2pzZXNPZkc2WEM4RUh4TE5rdVA2eTlYcVAzeGJ0WUpsR1NkaldqekxNQnFvRDhWVHAxX3lxVlpHTDBTWUVVNUhSUDYxemFpeGVSX09CTnpETFpEcFdKRzY5SXBiUTlXZVBacQ?oc=5"
-    },
-    {
-      "id": "536743b6c29af99e",
-      "date": "2026-08-24",
-      "kind": "announcement",
-      "title": "Prometheus’ 1.5 GW Texas Data Center Plan Tests Private Power",
-      "detail": "",
-      "builders": [],
-      "stateCode": "TX",
-      "mw": 1500.0,
-      "facilityId": null,
-      "sourceName": "Data Center Knowledge",
-      "sourceURL": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdWVyNlpnY19HMWNwSUtzUWFGcUZiVEdWWDlQeWRtNHdHOG5uYm1XZ0Zpb21zbU9oaXJyUTBnTDhMV3ZUb3dGTnVkZ1U3TEpSQlRhT09fREpLZkV0VHpvRERLMGU5OFdEZ01uNkhXU3YxeGNxeWdNc1FET2tIXzN6UkNFNDBUZ2Y1NndHWVpkNlJRSVVaemtxek9lQTRnbERuLTRCaVhEcDdNTUlmUGc?oc=5"
-    },
-    {
-      "id": "76a2a0c590defd30",
-      "date": "2026-08-24",
-      "kind": "announcement",
-      "title": "Soluna Acquires 397 Acres in Texas for 300 MW AI Data Center Campus",
-      "detail": "",
-      "builders": [],
-      "stateCode": "TX",
-      "mw": 300.0,
-      "facilityId": null,
-      "sourceName": "citybiz",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU0ttZlphU0NvYUl3dTYzX1NHVWJZdFc1bkZXSWljVXc5b044aExqeUxUWVFCSW1UOUQ5WXZLT0libjZjajdxSnhHaDBCYllvYTVPMFNraTJiUFNZMGh1eUE2UThadFdrbl9UOHo5OWFfRkJ6RnJBVzJGaEh0dVg0MzhtcXFCSy0zdkJ6LVlESHk2Vml4UnRqTDNLOTZyMENoRzNWcE00MmR3UQ?oc=5"
     }
   ]
 }

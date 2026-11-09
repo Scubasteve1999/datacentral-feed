@@ -1,7 +1,92 @@
 {
   "version": 1,
-  "updated": "2026-11-05T20:20:54Z",
+  "updated": "2026-11-09T22:45:03Z",
   "events": [
+    {
+      "id": "5e335ea39b0fc3af",
+      "date": "2026-11-09",
+      "kind": "announcement",
+      "title": "Riot Platforms signs 910MW agreement with unnamed frontier AI lab",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 910.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/riot-platforms-signs-910mw-agreement-with-unnamed-frontier-ai-lab/"
+    },
+    {
+      "id": "b3467125fdc7c8f7",
+      "date": "2026-11-09",
+      "kind": "announcement",
+      "title": "Anthropic signs $3.4bn gas generator deal to support 1.7GW of data center power",
+      "detail": "",
+      "builders": [
+        "Anthropic"
+      ],
+      "stateCode": null,
+      "mw": 1700.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/anthropic-signs-34bn-gas-generator-deal-to-support-17gw-of-data-center-power/"
+    },
+    {
+      "id": "5f244ec7756dc61b",
+      "date": "2026-11-09",
+      "kind": "announcement",
+      "title": "Musk Announces Two More Data Centers for Mid-South AI Expansion",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TN",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "The Tennessee Tribune",
+      "sourceURL": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2Y4YWRPRGpJTkhkQXBjUGVRTlVRTHBLNktvYk5qWFk0ZmxRRUVFSmdfUGdrcGRDTjI5XzhETnlOMHNncTFyY05icUxFQ1RuaXFYU3BObk0xa2F2ampuYjFEZWtMeC1UVFJvOS1ESFFSVkxTZUF5Y2NnTnUyWEpxUldQeFctNXlIem9scUVrMA?oc=5"
+    },
+    {
+      "id": "a9e563f745732a35",
+      "date": "2026-11-09",
+      "kind": "announcement",
+      "title": "Land & Expand: Texas’ AI Boom Meets a New Political Reality",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Data Center Frontier",
+      "sourceURL": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVWtBb3BzZXlaeWE1VU5XeW9vN3lrZnZodjZBUHVEOWJDdWNka1lEMGw4ZWdQSWNncFBZYmdTWVZPcER5WlBsdHdNaUZseXE2OHhacjRFQ01NLVY2QVBPZzNIcXZ3X3JhSVNwQTZkdDlJRU5oMjFGaGdCdmJkQkd2azRJRnhIcEQ2V3hQb3FSXzViOWNaQ05pSmFkMlhQU1FvRnI3T1YwbGRJdTJGdUdhUk85M0t5eGQ0djVJUFRMUQ?oc=5"
+    },
+    {
+      "id": "246f0155bd06f5e2",
+      "date": "2026-11-07",
+      "kind": "policy",
+      "title": "CoreWeave asks Texas governor-elect Hinojosa to let permitted data center projects finish",
+      "detail": "",
+      "builders": [
+        "CoreWeave"
+      ],
+      "stateCode": "TX",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "MLQ.ai",
+      "sourceURL": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMENSNW1nYlhxVmhuZnVTZkVReHB6RW5hNk4zQzItWEtYOENRazZyaXpVNjA5dDNiXzRrMlNOTFozX3RHcE0wV3owQ1NXWlFVRUV6S2VwQWZPY0ZfZ3p4ZGRsUW51TEZ6R01iWVBqaVJ5aXhGVXZOdjQ2THVlclpyekcwaHYxZ3IycXRjclFaejc3bmdCT1BZbmxPTTdIZ1lvLWdPbW5FSENWby1JZkdJ?oc=5"
+    },
+    {
+      "id": "d289308af3e90991",
+      "date": "2026-11-06",
+      "kind": "announcement",
+      "title": "Crusoe Hands Google a Pre-Developed Wyoming AI Data Center Site",
+      "detail": "",
+      "builders": [
+        "Google",
+        "Crusoe"
+      ],
+      "stateCode": "WY",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Unite.AI",
+      "sourceURL": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOXoxMVVfTDUxS1VlMXBRYWM5VGl6MTk4cTBxY3pMcXVlUUlTYVdRWU9hUHpzaWNYMkR2ZVY0U05kNXNPVWFhUWV0Q2t4NU9ZOG1xbG9BcVVtOEtFZlRfaF9GLU9MWjctMjhRaXVGWEdqQlltWlcxY2FzTnRGXy03R0RUNUJnVTdNS1NTbmZn?oc=5"
+    },
     {
       "id": "0a91cb4fc4c45503",
       "date": "2026-11-05",
@@ -1579,94 +1664,6 @@
       "facilityId": null,
       "sourceName": "Intelligent Living",
       "sourceURL": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XNE9oQTJNVjc1Xy1mLVRyZUl4UllZZWFjSkVHNXBPT0dUQThiQ1lTOGlnRWhUMUZtN2IyQmwtemJuYXJKc0NxUE5wRnNrVnhROU85cjdKTnJ4UHV6dnlBdndoUTY1ZnN5T0RZWm0zX3NaSFpXU0F4VjF5RDc?oc=5"
-    },
-    {
-      "id": "4ea075bc43540d3e",
-      "date": "2026-08-30",
-      "kind": "policy",
-      "title": "New York activists rally at Tesla site to demand stronger data center moratorium",
-      "detail": "",
-      "builders": [
-        "Tesla"
-      ],
-      "stateCode": "NY",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "The Cool Down",
-      "sourceURL": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRUZtMGE5N2xVbkpzMGJFMGJVcERXRXo1WWk2Z3cxVjluVUlDM051LWF4cGs3aGRpcVlKcVQ2SnhzOGUyM09lN0dNSS0yR3hyOU5oRGliXzhrQzVXRWYyd0NwQWE0UjV0WDY2OFBoUEdkSWtkQ054bmpGM2hhcTNEMm1VSXlLd1lfZjFWcGZtVWo5Mi1pZGxsSXA3aEZXeVRiN1VOMWNNaw?oc=5"
-    },
-    {
-      "id": "4c1470b9f887c7b7",
-      "date": "2026-08-28",
-      "kind": "announcement",
-      "title": "Digital Realty breaks ground on fourth data center in Zurich, Switzerland",
-      "detail": "",
-      "builders": [
-        "Digital Realty"
-      ],
-      "stateCode": null,
-      "mw": 15.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/digital-realty-breaks-ground-on-fourth-data-center-in-zurich-switzerland/"
-    },
-    {
-      "id": "83caf6948883ecb2",
-      "date": "2026-08-28",
-      "kind": "grid",
-      "title": "Warehouses De Pauw announces two data center projects in Ilfov County, Romania",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 380.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/warehouses-de-pauw-announces-two-data-center-projects-in-ilfov-county-romania/"
-    },
-    {
-      "id": "0cb29fd6bb0672a1",
-      "date": "2026-08-27",
-      "kind": "announcement",
-      "title": "ChronoScale Jumps on 50-Megawatt AI Data Center Pact With Microsoft",
-      "detail": "",
-      "builders": [
-        "Microsoft"
-      ],
-      "stateCode": null,
-      "mw": 50.0,
-      "facilityId": null,
-      "sourceName": "finance.biggo.com",
-      "sourceURL": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QSldjel9jNU5mTWZpcUpHOE1wWmtPZmZWRk5xMjZoalF1S1ZHMFRqejMtZmhGdjNyLXZEQTA3MHBtUURVN0pnQkE3dC1xcEVxQWY4MXVxSW5fYUhMNVdwZVRwLVdtdDlyRHhEQXlHX3RaYVVwREE?oc=5"
-    },
-    {
-      "id": "f8c053c0347e6a7e",
-      "date": "2026-08-27",
-      "kind": "announcement",
-      "title": "Georgia Power gets clearance to serve OpenAI's massive AI data center in Effingham County​",
-      "detail": "",
-      "builders": [
-        "OpenAI"
-      ],
-      "stateCode": "GA",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "CBS News",
-      "sourceURL": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDFlSWdGM0pFWTdhbkhOa0k3ZFBuNXZINVY3RHVTNTY4b0kxZV9ZWlpUQ040QjQ5LXNWcFZfUkd0QmpialJfek9nNWlTQlE5VGFWMUh4ZjFLZWNwY01GZ3EwcTdFNkw3eW1zcUQ1REtpcUxUMVlHWGhfRjlBbTdnS2huR0FaSG9STndBVDRDOE53dFdLODg2cXJJUVFhYzM5M2NqdkpySnhMMWF6SkN2eXNQbzJ0bENXdWJBMXpOdVZhbHNW?oc=5"
-    },
-    {
-      "id": "c291d9af41b99b2e",
-      "date": "2026-08-27",
-      "kind": "announcement",
-      "title": "Anthropic signs $45bn compute capacity agreement with Nscale",
-      "detail": "",
-      "builders": [
-        "Anthropic"
-      ],
-      "stateCode": "VA",
-      "mw": 460.0,
-      "facilityId": null,
-      "sourceName": "report",
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/anthropic-signs-45bn-compute-capacity-agreement-with-nscale-report/"
     }
   ]
 }

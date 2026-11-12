@@ -1,7 +1,96 @@
 {
   "version": 1,
-  "updated": "2026-11-09T22:45:03Z",
+  "updated": "2026-11-12T20:30:19Z",
   "events": [
+    {
+      "id": "ce69316fd99cc6bf",
+      "date": "2026-11-12",
+      "kind": "announcement",
+      "title": "Plan for 200 Megawatt plant, with similar functions to a data center, has first public hearing Thursday",
+      "detail": "",
+      "builders": [],
+      "stateCode": "CO",
+      "mw": 200.0,
+      "facilityId": null,
+      "sourceName": "Colorado Public Radio",
+      "sourceURL": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnQ0LXZBSWtCeHZlN2x6SnFKeWJ3UmpPQ3dGd2VHZFJOZlZOQzJtUHBpZ25fM1J6THFUZU5MencwMnRBMFRHRXBXLXRTVU96WmkyQVBIVzBWYjJYaEVtWlh3aUNRV1pTMGo0T0dYemVRcG80aHppeVFPWUp6cXUwRGZ0bTlMXzA?oc=5"
+    },
+    {
+      "id": "8efef040c72391e6",
+      "date": "2026-11-12",
+      "kind": "announcement",
+      "title": "‘Water for life, not data’: Amazon data center plan draws Eastern Washington protests",
+      "detail": "",
+      "builders": [
+        "Amazon"
+      ],
+      "stateCode": "WA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "GeekWire",
+      "sourceURL": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObmVFUTRuTUxqMHU2ZTdPaF9KRVFyLWEyWXEteGl6VXFxZ096VERXd1RYbnFuLUY3X2c5MmsxaGUyNVZJNUhsOVEtb1lmc3V5Rm9janhjcmFaLVhEZkN0S0xtQmxPaFJidnRNUFVLMUJWWUpwNWZnOEx3eV9CX3BVYWU3aWhycDJNNUdobGFNTlFvVEkzbHlTVktTTE52TXlUZzkyZUxlU0VzeURUeVN2REdB?oc=5"
+    },
+    {
+      "id": "a6398c6fff4a9609",
+      "date": "2026-11-12",
+      "kind": "announcement",
+      "title": "OpenAI faces civil racketeering charges over $30bn data center planned in Effingham County, Georgia",
+      "detail": "",
+      "builders": [
+        "OpenAI"
+      ],
+      "stateCode": "GA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/openai-faces-civil-racketeering-charges-over-30bn-data-center-planned-in-effingham-county-georgia/"
+    },
+    {
+      "id": "1efdd4925bc89647",
+      "date": "2026-11-11",
+      "kind": "policy",
+      "title": "OpenAI and Georgia county leaders hit with Mafia-style RICO racketeering lawsuit over $30 billion AI data center — residents allege closed-d",
+      "detail": "",
+      "builders": [
+        "OpenAI"
+      ],
+      "stateCode": "GA",
+      "mw": 3200.0,
+      "facilityId": null,
+      "sourceName": "Tom's Hardware",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxPamJCY3otWUdoaXpvanUwaWYtMVF3R2lWeTExLXd1WFhLdjF0bFN4NVBNejJkNUpycWtoZFgwdkFaX0NQbzBYRGgzSFdtbm1RUW5uTjJsR3ZFVmVNb2YxUGstRjVRaFBGMmFIVGthcEQ5Vml3dmszQ0wyeHVwVFVuc0FJa3Jtbm5kR3JWSHBOV1NmeGJURDBsbDRLOWV2eDdwX3NyOUpYSzBZcjFCc2ZFLVZIaGl5U3NWRmlVUDAzUldBcy11ajVXbnpDVDRoSTlnMGZpTlFHYmJzUXlLMS1pN3VOWVNQZHltT3NtWlBQYnhGQjdlNW9VZU5ZWHRUbUtuYUVTTkFadHZFcTEyRVFxbzlwUUhudHpVUzBrZE1SV2gtclFodnJrZkIyT2RKMXlROGFzSmdSTVNxUm9FWDlWUWRNU2g4ZGZGMTJRbWN5ZlBpdzl3NHRNeFlSLTJhcjBLSlZCcnR0RTlJSzVjR1RFTg?oc=5"
+    },
+    {
+      "id": "daa4db9b6e3462be",
+      "date": "2026-11-11",
+      "kind": "policy",
+      "title": "Nevada Regulators Approve Switch's 510-Megawatt Gas Plant for Data Center Boom",
+      "detail": "",
+      "builders": [
+        "Switch"
+      ],
+      "stateCode": "NV",
+      "mw": 510.0,
+      "facilityId": null,
+      "sourceName": "Hoodline",
+      "sourceURL": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNFowU1IwRjVjRklYYVdEdzZLZlg2WURpWl9zY1RGTURBcTNPX28wR0hvUVhHTC13VWVCRU9HbVpsS3FxbFhwS1U0NFl3ZDgzbWxwaTd6bkV4OVZPREVZUGRnMy05eDB0WkZEUVZoWmJ2V0tBNUZIMUZlUzdUWHBjb1J6S1hyWFIycUd3TUVqQVNCRC1mZ1IyYkVoUnBndXo1TjhuWFpoLVlFbnNW?oc=5",
+      "policy": {
+        "status": "approved"
+      }
+    },
+    {
+      "id": "fc87f61df389b354",
+      "date": "2026-11-10",
+      "kind": "announcement",
+      "title": "900-megawatt data center campus proposed for central Massachusetts, backed by Kraft Group",
+      "detail": "",
+      "builders": [],
+      "stateCode": "MA",
+      "mw": 900.0,
+      "facilityId": null,
+      "sourceName": "CBS News",
+      "sourceURL": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnSGZfTWhSZnV2bWhycGU3aVVyd2NVMkJ3bnVMMDVnaG04OXE0VGFJVUV2eml2MkUtUkpaTUlQTVE0amNwN3pNbVpFaDJIQkZXUjhydHNneWRmR240bkk1dDVXbFFhSjcxODlLWGkwbDBXNWVDV0Fn?oc=5"
+    },
     {
       "id": "5e335ea39b0fc3af",
       "date": "2026-11-09",
@@ -1584,86 +1673,6 @@
       "facilityId": null,
       "sourceName": "The Salt Lake Tribune",
       "sourceURL": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdk11a291dDNYcFdoY01nZkRrQ29Vd3lLc1JPRGdZZ1BzVzF0X2wwV0pZaHNzRXc3a3dnLWU4NVo1c0pjcy1EeDV2amhwQ0luZzdTOUlsclc5N3B4NDlTUEQ1dVJTemc3R3B0bk1vN1B6R0N2ZjlZaHBwOHVMV0U5aE8xTzVPNjRLQ3plN0tR?oc=5"
-    },
-    {
-      "id": "19f196982a320d79",
-      "date": "2026-09-03",
-      "kind": "announcement",
-      "title": "Firmus proposes third data center project in Tasmania",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 52.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/firmus-proposes-third-data-center-project-in-tasmania/"
-    },
-    {
-      "id": "f0ab6052d85ca71c",
-      "date": "2026-09-03",
-      "kind": "announcement",
-      "title": "Cuasar Capital plans 300MW data center campus in Durango, Mexico",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 300.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/quasar-launches-a-300-mw-data-center-campus-in-durango-mexico/"
-    },
-    {
-      "id": "878b0b5d6421e5e4",
-      "date": "2026-09-02",
-      "kind": "announcement",
-      "title": "Google’s Vision: A 1 Gigawatt Geothermal Data Center",
-      "detail": "",
-      "builders": [
-        "Google"
-      ],
-      "stateCode": null,
-      "mw": 1000.0,
-      "facilityId": null,
-      "sourceName": "Data Center Richness | Substack",
-      "sourceURL": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1JLVzFOUVpKdGEya2oxS2xfeER5enpyUVVtYWFJWDdiUlh1SE5HZTVjT3ppZmNrc3ZMYTZrWTl0VGstVVZFb2NiM0Nxd25CWkltQXNKbVMwSzZVck82UmR4SU5VbXpPRXQyLUhCbE5NUGVIQVVDYzQ3TXVrUVJtekV5ejZhYzQ?oc=5"
-    },
-    {
-      "id": "49cd5b5aa58d863a",
-      "date": "2026-09-01",
-      "kind": "announcement",
-      "title": "California Judge Orders Full Environmental Review of 330 MW Data Center",
-      "detail": "",
-      "builders": [],
-      "stateCode": "CA",
-      "mw": 330.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterknowledge.com/data-center-construction/california-judge-orders-full-environmental-review-of-330-mw-data-center"
-    },
-    {
-      "id": "f55b01b80816f077",
-      "date": "2026-08-31",
-      "kind": "announcement",
-      "title": "Azio AI Holdings names Atlas One as first phase of its 500-MW South Texas data center campus",
-      "detail": "",
-      "builders": [],
-      "stateCode": "TX",
-      "mw": 500.0,
-      "facilityId": null,
-      "sourceName": "Energies Media",
-      "sourceURL": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDOGl3MnZOelNZTWtvN2pvX3VpeUgtTVZNRlAtRVFSNVpzWGVYek9vRnp4QkJzejVQUGtyUjVyZ04wQXBXOVdXUkU0WlByeWlCZXNrQTRFeWYtVHRWVGYtamp1bFkxcHRWeFVsVnRWWWllOFU?oc=5"
-    },
-    {
-      "id": "f6456b1cd050aa2f",
-      "date": "2026-08-30",
-      "kind": "grid",
-      "title": "Will AI Raise Your Electric Bill? EIA Starts Counting Data Center Power as Maine Pauses 20-Megawatt Builds",
-      "detail": "",
-      "builders": [],
-      "stateCode": "ME",
-      "mw": 20.0,
-      "facilityId": null,
-      "sourceName": "Intelligent Living",
-      "sourceURL": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XNE9oQTJNVjc1Xy1mLVRyZUl4UllZZWFjSkVHNXBPT0dUQThiQ1lTOGlnRWhUMUZtN2IyQmwtemJuYXJKc0NxUE5wRnNrVnhROU85cjdKTnJ4UHV6dnlBdndoUTY1ZnN5T0RZWm0zX3NaSFpXU0F4VjF5RDc?oc=5"
     }
   ]
 }

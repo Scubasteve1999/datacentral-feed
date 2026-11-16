@@ -1,7 +1,91 @@
 {
   "version": 1,
-  "updated": "2026-11-12T20:30:19Z",
+  "updated": "2026-11-16T22:34:58Z",
   "events": [
+    {
+      "id": "211ad5f1367d9688",
+      "date": "2026-11-16",
+      "kind": "announcement",
+      "title": "Prologis sues Trenton, Ohio, to keep building a 250 MW Amazon data center after voters approve a ban",
+      "detail": "",
+      "builders": [
+        "Amazon"
+      ],
+      "stateCode": "OH",
+      "mw": 250.0,
+      "facilityId": null,
+      "sourceName": "MLQ.ai",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUJpU19JVVRKUWJtSnluckdmX05rUHZ5TGhCUXRyTURRYzE0eVFPd0Z2Zm9jQkRmVlhfR0xpbDl1ei1HSjFqNXRnVENKd2M3aF93N18zZC1uWER1ZThBWkM1dFhMSVpRWkQ1LTZfSXZHZmZ3VU1lMlY3RkRNSldETmdmZ19jODZsR0c4TzVNTHFheXNfRTJ2ZXRZZWtjRFRMdm13WkRSSVp3TmdmN3VLVGNET3RjQy1qdlQw?oc=5"
+    },
+    {
+      "id": "4b7e6ad60dd0e714",
+      "date": "2026-11-16",
+      "kind": "announcement",
+      "title": "Core Scientific files for 285MW data center outside Dallas, Texas",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 285.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/core-scientific-files-for-285mw-data-center-outside-dallas-texas/"
+    },
+    {
+      "id": "fa0b744192737b65",
+      "date": "2026-11-16",
+      "kind": "announcement",
+      "title": "60-Megawatt Cooling Design for AI Data Centers Uses Dry Coolers Instead of Cooling Towers",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 60.0,
+      "facilityId": null,
+      "sourceName": "Environmental Protection Online",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONTVzNWNyM0ZlWlpjTG5SV0lXeG1abVdjdG5LVjU0RDNuVWxjRVd1WXZJdElUSjk3RklxOWVFdGZWSzZnQmVPV3dZWF9aSE9Xa0JrVnpqaXkxTkR0ZU9YbTRRQm83WXh5ZGFaSE9xSWxsUlk4dG9tNTlWU0duWkhvQ3I5aUJvMlFfenIzZmFmWXNwc0ZWdTBHOUpfZGRCR2x6cDE5T2Rxa05XdGpTczhjVEpWMHNTX2xLTWdsUEdscUxSVENiOW1LSzRfcUZqNC12?oc=5"
+    },
+    {
+      "id": "aa73f01bcab1f1c1",
+      "date": "2026-11-16",
+      "kind": "announcement",
+      "title": "Microsoft looks to develop data center in Rockford, Illinois",
+      "detail": "",
+      "builders": [
+        "Microsoft"
+      ],
+      "stateCode": "IL",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/microsoft-looks-to-develop-data-center-in-rockford-illinois/"
+    },
+    {
+      "id": "85240a3a63ace898",
+      "date": "2026-11-16",
+      "kind": "policy",
+      "title": "Permitting Bill Would Charge Data Centers Billions for Power",
+      "detail": "",
+      "builders": [],
+      "stateCode": "NY",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "The New York Times",
+      "sourceURL": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUtuUVhUVjkxenZMWnZNQWx1OG9CbF8yT1VyZ1ZFOFJvTGpYSHZvaEVyWmJDWEV3bUNfMkpxOVV2OTczS011UEtkLWFjNDdqODFITVc4T1VFV0wzZy1rNTNkWGhGblVkaW5TcVEtdEkxWDJ6MUE2Y1pCVlRKS2hiNFZpVFhWQXItWFpWVU5QeXh4TFV5dFBLbWl3?oc=5"
+    },
+    {
+      "id": "4a6e9c2fec6427dc",
+      "date": "2026-11-15",
+      "kind": "announcement",
+      "title": "Nvidia's Ousted CEO Said a 1-Gigawatt Data Center Delay Costs $10 Billion a Quarter. Here's Why That Matters for Power Stocks.",
+      "detail": "",
+      "builders": [
+        "Nvidia"
+      ],
+      "stateCode": null,
+      "mw": 1000.0,
+      "facilityId": null,
+      "sourceName": "The Globe and Mail",
+      "sourceURL": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOaXRGOS1CX0RjWHg2NWlXUHNHM1IzcWl1TVlBNEVmbEFDdGNDcGNtcFdacUNvbEZOYktxalVJcHRYck1wbkNIMVhfZURfLUZ1eXlMdWF1WWdEVWpIcE4zamwxb19SWGM5bGNENTF3d1lXREVOQ3RxYktPRTJDSVoyMHVHaUM0TEdLWWE3S2d4WXBWUlVBUDZtTzdGaFJGUDVfd0UyRlVZdUFDTDlxcHlYeU1Da2hTUlozOEdyeDFYNTRoQWdMelBIN0hFZE96by1oZDVVUEJzU2JBTkFwbU5LMmw0LUlzQS1zWXFSQjFESktLaHF3R1MtNmNOOXhpY05EeGliSUt1OFVvaERxc0FqXzFBaWRmbmYwVkxaUUpFLUJPMVZWS1Y0VDh5SktsQQ?oc=5"
+    },
     {
       "id": "ce69316fd99cc6bf",
       "date": "2026-11-12",
@@ -1591,88 +1675,6 @@
       "facilityId": null,
       "sourceName": "Kearney Hub",
       "sourceURL": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRU1RdVBKOFo3VlU0UHRSWU90cllaVFV3Q01pak5aLXB6RUprTTQyWlY3TFJWdUJ2R1l6bjIwRF93YmxtU1FfSzhPY0NUMnd4UFc5RkNCVXlPdkRSbkpFdlhnS3JMclNtNGc0Uk9xTXRBUm1ORW1LbGNub2d2TlowRlM0VlZLeXN1WEhtZUdnTHluMGhjcW80RDB4Y1ZIN1NvMFlSNS1R?oc=5"
-    },
-    {
-      "id": "b598a2b742f41952",
-      "date": "2026-09-07",
-      "kind": "announcement",
-      "title": "JV plans 54MW data center in Dallas, Texas",
-      "detail": "",
-      "builders": [],
-      "stateCode": "TX",
-      "mw": 54.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/jv-plans-54mw-data-center-in-dallas-texas/"
-    },
-    {
-      "id": "b0b22c671d152e0a",
-      "date": "2026-09-07",
-      "kind": "announcement",
-      "title": "Michigan Data Centers: The Weekly Download",
-      "detail": "",
-      "builders": [],
-      "stateCode": "MI",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Michigan Advance",
-      "sourceURL": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRlEzUW10M3ltZnB5MDVyRG9WMW9HNlFwcFhad1JoTXJuVlJfTThraHZXeTd3TXZ2SXVZMWtlMEowRHNrR3haRHBXem5mc0NiWTdNNmZkU0kyZlRIbVRLN2hzS1FCUmJNS2tvajRoUG9OQ0xUS0o0dnJLdlZuYzBNbTR0WDFjc1FFazRnQ3lGbnk?oc=5"
-    },
-    {
-      "id": "690d459928894920",
-      "date": "2026-09-07",
-      "kind": "announcement",
-      "title": "Residents question noise impacts of OpenAI data center I Exclusive",
-      "detail": "",
-      "builders": [
-        "OpenAI"
-      ],
-      "stateCode": null,
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Savannah Morning News",
-      "sourceURL": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUhXSFN4VmFzNGZzWnp3dHd4aThYOTM5V28xQ2VOY2RNSGVBZDZPai1zOW9oeEVlckNlelg4d3lHQmlBdzYxV005WkI3UHR3cVZVVmg4bU9neTMzalRMcHJOWlRKUnZOeWhVOUI5eElJakxMaGd3WXh3N3NNTXdYMWNYTjlfMmUzU2RUV2Mwd0JDcEJmVUpKX0h5M1dONDB0dHFHM2FrWjF6b1R4c2JubQ?oc=5"
-    },
-    {
-      "id": "948abd40c86c53f7",
-      "date": "2026-09-07",
-      "kind": "grid",
-      "title": "ERCOT to complete Texas data center audit by December",
-      "detail": "",
-      "builders": [],
-      "stateCode": "TX",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/ercot-to-complete-texas-data-center-audit-by-december/"
-    },
-    {
-      "id": "e303b661b8ca98fe",
-      "date": "2026-09-06",
-      "kind": "announcement",
-      "title": "'We Aren't Competitive': Power, Taxes Keep Colorado On The Data Center Sidelines",
-      "detail": "",
-      "builders": [],
-      "stateCode": "CO",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Bisnow",
-      "sourceURL": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMWRMRXpyamIxMzBUNkttcldLeDA3YkZ6Y3N1YjdQVmFUaEZob3c3UVdjOXh4ZFFsZkFjaUxJMzRTNEVtZjBYeWlPc0owVEVDOTdiWC1VTTV6SXNlX0FrTHNLY0tWdVR2LVo2NmZTRGpNamZ4LXh3Q3IwLTl3djQxYXdGNGd6NGhFeFFVcDZ0aGlCeUV2UVdWRW1FMmhiaGVUZl93aGE0b0RDQ0QxczVldmdjV195THpHMFo3cFQ4ZVpnd2FQU2dyVmlPQlplRWdOZ2diTg?oc=5"
-    },
-    {
-      "id": "d70b473139f272cf",
-      "date": "2026-09-03",
-      "kind": "announcement",
-      "title": "Google inks massive Utah geothermal deal to power potential data center",
-      "detail": "",
-      "builders": [
-        "Google"
-      ],
-      "stateCode": "UT",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "The Salt Lake Tribune",
-      "sourceURL": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdk11a291dDNYcFdoY01nZkRrQ29Vd3lLc1JPRGdZZ1BzVzF0X2wwV0pZaHNzRXc3a3dnLWU4NVo1c0pjcy1EeDV2amhwQ0luZzdTOUlsclc5N3B4NDlTUEQ1dVJTemc3R3B0bk1vN1B6R0N2ZjlZaHBwOHVMV0U5aE8xTzVPNjRLQ3plN0tR?oc=5"
     }
   ]
 }

@@ -1,7 +1,89 @@
 {
   "version": 1,
-  "updated": "2026-11-16T22:34:58Z",
+  "updated": "2026-11-19T21:01:54Z",
   "events": [
+    {
+      "id": "6ba0a168d2f59c64",
+      "date": "2026-11-19",
+      "kind": "announcement",
+      "title": "QTS data center site in Georgia partially evacuated after shooting threat letter",
+      "detail": "",
+      "builders": [
+        "QTS"
+      ],
+      "stateCode": "GA",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/qts-data-center-site-in-georgia-partially-evacuated-after-shooting-threat-letter/"
+    },
+    {
+      "id": "04a71b61d15d4f06",
+      "date": "2026-11-18",
+      "kind": "policy",
+      "title": "SpaceX Wins Texas Permit for 750-Megawatt Gas Plant to Power $24 Billion Data Center",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 750.0,
+      "facilityId": null,
+      "sourceName": "BigGo Finance",
+      "sourceURL": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OaDJMbWZMTVJzdjRXTG14TnhVSGlZTFVJdUFORzRLdEdDbnJwYndFU2c1WWlhLVp2bzF3VTF4U1Z5a2FSV01TMlBIaXVXb2k1TV9aUjQzNWxpZUwtd29kNlIySmNLQVR2WmljU2JFc1VxN0FBUWc?oc=5"
+    },
+    {
+      "id": "b4d0faa7cc5e884f",
+      "date": "2026-11-18",
+      "kind": "announcement",
+      "title": "2 designs, same potential 2.1-gigawatt demand: Slate Belt data center plans up for review this week",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 2100.0,
+      "facilityId": null,
+      "sourceName": "lehighvalleylive",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTjhiX3Q5b25SZmZMQWpYeWJqZlVxTm4tOV9kLWs4VTJrQlVGdWVhd0Y4VktPTGtvWGRHeGVfQUhnZ2NLSG12MklSekVDdzRVOVRPWjFqTHBjdjVVVnIyekowQ2dLSU1ibGU5dFN2d0dKYVdyWDZ6VVhwN0dsaE1IUF9yLXFqX083dklmWEJUWEp6WmR3SU9Jc21XQ0stb1NXOUgzbjY0ajJtUzZFTlRUSHhBdXJ2MGloSmg3MmNLVjV6REFPd2dqZTRVdWd4Z0ZyNWNzTXdWQ2d2MW5ObUwwWHdQaGtNdEF1?oc=5"
+    },
+    {
+      "id": "f6a87ee4df1819ce",
+      "date": "2026-11-18",
+      "kind": "policy",
+      "title": "Michigan City implements data center moratorium, but it will not halt Google project",
+      "detail": "",
+      "builders": [
+        "Google"
+      ],
+      "stateCode": "MI",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "nwitimes.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUV9wQW9JcGdVUGdmX0xEdUxiN042RXVsZUVWb1AtRUtNdFIxcUVZWTZGNm1LMVp3bmZNMGZMUllMdklZWFRKaWQ3Q0ZuTTEwZ1pZT2FBSTJQRTBrQ1VCVjFmRUM1cjJpQTFqb2duaThCZU1nbFJBd2tWX1lzU2FmT1lGRU5kbTJ1cWJtQ3BOV1VULTBuYThyOU9IMHFuWkRoYlIw?oc=5"
+    },
+    {
+      "id": "662bf91b1d0ac071",
+      "date": "2026-11-17",
+      "kind": "announcement",
+      "title": "Giga Energy signs a 10-year, $1 billion lease for a 60 MW AI data center in Hunt County, Texas",
+      "detail": "",
+      "builders": [],
+      "stateCode": "TX",
+      "mw": 60.0,
+      "facilityId": null,
+      "sourceName": "MLQ.ai",
+      "sourceURL": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRFFjdU9LMUJRMGs2bUp2SG10VXFTaHI3N1hkSHBBRXd4czNoamE5N2E1aEhZREF3WUNkT19WYlc1U2FveDVvaGNqWXNXeTR1dENRMGNnQ3M3X0o0Zi1hUkk2b1JxZ0o2VE9kNl9lVlYyaXVLcVNpMTZGVVBqWmh3b3VwYU90emlpY3dIbl9XcWgzeUxNMm15RG1EUHpoWENRYW12WkZ2Q1RrZHdwcnVDY1hR?oc=5"
+    },
+    {
+      "id": "8a2f0bbd94bb5bdf",
+      "date": "2026-11-17",
+      "kind": "announcement",
+      "title": "Wapakoneta considers 50-megawatt Project Apollo data center",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 50.0,
+      "facilityId": null,
+      "sourceName": "WDTN.com",
+      "sourceURL": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVUpxaDhQRjFSOFh0YVB6aGc1azhleGVoYmp5SjAycU5jVUNhRlJaUzFCWjdMLUFBMllnN2ZERXBKQlF2M0ZCQmRzTTlUVlNhQ052T01jU3RGZHNLQ3lqdEJmT3owZWVfT0hKLVMwRmN5bXl4OTdDb0pqbnRmRjhXZG9VTWZfQWJNTXlPdFRUWkJEUGF4cDhCZmJzRkJzcUdYcHg5MTZZZlU1QXZ2SlcyQ21R0gG3AUFVX3lxTFBGMjN5c0ZBYzF0XzE5UE55TmhqSzJ2RkExaFJ5YTh3dTZlSVFVazBCRjhhX2Q4NDBEbEo3anlyVzBVZ05HNlBTQ3BTZng4a2JBUlpOUjNBbldEOEozNmItV051Q2tRUDhhTW9oNGRuRGJhM0VPX2N2VkVXUERVSlJWaFdfeG9DdG9pczN1OUR5MTQxN0RfRXBpTENmT3ZVQzBIOE9rZVNncUZZZHZ1Qzg5NzNNSml4NA?oc=5"
+    },
     {
       "id": "211ad5f1367d9688",
       "date": "2026-11-16",
@@ -1592,89 +1674,6 @@
       "facilityId": null,
       "sourceName": "Route Fifty",
       "sourceURL": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbjdSZWlVWm4tOTBxdldpVlEtTnNOQ2gxNGljRzJmYUFnNF9ZT3RJR0ZGdW56QU9YbEVxN1pPOXNmV0pkR01qMXBNcm9uM0RQU0RUSENEc0dwdTZ0VnViVEFpZHdUMDlPeVVYUXR4dkFtVzFYYWxvV3VlTW1heFRhOXZFcW9sQU9sLUZBMHlia1ZlZlNIRExFWVdQcU11YV9sSWI1dVZIYWNGNnM5OXVtcVJSXzM2aTNkdzNrai05bnBXRG44UTZ1LWpLb2ZCOC1idzVSRFhHYWROVW4wNnNCVE5OOG1zcjFJaVF2SkZPTTVUbWpKb0hEakF6TWhuS01nUU56c0FUMDd4TEZ0cGdqVEZB?oc=5"
-    },
-    {
-      "id": "33315cc82f4d2675",
-      "date": "2026-09-10",
-      "kind": "announcement",
-      "title": "Google-Blackstone's TPU neocloud named Crux AI, hires Meta's data center engineering head Alan Duong",
-      "detail": "",
-      "builders": [
-        "Meta",
-        "Google"
-      ],
-      "stateCode": null,
-      "mw": 2000.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/google-blackstones-tpu-neocloud-named-crux-ai-hires-metas-data-center-engineering-head-alan-duong/"
-    },
-    {
-      "id": "59b5a24b68d71ccc",
-      "date": "2026-09-10",
-      "kind": "announcement",
-      "title": "S+B Gruppe to build data center in Bucharest, Romania",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 12.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/sb-gruppe-to-build-data-center-in-bucharest-romania/"
-    },
-    {
-      "id": "8f52de67f7d5babb",
-      "date": "2026-09-10",
-      "kind": "announcement",
-      "title": "Massachusetts Sets Clean Energy Rules For Data Centers",
-      "detail": "",
-      "builders": [],
-      "stateCode": "MA",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "TaiyangNews",
-      "sourceURL": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeHBqUE1PVDFib1c3TC1BckVHRldIZUNjblFBYW1BeGdnQmlyUW1MQkxKQzUzNWpXRGV1NWlLVWU3Zml3eVh1VGp1SlAwOFU3VG54Ri00cC05VTIxR01JLVdsN3YxWXRMTDJoQW1ySEFEclpuejdPRFU1bGt2Q3RCOGI1enRkOEJiSE9YVlYtZUM?oc=5"
-    },
-    {
-      "id": "6539c24874c72cbb",
-      "date": "2026-09-10",
-      "kind": "policy",
-      "title": "Virginia needs a data center moratorium now | Guest column",
-      "detail": "",
-      "builders": [],
-      "stateCode": "VA",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Richmond Times-Dispatch",
-      "sourceURL": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR3V3eElJZnlCYS13Uk0tVGRzaGdVVnhpeU5zVnUzR3JObUdMNTNpUU9Kcjd1VTBHeHpVWWJiNkhfMnQ4NEZESzdlcU9hNVJ0SjZDZm93YkY5OU9IQ2U3N2pUZ0l6bnpEVFZucFJfZ0tBNG5xZ0VSRHp4dW1JUjRUWS1Dcm5ySUxNemo0UlVR?oc=5"
-    },
-    {
-      "id": "0929d1d71403213f",
-      "date": "2026-09-09",
-      "kind": "announcement",
-      "title": "OpenAI targets Argentina's freezing Patagonia for $25 billion 500MW Stargate AI data center — Green Capital and FlexDomes prep 120 to 3,000M",
-      "detail": "",
-      "builders": [
-        "OpenAI"
-      ],
-      "stateCode": null,
-      "mw": 500.0,
-      "facilityId": null,
-      "sourceName": "TechRadar",
-      "sourceURL": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPc25PT2wtUEMzQnpPVm9DcVM5bmJ2TTFkN2xidWNzT3ByNWE3OWxBWVpjLUFlZXlsTnJGX0xXWlhXUWtwWXozUFo5Sm9tMU5nSVZ1Q2dRRXBVQVNkTTRVbE8xazRGSTg1VmJ2THFiRjZ6WEJMNUc2TTFwVEhkQVFsWnFiMHIxZFlqamNhcGppY1J2TjVoWlB5NTFvU09JQ1BaNEVIR01TcTFvVHF0SENkZ3BFQUoyWktOUW41RzhwX09ULVZOWDFib0E5MExhS0tqNVNBcjZCZmlHV1dFd3JESU9oMVBzMm9xdmVSNEhOaXVYSmR5SGJ1WUdveDd1QjA2aXN1dHllVU5mNTdrTmFfaE8ybVY2MHhXaHdTdmd5SEZxMHpsYi1RN2NoNXdod3RLdjBHOEpRWURFOWJVeEE?oc=5"
-    },
-    {
-      "id": "e625326494956d7f",
-      "date": "2026-09-09",
-      "kind": "announcement",
-      "title": "368-megawatt AI data center approved in Kearney",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 368.0,
-      "facilityId": null,
-      "sourceName": "Kearney Hub",
-      "sourceURL": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRU1RdVBKOFo3VlU0UHRSWU90cllaVFV3Q01pak5aLXB6RUprTTQyWlY3TFJWdUJ2R1l6bjIwRF93YmxtU1FfSzhPY0NUMnd4UFc5RkNCVXlPdkRSbkpFdlhnS3JMclNtNGc0Uk9xTXRBUm1ORW1LbGNub2d2TlowRlM0VlZLeXN1WEhtZUdnTHluMGhjcW80RDB4Y1ZIN1NvMFlSNS1R?oc=5"
     }
   ]
 }

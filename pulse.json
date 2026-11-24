@@ -1,7 +1,90 @@
 {
   "version": 1,
-  "updated": "2026-11-19T21:01:54Z",
+  "updated": "2026-11-24T00:25:57Z",
   "events": [
+    {
+      "id": "f9f4a2625b4a060c",
+      "date": "2026-11-23",
+      "kind": "announcement",
+      "title": "Blue Owl Closes $780 Million Deal for 54-Megawatt Data Center in Northern Virginia",
+      "detail": "",
+      "builders": [],
+      "stateCode": "VA",
+      "mw": 54.0,
+      "facilityId": null,
+      "sourceName": "CommercialCafe",
+      "sourceURL": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZS1Ha2UzYnM1V0VwemxPRVlqWWdVQ1BZVU9tY1NNWlpKaUJtbGNvLVFkcm5Hb2dDS3hxdk15SXRKeXRLRHdjN0Fqal81LVhfWm9Sb21VWTZxWE82R1JXSDVzdWhHZWVqcFBWQzMybHVOQmFaNkk2UjJ4ZUFsRlQzcHdHQzBTalZSTXpHRkJaZVA?oc=5"
+    },
+    {
+      "id": "8acafc2d2b4f440d",
+      "date": "2026-11-23",
+      "kind": "announcement",
+      "title": "Oracle secures funding for OpenAI data centers",
+      "detail": "",
+      "builders": [
+        "OpenAI",
+        "Oracle"
+      ],
+      "stateCode": null,
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Techzine Global",
+      "sourceURL": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMjhNaDRFeGlRYnNrTm5WbnduN3lydTZxS0VIMm93QVMyU01fRGNPVXFIMnFNU0NjVkdqbGZrc0pJRFlpRzZHX3VjdFUybHFpSzRXZ1EtUl9yV0pndGcyaXdoVDhFUHd4WWtka2pXOFF2RERXSXNJaVdmYUI4bDMwLTM5UW9hNlFhR0tGNlY3WUpGbHZOZUpoUTZhZnZ4SHM?oc=5"
+    },
+    {
+      "id": "ecf46f52a959d8cd",
+      "date": "2026-11-22",
+      "kind": "announcement",
+      "title": "New York firm seeks to build a 14-megawatt data center southeast of Sacramento",
+      "detail": "",
+      "builders": [],
+      "stateCode": "NY",
+      "mw": 14.0,
+      "facilityId": null,
+      "sourceName": "Sacramento Bee",
+      "sourceURL": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZaWprdTNjQ0Q0U0QxTWsxTG16blJ5aHYtc1ZJUDZuSXZZVjBlYkljWHROb2ZxWWJOcFRnaXVmLTJKd2RVZDFUTEFpdUpFNjE0cWdQSlNURnVCNW9RV0MweGNTQzA2MzdhY3fSAWpBVV95cUxOc2FyTmxyUXpVNV8wMUZuQ1Vsc3hwajdSdWE2RmtiS3JPendWWXFfQ2NfSEVEZ28tOWY1d2R1UElTNmNRdVROdEl6ZEtTdGFZQWx1Q19zODhaVUVDdVp6V1NDTWZOcHVzLUZ3?oc=5"
+    },
+    {
+      "id": "54978c83792e9079",
+      "date": "2026-11-22",
+      "kind": "announcement",
+      "title": "How Amazon Plays the Long, Expensive Data Center Game That Neoclouds Can’t",
+      "detail": "",
+      "builders": [
+        "Amazon"
+      ],
+      "stateCode": null,
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "The Information",
+      "sourceURL": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORkt3LUxXYjZSOEgweWR3SHowTnJQd19PNVE3NnRVaHhhcDBQNC1vaXVibjRKRDBUVF84dEhJcDN1MTlsX1A4Q0hZelo3RmtMelhhM3lhbmtOZUNSc3VfWGRNdDNfRVQ5LXRwN01nc1lsVVNxdk9GQXYxUTNJY2EtSUFrTnpuekItcEowd0Jod3lkODNQS04wQWgwVUszd1ppem8yelZydTdKSFozamdVaGY2V0FhQQ?oc=5"
+    },
+    {
+      "id": "d97cf507704f12cf",
+      "date": "2026-11-22",
+      "kind": "announcement",
+      "title": "Elon Musk’s SpaceX is betting $74 billion on AI data centers. Texas and Arizona want to know who pays for the power",
+      "detail": "",
+      "builders": [],
+      "stateCode": "AZ",
+      "mw": null,
+      "facilityId": null,
+      "sourceName": "Yahoo Finance",
+      "sourceURL": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5"
+    },
+    {
+      "id": "38cd67921a1afcc6",
+      "date": "2026-11-20",
+      "kind": "announcement",
+      "title": "Data center debate intensifies as NYGC files application with county for 14.4-megawatt AI factory",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 14.4,
+      "facilityId": null,
+      "sourceName": "Ledger Dispatch",
+      "sourceURL": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNHUtZHRONXRtZmZpS3JyQ08xazRyUnpPZ0l3UVk4V1hRYWpCcTdOTFEzV1pTQ1BqYk9hbERwMXRpa0VQNV9sVERMU3R1OXNUbnZGZUJFZDJ2NGptMzNmWkc3eGxHN1JYOTRHSmtqZkgybW4zZVFGSEU5TFljQUY4OVpRMk5lR0hidmpfVkoxcmcxWWpVamdzYnl5MU9wajhCd1M1azhYMDIxSExMR29GVVotUjVkb2xiWEw1QTJxaE91YWphQ1Z5V2pVZ3VJVk1EMXJ2V3RFSE9qeU1UNUdncHl6WWhaYTZfR1lUMlM3dDdZNTJ1TzczM1JoWFg?oc=5"
+    },
     {
       "id": "6ba0a168d2f59c64",
       "date": "2026-11-19",
@@ -1596,84 +1679,6 @@
       "facilityId": null,
       "sourceName": "ScienceBlog.com",
       "sourceURL": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNczFObk1kU1U0MVdEcDBPellOYlZlSnJnUm5wM1RaZW5zVVhtMGdpQ0NXQmRDLXR3N05wZ3N2T0hLUWdvcHJmaEI1QUkxeEstazFzajd3VXZpNW1JZWhYT2N3Tl9MNmI3Mm9LQXlUMll1dVU0VEZzaHY0TEtvRTZyLVBIbmNLVGRYeHRrVDh5OGlGNGdLa3FWWFFXWDdxRjlSV3BhanVPUHVvcmF5a2R1aGhjRkh5SVpIMmxRdkVZVVpkTkE1UnVBV09NbFVFNVV2bVFmRTJndUgwc1paWTZKeW1zY3ZJNUVodnloMDE1X0dmSUFhUVdtbzkwZjJpb3hwUE5ndkZ6SllScUVKcFhNWTNaWFJFSlhMcGU5WU1UaVN5TzUwYmdQY2R1Q2J1QnlH?oc=5"
-    },
-    {
-      "id": "d8780857364896ef",
-      "date": "2026-09-14",
-      "kind": "milestone",
-      "title": "Edged tops out data centers in Council Bluffs, Iowa",
-      "detail": "",
-      "builders": [],
-      "stateCode": "IA",
-      "mw": 200.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/edged-tops-out-data-centers-in-council-bluffs-iowa/"
-    },
-    {
-      "id": "300f545844ddd1fb",
-      "date": "2026-09-14",
-      "kind": "announcement",
-      "title": "Thor Equities submits plans for 150MW data center in Georgia, US",
-      "detail": "",
-      "builders": [],
-      "stateCode": "GA",
-      "mw": 150.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/thor-equities-submits-plans-for-150mw-data-center-in-georgia-us/"
-    },
-    {
-      "id": "7e14e92ac55d6459",
-      "date": "2026-09-14",
-      "kind": "announcement",
-      "title": "SK Group's Ulsan AI Data Center Close to 900-Megawatt Capacity Expansion",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 900.0,
-      "facilityId": null,
-      "sourceName": "marketscreener.com",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdnZOVmEySk9kUmRmdmpTOE5pcnVOU014REo4b3FfX3QwWlk0QW0wRk9TbmhVdVRzYmNDemFXa0dndkx3UmNldHg3YzNPUHZ0bkRYNUVVLVVJVkNHTEFzMDlVMkFnc0VDcENFeXlCU201MURxaFNvWm1qLUloOFRjVThEWnRNel9JVU1GaGlLc0RVV1JvT0l4ZFJHNTJnTjZxRlNwTVJtbVl5UHF1Q1dIOXZjVTJwQ0hhQ2xpUksxYkVMV2c?oc=5"
-    },
-    {
-      "id": "1bb35ecc51c63b79",
-      "date": "2026-09-14",
-      "kind": "announcement",
-      "title": "Damac and Vodafone launch Turkish data center",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 4.0,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/damac-and-vodafone-launch-turkish-data-center/"
-    },
-    {
-      "id": "0cc430d3a543c41f",
-      "date": "2026-09-14",
-      "kind": "policy",
-      "title": "Michigan environmentalists push for statewide data center moratorium, regulations as bills stall",
-      "detail": "",
-      "builders": [],
-      "stateCode": "MI",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Planet Detroit",
-      "sourceURL": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU1JMRkZIN1A0aFl5YVpRZmMydVdPN1V0UTlIeWIzUGZCWjVOSXN4amhTYjhPZFRyejBWWXFibkpWTTU2MWdDYk9GSHd2cUtWVHV1blQ3ektXYlFMblNfS3otVVFhSTFOa3EyOG5GdmJNUUlhNnVtOXpSaS0yRUJJTlFVZVVXeWxTT2FzOHVR?oc=5"
-    },
-    {
-      "id": "5fc26aea62ad22ae",
-      "date": "2026-09-14",
-      "kind": "policy",
-      "title": "Environmentalists push Michigan lawmakers to forge ahead on moratorium and regulations for data centers",
-      "detail": "",
-      "builders": [],
-      "stateCode": "MI",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Route Fifty",
-      "sourceURL": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbjdSZWlVWm4tOTBxdldpVlEtTnNOQ2gxNGljRzJmYUFnNF9ZT3RJR0ZGdW56QU9YbEVxN1pPOXNmV0pkR01qMXBNcm9uM0RQU0RUSENEc0dwdTZ0VnViVEFpZHdUMDlPeVVYUXR4dkFtVzFYYWxvV3VlTW1heFRhOXZFcW9sQU9sLUZBMHlia1ZlZlNIRExFWVdQcU11YV9sSWI1dVZIYWNGNnM5OXVtcVJSXzM2aTNkdzNrai05bnBXRG44UTZ1LWpLb2ZCOC1idzVSRFhHYWROVW4wNnNCVE5OOG1zcjFJaVF2SkZPTTVUbWpKb0hEakF6TWhuS01nUU56c0FUMDd4TEZ0cGdqVEZB?oc=5"
     }
   ]
 }

@@ -1,7 +1,85 @@
 {
   "version": 1,
-  "updated": "2026-11-24T00:25:57Z",
+  "updated": "2026-11-26T21:59:21Z",
   "events": [
+    {
+      "id": "12b6a5cdbcb2dd11",
+      "date": "2026-11-26",
+      "kind": "announcement",
+      "title": "500MW data center project planned outside San Diego, California",
+      "detail": "",
+      "builders": [],
+      "stateCode": "CA",
+      "mw": 500.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/500mw-data-center-project-planned-outside-san-diego-california/"
+    },
+    {
+      "id": "a033b0b3a2523a73",
+      "date": "2026-11-26",
+      "kind": "announcement",
+      "title": "Pennsylvania police arrest suspects over threats to Olyphant council after controversial data center vote",
+      "detail": "",
+      "builders": [],
+      "stateCode": "PA",
+      "mw": 1000.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/pennsylvania-police-arrest-suspects-over-threats-to-olyphant-council-after-controversial-data-center-vote/"
+    },
+    {
+      "id": "f390c00a170c0304",
+      "date": "2026-11-26",
+      "kind": "announcement",
+      "title": "Etix launches 23MW data center in Bangkok, Thailand",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 23.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/etix-launches-23mw-data-center-in-bangkok-thailand/"
+    },
+    {
+      "id": "4a7693e729c5ecc0",
+      "date": "2026-11-26",
+      "kind": "announcement",
+      "title": "Fortitude Capital plans 202MW AI data center campus in Sines, Portugal",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 202.0,
+      "facilityId": null,
+      "sourceName": null,
+      "sourceURL": "https://www.datacenterdynamics.com/en/news/fortitude-capital-plans-a-202-mw-ai-campus-in-sines/"
+    },
+    {
+      "id": "4e7e156c7644d876",
+      "date": "2026-11-24",
+      "kind": "policy",
+      "title": "Judge orders North Carolina county to process permits for 750-megawatt data center",
+      "detail": "",
+      "builders": [],
+      "stateCode": "NC",
+      "mw": 750.0,
+      "facilityId": null,
+      "sourceName": "The Business Journals",
+      "sourceURL": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb3VSQU1Sakt1MktZcTg1WXlSS0cwV0J2eVowazZrSTFhZlVXN1ZMWkdkWjBhRDhpbnNZQkNxS3VwYnlic29lci1kcDFJRGptaG5WWFVpUFJvYTJOYUxDSlluVlhNUTBsTmYzN3RlanFmc3ZRZ0ttMEJYLVdmUXNlUlZ4WndPMGVkMnNTaExleVF6dTA2QmZ0ZjVqQ0lrZw?oc=5"
+    },
+    {
+      "id": "03ab3bcdde43ad83",
+      "date": "2026-11-24",
+      "kind": "announcement",
+      "title": "Applied Digital Delivers Initial 25 MW at Harwood AI Data Center Campus",
+      "detail": "",
+      "builders": [],
+      "stateCode": null,
+      "mw": 25.0,
+      "facilityId": null,
+      "sourceName": "TheEnergyMag",
+      "sourceURL": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOTRTMUF0WEFQUnhZTzhfbkQwbkMyXzFhT252U2VBRXhPVDdxZks3M3M5cGhNc3NBVWlfN0wwMWJpVzZER05jVzJUTW1tYkMwS3V1b1F1bW16Y01nOHRuTFJaTWpZNkt1clFwV1loQi00bUFvNjhuVzYyMUlZcTJpVGxNVGpjV1hoSDZJVlgzSlpIUzBQenJiOGpmNA?oc=5"
+    },
     {
       "id": "f9f4a2625b4a060c",
       "date": "2026-11-23",
@@ -1597,88 +1675,6 @@
       "policy": {
         "status": "introduced"
       }
-    },
-    {
-      "id": "4051395f7f2c8f50",
-      "date": "2026-09-17",
-      "kind": "announcement",
-      "title": "Aligned breaks ground on gigawatt-scale data center campus in Pennsylvania",
-      "detail": "",
-      "builders": [
-        "Aligned"
-      ],
-      "stateCode": "PA",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Data Center Dynamics",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUmQxbk4wRmF3eUtqSjV0WUNWUE04VXdJNVVOcS1WRnBpdzVMYnI1U3FlamU1WDdpNkVBUnJVV2FIc19wSnB2TVhONmM3OVpNUmNnZmNmNm5sbzNaX3JLeTM0VjZabkMxaUtCZFVYWGNXbmw1Y19NNjh0c2RHbW9aZ0dPZ1lSd2s2ZlRxR2ZQWTVUS1hhSmFPTkVRMXd1Q1dJS3lYNmZLS2p1bTgyLUpfUTRxZVFTSWxiQmc?oc=5"
-    },
-    {
-      "id": "12aa3f36737fdf67",
-      "date": "2026-09-17",
-      "kind": "announcement",
-      "title": "INNIO Secures 450 MW Order to Power Next-Generation Data Centers",
-      "detail": "",
-      "builders": [],
-      "stateCode": null,
-      "mw": 450.0,
-      "facilityId": null,
-      "sourceName": "Business Wire",
-      "sourceURL": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNWGMxazhKVW0wd1JHd0hiU2xhMlcwSl9PZFFUSGNwZWRqVDhfbUJmWWw1NzFDckVfLW51STlXQW1iX2tET3duQW5qQlVGOFZRdmFpc0JwSXRaUEZucnI4QkYzT3BhcTZwYmVxQU1CcDBDc09QTE9LYVh5OF84OHRrZ2EzemZxMFZjNVN5QXh2bG42UDVkN3YwX1h0eWRtdGNUWFVOWnVLenViMFhaOFJtU2p3QlRIbWpiMWNmWkx2aWdfNVZSTzIzSnBUcW1xVHMwTWlDdlp5Y0RMNVBFaVRLV054TjdLamdRYWdUSGhWRXh0bWJtRmpzT0NoNVZGWV9jUjh0MlV6Y2Z5VnoxN3lRdjZ2a3lwcFVpakRwNS1QdVRDTEJYV3N5VXREX0k3dWRjTmtoaV9mN3JwSlR4UjdWa3VGdE5VSDI3QnR2b3kxTlBqdXY0NGIyNXpNaF90RFFqOGNYb2hmTjFJc3hpel85X2Z1NEs?oc=5"
-    },
-    {
-      "id": "c403768b192b6bf3",
-      "date": "2026-09-17",
-      "kind": "announcement",
-      "title": "Google considers data center development in New Mexico",
-      "detail": "",
-      "builders": [
-        "Google"
-      ],
-      "stateCode": "NM",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": null,
-      "sourceURL": "https://www.datacenterdynamics.com/en/news/google-considers-data-center-development-in-new-mexico/"
-    },
-    {
-      "id": "2845bf21e3754dbf",
-      "date": "2026-09-17",
-      "kind": "announcement",
-      "title": "New York State recommends demanding AI data centers pay $1 million in community investment per megawatt — framework advises towns to plan fo",
-      "detail": "",
-      "builders": [],
-      "stateCode": "NY",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "Tom's Hardware",
-      "sourceURL": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxNcGVqWXhuOHF1eXVjNkFvb09Ob0lvV21EbXZfem1VRWVCVVZoWDM4QTNlZm1qNjJtcDRCS1FWMlVkVVczTDNMeG9rTFVCTHltcm9ZNDF1aUVlRktuR3duT3gxaHZhMk9wVkt0ejgxWGdFNktaY0hISXdpeXZuYXNWc081RDdSRkI3YmE0ZThMeVBIVTJ2aXJ4bFdrZGUyeDdSRUp4SXdhMnNNSVZuM3k1SHFNWmlGUjZlZUdKYTA0STNqa3pseVZBb1N0Z1J5WWpqeGZrXzAwVTJKbW5LLWdaZ0pVTmp2Z2pteXRvQmV6eXJHMmlrdmtmTlQ3Y3FNbWNkcHJJMXh5a0RvZ2tYNmxHOUFsbTN4bW9ZUWJKRTlIcUt6b2s4aXdJTFdXNHRqWUVIS01wazh5N19IQUFEVV8yTk93NGY1bnlfeDJid3RWOXVnUUkydk1wem8yWW9YMUhsbW9XWUlwU3h2ZzM5cmRpR3JR?oc=5"
-    },
-    {
-      "id": "c95c7534234c5d2f",
-      "date": "2026-09-17",
-      "kind": "announcement",
-      "title": "New York Unveils Data Center Investment Framework",
-      "detail": "",
-      "builders": [],
-      "stateCode": "NY",
-      "mw": null,
-      "facilityId": null,
-      "sourceName": "BKReader",
-      "sourceURL": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd01xYTVheWlZOV94RDlYX2FDa0dSR21peVBZalhGRVczRGhIcGVOcjhoQnVjdHlwVkswamZJM2FrRUJZaWtIVUtab1NtSWNueGtGRlFRTzgyYjNpODJkZ0JTaUthclpGV0l4aHFNSjVNamdMeTZOQUZOUkpNWnRBTUx5MUF2dUNfRTVOeWhaQy1sQ3NpQXdadkd1VGFiOHp0OWhB?oc=5"
-    },
-    {
-      "id": "6c1422efbe73b23b",
-      "date": "2026-09-16",
-      "kind": "announcement",
-      "title": "A tobacco-and-dairy county in southern Virginia killed a plan for 12 data centers and a 3,500-megawatt gas plant. Residents organized with h",
-      "detail": "",
-      "builders": [],
-      "stateCode": "VA",
-      "mw": 3500.0,
-      "facilityId": null,
-      "sourceName": "ScienceBlog.com",
-      "sourceURL": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNczFObk1kU1U0MVdEcDBPellOYlZlSnJnUm5wM1RaZW5zVVhtMGdpQ0NXQmRDLXR3N05wZ3N2T0hLUWdvcHJmaEI1QUkxeEstazFzajd3VXZpNW1JZWhYT2N3Tl9MNmI3Mm9LQXlUMll1dVU0VEZzaHY0TEtvRTZyLVBIbmNLVGRYeHRrVDh5OGlGNGdLa3FWWFFXWDdxRjlSV3BhanVPUHVvcmF5a2R1aGhjRkh5SVpIMmxRdkVZVVpkTkE1UnVBV09NbFVFNVV2bVFmRTJndUgwc1paWTZKeW1zY3ZJNUVodnloMDE1X0dmSUFhUVdtbzkwZjJpb3hwUE5ndkZ6SllScUVKcFhNWTNaWFJFSlhMcGU5WU1UaVN5TzUwYmdQY2R1Q2J1QnlH?oc=5"
     }
   ]
 }
